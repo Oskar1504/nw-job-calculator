@@ -1,0 +1,1602 @@
+[
+  {
+    "level": "1",
+    "exp": "100",
+    "exp (total)": "100",
+    "character exp": "20",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "2",
+    "exp": "115",
+    "exp (total)": "215",
+    "character exp": "22",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "3",
+    "exp": "130",
+    "exp (total)": "345",
+    "character exp": "24",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "4",
+    "exp": "145",
+    "exp (total)": "490",
+    "character exp": "26",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "5",
+    "exp": "160",
+    "exp (total)": "650",
+    "character exp": "28",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "6",
+    "exp": "175",
+    "exp (total)": "825",
+    "character exp": "30",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "7",
+    "exp": "190",
+    "exp (total)": "1,015",
+    "character exp": "32",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "8",
+    "exp": "205",
+    "exp (total)": "1,220",
+    "character exp": "34",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "9",
+    "exp": "220",
+    "exp (total)": "1,440",
+    "character exp": "36",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "10",
+    "exp": "235",
+    "exp (total)": "1,675",
+    "character exp": "38",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "11",
+    "exp": "250",
+    "exp (total)": "1,925",
+    "character exp": "40",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "12",
+    "exp": "265",
+    "exp (total)": "2,190",
+    "character exp": "42",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "13",
+    "exp": "280",
+    "exp (total)": "2,470",
+    "character exp": "44",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "14",
+    "exp": "295",
+    "exp (total)": "2,765",
+    "character exp": "46",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "15",
+    "exp": "310",
+    "exp (total)": "3,075",
+    "character exp": "48",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "16",
+    "exp": "325",
+    "exp (total)": "3,400",
+    "character exp": "52",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "17",
+    "exp": "340",
+    "exp (total)": "3,740",
+    "character exp": "56",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "18",
+    "exp": "355",
+    "exp (total)": "4,095",
+    "character exp": "60",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "19",
+    "exp": "370",
+    "exp (total)": "4,465",
+    "character exp": "64",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "20",
+    "exp": "385",
+    "exp (total)": "4,850",
+    "character exp": "68",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "21",
+    "exp": "400",
+    "exp (total)": "5,250",
+    "character exp": "72",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "22",
+    "exp": "415",
+    "exp (total)": "5,665",
+    "character exp": "76",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "23",
+    "exp": "430",
+    "exp (total)": "6,095",
+    "character exp": "80",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "24",
+    "exp": "445",
+    "exp (total)": "6,540",
+    "character exp": "84",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "25",
+    "exp": "460",
+    "exp (total)": "7,000",
+    "character exp": "88",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "26",
+    "exp": "475",
+    "exp (total)": "7,475",
+    "character exp": "92",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "27",
+    "exp": "490",
+    "exp (total)": "7,965",
+    "character exp": "96",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "28",
+    "exp": "505",
+    "exp (total)": "8,470",
+    "character exp": "100",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "29",
+    "exp": "520",
+    "exp (total)": "8,990",
+    "character exp": "104",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "30",
+    "exp": "535",
+    "exp (total)": "9,525",
+    "character exp": "108",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "31",
+    "exp": "550",
+    "exp (total)": "10,075",
+    "character exp": "112",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "32",
+    "exp": "565",
+    "exp (total)": "10,640",
+    "character exp": "116",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "33",
+    "exp": "580",
+    "exp (total)": "11,220",
+    "character exp": "120",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "34",
+    "exp": "595",
+    "exp (total)": "11,815",
+    "character exp": "124",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "35",
+    "exp": "610",
+    "exp (total)": "12,425",
+    "character exp": "128",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "36",
+    "exp": "625",
+    "exp (total)": "13,050",
+    "character exp": "132",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "37",
+    "exp": "640",
+    "exp (total)": "13,690",
+    "character exp": "136",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "38",
+    "exp": "655",
+    "exp (total)": "14,345",
+    "character exp": "140",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "39",
+    "exp": "670",
+    "exp (total)": "15,015",
+    "character exp": "144",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "40",
+    "exp": "685",
+    "exp (total)": "15,700",
+    "character exp": "148",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "41",
+    "exp": "700",
+    "exp (total)": "16,400",
+    "character exp": "154",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "42",
+    "exp": "715",
+    "exp (total)": "17,115",
+    "character exp": "160",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "43",
+    "exp": "730",
+    "exp (total)": "17,845",
+    "character exp": "166",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "44",
+    "exp": "745",
+    "exp (total)": "18,590",
+    "character exp": "172",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "45",
+    "exp": "760",
+    "exp (total)": "19,350",
+    "character exp": "178",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "46",
+    "exp": "775",
+    "exp (total)": "20,125",
+    "character exp": "184",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "47",
+    "exp": "790",
+    "exp (total)": "20,915",
+    "character exp": "190",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "48",
+    "exp": "805",
+    "exp (total)": "21,720",
+    "character exp": "196",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "49",
+    "exp": "820",
+    "exp (total)": "22,540",
+    "character exp": "202",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "50",
+    "exp": "835",
+    "exp (total)": "23,375",
+    "character exp": "208",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "51",
+    "exp": "1,200",
+    "exp (total)": "24,575",
+    "character exp": "216",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "52",
+    "exp": "1,280",
+    "exp (total)": "25,855",
+    "character exp": "224",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "53",
+    "exp": "1,360",
+    "exp (total)": "27,215",
+    "character exp": "232",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "54",
+    "exp": "1,440",
+    "exp (total)": "28,655",
+    "character exp": "240",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "55",
+    "exp": "1,520",
+    "exp (total)": "30,175",
+    "character exp": "248",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "56",
+    "exp": "1,600",
+    "exp (total)": "31,775",
+    "character exp": "256",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "57",
+    "exp": "1,680",
+    "exp (total)": "33,455",
+    "character exp": "264",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "58",
+    "exp": "1,760",
+    "exp (total)": "35,215",
+    "character exp": "272",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "59",
+    "exp": "1,840",
+    "exp (total)": "37,055",
+    "character exp": "280",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "60",
+    "exp": "1,920",
+    "exp (total)": "38,975",
+    "character exp": "288",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "61",
+    "exp": "2,000",
+    "exp (total)": "40,975",
+    "character exp": "296",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "62",
+    "exp": "2,080",
+    "exp (total)": "43,055",
+    "character exp": "304",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "63",
+    "exp": "2,160",
+    "exp (total)": "45,215",
+    "character exp": "312",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "64",
+    "exp": "2,240",
+    "exp (total)": "47,455",
+    "character exp": "320",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "65",
+    "exp": "2,320",
+    "exp (total)": "49,775",
+    "character exp": "328",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "66",
+    "exp": "2,400",
+    "exp (total)": "52,175",
+    "character exp": "336",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "67",
+    "exp": "2,480",
+    "exp (total)": "54,655",
+    "character exp": "344",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "68",
+    "exp": "2,560",
+    "exp (total)": "57,215",
+    "character exp": "352",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "69",
+    "exp": "2,640",
+    "exp (total)": "59,855",
+    "character exp": "360",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "70",
+    "exp": "2,720",
+    "exp (total)": "62,575",
+    "character exp": "368",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "71",
+    "exp": "2,800",
+    "exp (total)": "65,375",
+    "character exp": "376",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "72",
+    "exp": "2,880",
+    "exp (total)": "68,255",
+    "character exp": "384",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "73",
+    "exp": "2,960",
+    "exp (total)": "71,215",
+    "character exp": "392",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "74",
+    "exp": "3,040",
+    "exp (total)": "74,255",
+    "character exp": "400",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "75",
+    "exp": "3,120",
+    "exp (total)": "77,375",
+    "character exp": "408",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "76",
+    "exp": "3,200",
+    "exp (total)": "80,575",
+    "character exp": "418",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "77",
+    "exp": "3,280",
+    "exp (total)": "83,855",
+    "character exp": "428",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "78",
+    "exp": "3,360",
+    "exp (total)": "87,215",
+    "character exp": "438",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "79",
+    "exp": "3,440",
+    "exp (total)": "90,655",
+    "character exp": "448",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "80",
+    "exp": "3,520",
+    "exp (total)": "94,175",
+    "character exp": "458",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "81",
+    "exp": "3,600",
+    "exp (total)": "97,775",
+    "character exp": "468",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "82",
+    "exp": "3,680",
+    "exp (total)": "101,455",
+    "character exp": "478",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "83",
+    "exp": "3,760",
+    "exp (total)": "105,215",
+    "character exp": "488",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "84",
+    "exp": "3,840",
+    "exp (total)": "109,055",
+    "character exp": "498",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "85",
+    "exp": "3,920",
+    "exp (total)": "112,975",
+    "character exp": "508",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "86",
+    "exp": "4,000",
+    "exp (total)": "116,975",
+    "character exp": "518",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "87",
+    "exp": "4,080",
+    "exp (total)": "121,055",
+    "character exp": "528",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "88",
+    "exp": "4,160",
+    "exp (total)": "125,215",
+    "character exp": "538",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "89",
+    "exp": "4,240",
+    "exp (total)": "129,455",
+    "character exp": "548",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "90",
+    "exp": "4,320",
+    "exp (total)": "133,775",
+    "character exp": "558",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "91",
+    "exp": "4,400",
+    "exp (total)": "138,175",
+    "character exp": "568",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "92",
+    "exp": "4,480",
+    "exp (total)": "142,655",
+    "character exp": "578",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "93",
+    "exp": "4,560",
+    "exp (total)": "147,215",
+    "character exp": "588",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "94",
+    "exp": "4,640",
+    "exp (total)": "151,855",
+    "character exp": "598",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "95",
+    "exp": "4,720",
+    "exp (total)": "156,575",
+    "character exp": "608",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "96",
+    "exp": "4,800",
+    "exp (total)": "161,375",
+    "character exp": "618",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "97",
+    "exp": "4,880",
+    "exp (total)": "166,255",
+    "character exp": "628",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "98",
+    "exp": "4,960",
+    "exp (total)": "171,215",
+    "character exp": "638",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "99",
+    "exp": "5,040",
+    "exp (total)": "176,255",
+    "character exp": "648",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "100",
+    "exp": "5,120",
+    "exp (total)": "181,375",
+    "character exp": "658",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "101",
+    "exp": "9,600",
+    "exp (total)": "190,975",
+    "character exp": "670",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "102",
+    "exp": "10,080",
+    "exp (total)": "201,055",
+    "character exp": "682",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "103",
+    "exp": "10,560",
+    "exp (total)": "211,615",
+    "character exp": "694",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "104",
+    "exp": "11,040",
+    "exp (total)": "222,655",
+    "character exp": "706",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "105",
+    "exp": "11,520",
+    "exp (total)": "234,175",
+    "character exp": "718",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "106",
+    "exp": "12,000",
+    "exp (total)": "246,175",
+    "character exp": "730",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "107",
+    "exp": "12,480",
+    "exp (total)": "258,655",
+    "character exp": "742",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "108",
+    "exp": "12,960",
+    "exp (total)": "271,615",
+    "character exp": "754",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "109",
+    "exp": "13,440",
+    "exp (total)": "285,055",
+    "character exp": "766",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "110",
+    "exp": "13,920",
+    "exp (total)": "298,975",
+    "character exp": "778",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "111",
+    "exp": "14,400",
+    "exp (total)": "313,375",
+    "character exp": "790",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "112",
+    "exp": "14,880",
+    "exp (total)": "328,255",
+    "character exp": "802",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "113",
+    "exp": "15,360",
+    "exp (total)": "343,615",
+    "character exp": "814",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "114",
+    "exp": "15,840",
+    "exp (total)": "359,455",
+    "character exp": "826",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "115",
+    "exp": "16,320",
+    "exp (total)": "375,775",
+    "character exp": "838",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "116",
+    "exp": "16,800",
+    "exp (total)": "392,575",
+    "character exp": "850",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "117",
+    "exp": "17,280",
+    "exp (total)": "409,855",
+    "character exp": "862",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "118",
+    "exp": "17,760",
+    "exp (total)": "427,615",
+    "character exp": "874",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "119",
+    "exp": "18,240",
+    "exp (total)": "445,855",
+    "character exp": "886",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "120",
+    "exp": "18,720",
+    "exp (total)": "464,575",
+    "character exp": "898",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "121",
+    "exp": "19,200",
+    "exp (total)": "483,775",
+    "character exp": "910",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "122",
+    "exp": "19,680",
+    "exp (total)": "503,455",
+    "character exp": "922",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "123",
+    "exp": "20,160",
+    "exp (total)": "523,615",
+    "character exp": "934",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "124",
+    "exp": "20,640",
+    "exp (total)": "544,255",
+    "character exp": "946",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "125",
+    "exp": "21,120",
+    "exp (total)": "565,375",
+    "character exp": "958",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "126",
+    "exp": "21,600",
+    "exp (total)": "586,975",
+    "character exp": "972",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "127",
+    "exp": "22,080",
+    "exp (total)": "609,055",
+    "character exp": "986",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "128",
+    "exp": "22,560",
+    "exp (total)": "631,615",
+    "character exp": "1,000",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "129",
+    "exp": "23,040",
+    "exp (total)": "654,655",
+    "character exp": "1,014",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "130",
+    "exp": "23,520",
+    "exp (total)": "678,175",
+    "character exp": "1,028",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "131",
+    "exp": "24,000",
+    "exp (total)": "702,175",
+    "character exp": "1,042",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "132",
+    "exp": "24,480",
+    "exp (total)": "726,655",
+    "character exp": "1,056",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "133",
+    "exp": "24,960",
+    "exp (total)": "751,615",
+    "character exp": "1,070",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "134",
+    "exp": "25,440",
+    "exp (total)": "777,055",
+    "character exp": "1,084",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "135",
+    "exp": "25,920",
+    "exp (total)": "802,975",
+    "character exp": "1,098",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "136",
+    "exp": "26,400",
+    "exp (total)": "829,375",
+    "character exp": "1,112",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "137",
+    "exp": "26,880",
+    "exp (total)": "856,255",
+    "character exp": "1,126",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "138",
+    "exp": "27,360",
+    "exp (total)": "883,615",
+    "character exp": "1,140",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "139",
+    "exp": "27,840",
+    "exp (total)": "911,455",
+    "character exp": "1,154",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "5 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "140",
+    "exp": "28,320",
+    "exp (total)": "939,775",
+    "character exp": "1,168",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "10 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "141",
+    "exp": "28,800",
+    "exp (total)": "968,575",
+    "character exp": "1,182",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "10 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "142",
+    "exp": "29,280",
+    "exp (total)": "997,855",
+    "character exp": "1,196",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "10 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "143",
+    "exp": "29,760",
+    "exp (total)": "1,027,615",
+    "character exp": "1,210",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "10 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "144",
+    "exp": "30,240",
+    "exp (total)": "1,057,855",
+    "character exp": "1,224",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "10 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "145",
+    "exp": "30,720",
+    "exp (total)": "1,088,575",
+    "character exp": "1,238",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "10 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "146",
+    "exp": "31,200",
+    "exp (total)": "1,119,775",
+    "character exp": "1,252",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "10 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "147",
+    "exp": "31,680",
+    "exp (total)": "1,151,455",
+    "character exp": "1,266",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "10 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "148",
+    "exp": "32,160",
+    "exp (total)": "1,183,615",
+    "character exp": "1,280",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "10 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "149",
+    "exp": "32,640",
+    "exp (total)": "1,216,255",
+    "character exp": "1,294",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "10 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "150",
+    "exp": "33,120",
+    "exp (total)": "1,249,375",
+    "character exp": "1,308",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "15 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "151",
+    "exp": "70,400",
+    "exp (total)": "1,319,775",
+    "character exp": "1,322",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "15 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "152",
+    "exp": "72,960",
+    "exp (total)": "1,392,735",
+    "character exp": "1,336",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "15 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "153",
+    "exp": "75,520",
+    "exp (total)": "1,468,255",
+    "character exp": "1,350",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "15 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "154",
+    "exp": "78,080",
+    "exp (total)": "1,546,335",
+    "character exp": "1,364",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "15 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "155",
+    "exp": "80,640",
+    "exp (total)": "1,626,975",
+    "character exp": "1,378",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "15 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "156",
+    "exp": "83,200",
+    "exp (total)": "1,710,175",
+    "character exp": "1,392",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "15 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "157",
+    "exp": "85,760",
+    "exp (total)": "1,795,935",
+    "character exp": "1,406",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "15 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "158",
+    "exp": "88,320",
+    "exp (total)": "1,884,255",
+    "character exp": "1,420",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "15 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "159",
+    "exp": "90,880",
+    "exp (total)": "1,975,135",
+    "character exp": "1,434",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "15 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "160",
+    "exp": "93,440",
+    "exp (total)": "2,068,575",
+    "character exp": "1,448",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "20 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "161",
+    "exp": "96,000",
+    "exp (total)": "2,164,575",
+    "character exp": "1,464",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "20 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "162",
+    "exp": "98,560",
+    "exp (total)": "2,263,135",
+    "character exp": "1,480",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "20 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "163",
+    "exp": "101,120",
+    "exp (total)": "2,364,255",
+    "character exp": "1,496",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "20 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "164",
+    "exp": "103,680",
+    "exp (total)": "2,467,935",
+    "character exp": "1,512",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "20 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "165",
+    "exp": "106,240",
+    "exp (total)": "2,574,175",
+    "character exp": "1,528",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "20 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "166",
+    "exp": "108,800",
+    "exp (total)": "2,682,975",
+    "character exp": "1,544",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "20 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "167",
+    "exp": "111,360",
+    "exp (total)": "2,794,335",
+    "character exp": "1,560",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "20 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "168",
+    "exp": "113,920",
+    "exp (total)": "2,908,255",
+    "character exp": "1,576",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "20 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "169",
+    "exp": "116,480",
+    "exp (total)": "3,024,735",
+    "character exp": "1,592",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "20 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "170",
+    "exp": "119,040",
+    "exp (total)": "3,143,775",
+    "character exp": "1,608",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "25 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "171",
+    "exp": "121,600",
+    "exp (total)": "3,265,375",
+    "character exp": "1,624",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "25 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "172",
+    "exp": "124,160",
+    "exp (total)": "3,389,535",
+    "character exp": "1,640",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "25 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "173",
+    "exp": "126,720",
+    "exp (total)": "3,516,255",
+    "character exp": "1,656",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "25 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "174",
+    "exp": "129,280",
+    "exp (total)": "3,645,535",
+    "character exp": "1,672",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "25 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "175",
+    "exp": "131,840",
+    "exp (total)": "3,777,375",
+    "character exp": "1,688",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "25 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "176",
+    "exp": "134,400",
+    "exp (total)": "3,911,775",
+    "character exp": "1,706",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "25 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "177",
+    "exp": "136,960",
+    "exp (total)": "4,048,735",
+    "character exp": "1,724",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "25 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "178",
+    "exp": "139,520",
+    "exp (total)": "4,188,255",
+    "character exp": "1,742",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "25 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "179",
+    "exp": "142,080",
+    "exp (total)": "4,330,335",
+    "character exp": "1,760",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "25 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "180",
+    "exp": "144,640",
+    "exp (total)": "4,474,975",
+    "character exp": "1,778",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "30 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "181",
+    "exp": "147,200",
+    "exp (total)": "4,622,175",
+    "character exp": "1,796",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "30 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "182",
+    "exp": "149,760",
+    "exp (total)": "4,771,935",
+    "character exp": "1,814",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "30 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "183",
+    "exp": "152,320",
+    "exp (total)": "4,924,255",
+    "character exp": "1,832",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "30 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "184",
+    "exp": "154,880",
+    "exp (total)": "5,079,135",
+    "character exp": "1,850",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "30 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "185",
+    "exp": "157,440",
+    "exp (total)": "5,236,575",
+    "character exp": "1,868",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "30 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "186",
+    "exp": "160,000",
+    "exp (total)": "5,396,575",
+    "character exp": "1,886",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "30 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "187",
+    "exp": "162,560",
+    "exp (total)": "5,559,135",
+    "character exp": "1,904",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "30 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "188",
+    "exp": "165,120",
+    "exp (total)": "5,724,255",
+    "character exp": "1,922",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "30 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "189",
+    "exp": "167,680",
+    "exp (total)": "5,891,935",
+    "character exp": "1,940",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "30 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "190",
+    "exp": "170,240",
+    "exp (total)": "6,062,175",
+    "character exp": "1,958",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "35 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "191",
+    "exp": "172,800",
+    "exp (total)": "6,234,975",
+    "character exp": "1,978",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "35 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "192",
+    "exp": "175,360",
+    "exp (total)": "6,410,335",
+    "character exp": "1,998",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "35 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "193",
+    "exp": "177,920",
+    "exp (total)": "6,588,255",
+    "character exp": "2,018",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "35 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "194",
+    "exp": "180,480",
+    "exp (total)": "6,768,735",
+    "character exp": "2,038",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "35 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "195",
+    "exp": "183,040",
+    "exp (total)": "6,951,775",
+    "character exp": "2,058",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "35 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "196",
+    "exp": "185,600",
+    "exp (total)": "7,137,375",
+    "character exp": "2,078",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "35 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "197",
+    "exp": "188,160",
+    "exp (total)": "7,325,535",
+    "character exp": "2,098",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "35 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "198",
+    "exp": "190,720",
+    "exp (total)": "7,516,255",
+    "character exp": "2,118",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "35 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "199",
+    "exp": "193,280",
+    "exp (total)": "7,709,535",
+    "character exp": "2,138",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "35 — 0 — 0 — 0 — 0"
+  },
+  {
+    "level": "200",
+    "exp": "195,840",
+    "exp (total)": "7,905,375",
+    "character exp": "2,158",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "40 — 0 — 0 — 0 — 0"
+  }
+]

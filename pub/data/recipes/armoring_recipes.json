@@ -1,0 +1,50 @@
+[
+  {
+    "name":"Shoes iron",
+    "experience":108,
+    "ingredients":[
+      {
+        "name":"iron",
+        "items":["iron"],
+        "selectedItem":"iron",
+        "amount":5
+      },
+      {
+        "name":"leather",
+        "items":["leather"],
+        "selectedItem":"leather",
+        "amount":3
+      },
+      {
+        "name":"cloth",
+        "items":["cloth"],
+        "selectedItem":"cloth",
+        "amount":1
+      }
+    ]
+  },
+  {
+    "name":"Shoes steel",
+    "experience":270,
+    "ingredients":[
+      {
+        "name":"Metal",
+        "selectedItem":"iron_2",
+        "amount":5,
+        "items":["iron_2"]
+      },
+      {
+        "name":"leather",
+        "items":["leather","leather_2"],
+        "selectedItem":"leather",
+        "amount":3
+      },
+      {
+        "name":"cloth",
+        "items":["cloth"],
+        "selectedItem":"cloth",
+        "amount":1
+      }
+    ]
+  }
+]

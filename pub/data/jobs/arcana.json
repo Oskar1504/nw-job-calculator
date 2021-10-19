@@ -1,0 +1,1802 @@
+[
+  {
+    "level": "1",
+    "exp": "100",
+    "exp (total)": "100",
+    "character exp": "10",
+    "extra items chance": "0.10%",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 5 — 0 — 0 — 0"
+  },
+  {
+    "level": "2",
+    "exp": "105",
+    "exp (total)": "205",
+    "character exp": "11",
+    "extra items chance": "0.20%",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 5 — 0 — 0 — 0"
+  },
+  {
+    "level": "3",
+    "exp": "110",
+    "exp (total)": "315",
+    "character exp": "12",
+    "extra items chance": "0.30%",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 5 — 0 — 0 — 0"
+  },
+  {
+    "level": "4",
+    "exp": "115",
+    "exp (total)": "430",
+    "character exp": "13",
+    "extra items chance": "0.40%",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 5 — 0 — 0 — 0"
+  },
+  {
+    "level": "5",
+    "exp": "120",
+    "exp (total)": "550",
+    "character exp": "14",
+    "extra items chance": "0.50%",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 10 — 0 — 0 — 0"
+  },
+  {
+    "level": "6",
+    "exp": "125",
+    "exp (total)": "675",
+    "character exp": "15",
+    "extra items chance": "0.60%",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 10 — 0 — 0 — 0"
+  },
+  {
+    "level": "7",
+    "exp": "130",
+    "exp (total)": "805",
+    "character exp": "16",
+    "extra items chance": "0.70%",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 10 — 0 — 0 — 0"
+  },
+  {
+    "level": "8",
+    "exp": "135",
+    "exp (total)": "940",
+    "character exp": "17",
+    "extra items chance": "0.80%",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 10 — 0 — 0 — 0"
+  },
+  {
+    "level": "9",
+    "exp": "140",
+    "exp (total)": "1,080",
+    "character exp": "18",
+    "extra items chance": "0.90%",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 10 — 0 — 0 — 0"
+  },
+  {
+    "level": "10",
+    "exp": "145",
+    "exp (total)": "1,225",
+    "character exp": "19",
+    "extra items chance": "1.00%",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 15 — 0 — 0 — 0"
+  },
+  {
+    "level": "11",
+    "exp": "150",
+    "exp (total)": "1,375",
+    "character exp": "20",
+    "extra items chance": "1.10%",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 15 — 0 — 0 — 0"
+  },
+  {
+    "level": "12",
+    "exp": "155",
+    "exp (total)": "1,530",
+    "character exp": "21",
+    "extra items chance": "1.20%",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 15 — 0 — 0 — 0"
+  },
+  {
+    "level": "13",
+    "exp": "160",
+    "exp (total)": "1,690",
+    "character exp": "22",
+    "extra items chance": "1.30%",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 15 — 0 — 0 — 0"
+  },
+  {
+    "level": "14",
+    "exp": "165",
+    "exp (total)": "1,855",
+    "character exp": "23",
+    "extra items chance": "1.40%",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 15 — 0 — 0 — 0"
+  },
+  {
+    "level": "15",
+    "exp": "170",
+    "exp (total)": "2,025",
+    "character exp": "24",
+    "extra items chance": "1.50%",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 20 — 0 — 0 — 0"
+  },
+  {
+    "level": "16",
+    "exp": "175",
+    "exp (total)": "2,200",
+    "character exp": "26",
+    "extra items chance": "1.60%",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 20 — 0 — 0 — 0"
+  },
+  {
+    "level": "17",
+    "exp": "180",
+    "exp (total)": "2,380",
+    "character exp": "28",
+    "extra items chance": "1.70%",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 20 — 0 — 0 — 0"
+  },
+  {
+    "level": "18",
+    "exp": "185",
+    "exp (total)": "2,565",
+    "character exp": "30",
+    "extra items chance": "1.80%",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 20 — 0 — 0 — 0"
+  },
+  {
+    "level": "19",
+    "exp": "190",
+    "exp (total)": "2,755",
+    "character exp": "32",
+    "extra items chance": "1.90%",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 20 — 0 — 0 — 0"
+  },
+  {
+    "level": "20",
+    "exp": "195",
+    "exp (total)": "2,950",
+    "character exp": "34",
+    "extra items chance": "2.00%",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 25 — 0 — 0 — 0"
+  },
+  {
+    "level": "21",
+    "exp": "200",
+    "exp (total)": "3,150",
+    "character exp": "36",
+    "extra items chance": "2.10%",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 25 — 0 — 0 — 0"
+  },
+  {
+    "level": "22",
+    "exp": "205",
+    "exp (total)": "3,355",
+    "character exp": "38",
+    "extra items chance": "2.20%",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 25 — 0 — 0 — 0"
+  },
+  {
+    "level": "23",
+    "exp": "210",
+    "exp (total)": "3,565",
+    "character exp": "40",
+    "extra items chance": "2.30%",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 25 — 0 — 0 — 0"
+  },
+  {
+    "level": "24",
+    "exp": "215",
+    "exp (total)": "3,780",
+    "character exp": "42",
+    "extra items chance": "2.40%",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 25 — 0 — 0 — 0"
+  },
+  {
+    "level": "25",
+    "exp": "220",
+    "exp (total)": "4,000",
+    "character exp": "44",
+    "extra items chance": "2.50%",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 30 — 0 — 0 — 0"
+  },
+  {
+    "level": "26",
+    "exp": "225",
+    "exp (total)": "4,225",
+    "character exp": "46",
+    "extra items chance": "2.60%",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 30 — 0 — 0 — 0"
+  },
+  {
+    "level": "27",
+    "exp": "230",
+    "exp (total)": "4,455",
+    "character exp": "48",
+    "extra items chance": "2.70%",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 30 — 0 — 0 — 0"
+  },
+  {
+    "level": "28",
+    "exp": "235",
+    "exp (total)": "4,690",
+    "character exp": "50",
+    "extra items chance": "2.80%",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 30 — 0 — 0 — 0"
+  },
+  {
+    "level": "29",
+    "exp": "240",
+    "exp (total)": "4,930",
+    "character exp": "52",
+    "extra items chance": "2.90%",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 30 — 0 — 0 — 0"
+  },
+  {
+    "level": "30",
+    "exp": "245",
+    "exp (total)": "5,175",
+    "character exp": "54",
+    "extra items chance": "3.00%",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 35 — 0 — 0 — 0"
+  },
+  {
+    "level": "31",
+    "exp": "250",
+    "exp (total)": "5,425",
+    "character exp": "56",
+    "extra items chance": "3.10%",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 35 — 0 — 0 — 0"
+  },
+  {
+    "level": "32",
+    "exp": "255",
+    "exp (total)": "5,680",
+    "character exp": "58",
+    "extra items chance": "3.20%",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 35 — 0 — 0 — 0"
+  },
+  {
+    "level": "33",
+    "exp": "260",
+    "exp (total)": "5,940",
+    "character exp": "60",
+    "extra items chance": "3.30%",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 35 — 0 — 0 — 0"
+  },
+  {
+    "level": "34",
+    "exp": "265",
+    "exp (total)": "6,205",
+    "character exp": "62",
+    "extra items chance": "3.40%",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 35 — 0 — 0 — 0"
+  },
+  {
+    "level": "35",
+    "exp": "270",
+    "exp (total)": "6,475",
+    "character exp": "64",
+    "extra items chance": "3.50%",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 40 — 0 — 0 — 0"
+  },
+  {
+    "level": "36",
+    "exp": "275",
+    "exp (total)": "6,750",
+    "character exp": "66",
+    "extra items chance": "3.60%",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 40 — 0 — 0 — 0"
+  },
+  {
+    "level": "37",
+    "exp": "280",
+    "exp (total)": "7,030",
+    "character exp": "68",
+    "extra items chance": "3.70%",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 40 — 0 — 0 — 0"
+  },
+  {
+    "level": "38",
+    "exp": "285",
+    "exp (total)": "7,315",
+    "character exp": "70",
+    "extra items chance": "3.80%",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 40 — 0 — 0 — 0"
+  },
+  {
+    "level": "39",
+    "exp": "290",
+    "exp (total)": "7,605",
+    "character exp": "72",
+    "extra items chance": "3.90%",
+    "min gs bonus (t1 — t5)": "0 — 0 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 40 — 0 — 0 — 0"
+  },
+  {
+    "level": "40",
+    "exp": "295",
+    "exp (total)": "7,900",
+    "character exp": "74",
+    "extra items chance": "4.00%",
+    "min gs bonus (t1 — t5)": "0 — 5 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 45 — 0 — 0 — 0"
+  },
+  {
+    "level": "41",
+    "exp": "300",
+    "exp (total)": "8,200",
+    "character exp": "77",
+    "extra items chance": "4.10%",
+    "min gs bonus (t1 — t5)": "0 — 5 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 45 — 0 — 0 — 0"
+  },
+  {
+    "level": "42",
+    "exp": "305",
+    "exp (total)": "8,505",
+    "character exp": "80",
+    "extra items chance": "4.20%",
+    "min gs bonus (t1 — t5)": "0 — 5 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 45 — 0 — 0 — 0"
+  },
+  {
+    "level": "43",
+    "exp": "310",
+    "exp (total)": "8,815",
+    "character exp": "83",
+    "extra items chance": "4.30%",
+    "min gs bonus (t1 — t5)": "0 — 5 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 45 — 0 — 0 — 0"
+  },
+  {
+    "level": "44",
+    "exp": "315",
+    "exp (total)": "9,130",
+    "character exp": "86",
+    "extra items chance": "4.40%",
+    "min gs bonus (t1 — t5)": "0 — 5 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 45 — 0 — 0 — 0"
+  },
+  {
+    "level": "45",
+    "exp": "320",
+    "exp (total)": "9,450",
+    "character exp": "89",
+    "extra items chance": "4.50%",
+    "min gs bonus (t1 — t5)": "0 — 5 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 50 — 0 — 0 — 0"
+  },
+  {
+    "level": "46",
+    "exp": "325",
+    "exp (total)": "9,775",
+    "character exp": "92",
+    "extra items chance": "4.60%",
+    "min gs bonus (t1 — t5)": "0 — 5 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 50 — 0 — 0 — 0"
+  },
+  {
+    "level": "47",
+    "exp": "330",
+    "exp (total)": "10,105",
+    "character exp": "95",
+    "extra items chance": "4.70%",
+    "min gs bonus (t1 — t5)": "0 — 5 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 50 — 0 — 0 — 0"
+  },
+  {
+    "level": "48",
+    "exp": "335",
+    "exp (total)": "10,440",
+    "character exp": "98",
+    "extra items chance": "4.80%",
+    "min gs bonus (t1 — t5)": "0 — 5 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 50 — 0 — 0 — 0"
+  },
+  {
+    "level": "49",
+    "exp": "340",
+    "exp (total)": "10,780",
+    "character exp": "101",
+    "extra items chance": "4.90%",
+    "min gs bonus (t1 — t5)": "0 — 5 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 50 — 0 — 0 — 0"
+  },
+  {
+    "level": "50",
+    "exp": "345",
+    "exp (total)": "11,125",
+    "character exp": "104",
+    "extra items chance": "5.00%",
+    "min gs bonus (t1 — t5)": "0 — 10 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 55 — 5 — 0 — 0"
+  },
+  {
+    "level": "51",
+    "exp": "500",
+    "exp (total)": "11,625",
+    "character exp": "108",
+    "extra items chance": "5.10%",
+    "min gs bonus (t1 — t5)": "0 — 10 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 55 — 5 — 0 — 0"
+  },
+  {
+    "level": "52",
+    "exp": "550",
+    "exp (total)": "12,175",
+    "character exp": "112",
+    "extra items chance": "5.20%",
+    "min gs bonus (t1 — t5)": "0 — 10 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 55 — 5 — 0 — 0"
+  },
+  {
+    "level": "53",
+    "exp": "600",
+    "exp (total)": "12,775",
+    "character exp": "116",
+    "extra items chance": "5.30%",
+    "min gs bonus (t1 — t5)": "0 — 10 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 55 — 5 — 0 — 0"
+  },
+  {
+    "level": "54",
+    "exp": "650",
+    "exp (total)": "13,425",
+    "character exp": "120",
+    "extra items chance": "5.40%",
+    "min gs bonus (t1 — t5)": "0 — 10 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 55 — 5 — 0 — 0"
+  },
+  {
+    "level": "55",
+    "exp": "700",
+    "exp (total)": "14,125",
+    "character exp": "124",
+    "extra items chance": "5.50%",
+    "min gs bonus (t1 — t5)": "0 — 10 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 60 — 10 — 0 — 0"
+  },
+  {
+    "level": "56",
+    "exp": "750",
+    "exp (total)": "14,875",
+    "character exp": "128",
+    "extra items chance": "5.60%",
+    "min gs bonus (t1 — t5)": "0 — 10 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 60 — 10 — 0 — 0"
+  },
+  {
+    "level": "57",
+    "exp": "800",
+    "exp (total)": "15,675",
+    "character exp": "132",
+    "extra items chance": "5.70%",
+    "min gs bonus (t1 — t5)": "0 — 10 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 60 — 10 — 0 — 0"
+  },
+  {
+    "level": "58",
+    "exp": "850",
+    "exp (total)": "16,525",
+    "character exp": "136",
+    "extra items chance": "5.80%",
+    "min gs bonus (t1 — t5)": "0 — 10 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 60 — 10 — 0 — 0"
+  },
+  {
+    "level": "59",
+    "exp": "900",
+    "exp (total)": "17,425",
+    "character exp": "140",
+    "extra items chance": "5.90%",
+    "min gs bonus (t1 — t5)": "0 — 15 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 60 — 10 — 0 — 0"
+  },
+  {
+    "level": "60",
+    "exp": "950",
+    "exp (total)": "18,375",
+    "character exp": "144",
+    "extra items chance": "6.00%",
+    "min gs bonus (t1 — t5)": "0 — 15 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 65 — 15 — 0 — 0"
+  },
+  {
+    "level": "61",
+    "exp": "1,000",
+    "exp (total)": "19,375",
+    "character exp": "148",
+    "extra items chance": "6.10%",
+    "min gs bonus (t1 — t5)": "0 — 15 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 65 — 15 — 0 — 0"
+  },
+  {
+    "level": "62",
+    "exp": "1,050",
+    "exp (total)": "20,425",
+    "character exp": "152",
+    "extra items chance": "6.20%",
+    "min gs bonus (t1 — t5)": "0 — 15 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 65 — 15 — 0 — 0"
+  },
+  {
+    "level": "63",
+    "exp": "1,100",
+    "exp (total)": "21,525",
+    "character exp": "156",
+    "extra items chance": "6.30%",
+    "min gs bonus (t1 — t5)": "0 — 15 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 65 — 15 — 0 — 0"
+  },
+  {
+    "level": "64",
+    "exp": "1,150",
+    "exp (total)": "22,675",
+    "character exp": "160",
+    "extra items chance": "6.40%",
+    "min gs bonus (t1 — t5)": "0 — 15 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 65 — 15 — 0 — 0"
+  },
+  {
+    "level": "65",
+    "exp": "1,200",
+    "exp (total)": "23,875",
+    "character exp": "164",
+    "extra items chance": "6.50%",
+    "min gs bonus (t1 — t5)": "0 — 15 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 70 — 20 — 0 — 0"
+  },
+  {
+    "level": "66",
+    "exp": "1,250",
+    "exp (total)": "25,125",
+    "character exp": "168",
+    "extra items chance": "6.60%",
+    "min gs bonus (t1 — t5)": "0 — 15 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 70 — 20 — 0 — 0"
+  },
+  {
+    "level": "67",
+    "exp": "1,300",
+    "exp (total)": "26,425",
+    "character exp": "172",
+    "extra items chance": "6.70%",
+    "min gs bonus (t1 — t5)": "0 — 15 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 70 — 20 — 0 — 0"
+  },
+  {
+    "level": "68",
+    "exp": "1,350",
+    "exp (total)": "27,775",
+    "character exp": "176",
+    "extra items chance": "6.80%",
+    "min gs bonus (t1 — t5)": "0 — 15 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 70 — 20 — 0 — 0"
+  },
+  {
+    "level": "69",
+    "exp": "1,400",
+    "exp (total)": "29,175",
+    "character exp": "180",
+    "extra items chance": "6.90%",
+    "min gs bonus (t1 — t5)": "0 — 15 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 70 — 20 — 0 — 0"
+  },
+  {
+    "level": "70",
+    "exp": "1,450",
+    "exp (total)": "30,625",
+    "character exp": "184",
+    "extra items chance": "7.00%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 25 — 0 — 0"
+  },
+  {
+    "level": "71",
+    "exp": "1,500",
+    "exp (total)": "32,125",
+    "character exp": "188",
+    "extra items chance": "7.10%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 25 — 0 — 0"
+  },
+  {
+    "level": "72",
+    "exp": "1,550",
+    "exp (total)": "33,675",
+    "character exp": "192",
+    "extra items chance": "7.20%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 25 — 0 — 0"
+  },
+  {
+    "level": "73",
+    "exp": "1,600",
+    "exp (total)": "35,275",
+    "character exp": "196",
+    "extra items chance": "7.30%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 25 — 0 — 0"
+  },
+  {
+    "level": "74",
+    "exp": "1,650",
+    "exp (total)": "36,925",
+    "character exp": "200",
+    "extra items chance": "7.40%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 25 — 0 — 0"
+  },
+  {
+    "level": "75",
+    "exp": "1,700",
+    "exp (total)": "38,625",
+    "character exp": "204",
+    "extra items chance": "7.50%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 30 — 0 — 0"
+  },
+  {
+    "level": "76",
+    "exp": "1,750",
+    "exp (total)": "40,375",
+    "character exp": "209",
+    "extra items chance": "7.60%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 30 — 0 — 0"
+  },
+  {
+    "level": "77",
+    "exp": "1,800",
+    "exp (total)": "42,175",
+    "character exp": "214",
+    "extra items chance": "7.70%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 30 — 0 — 0"
+  },
+  {
+    "level": "78",
+    "exp": "1,850",
+    "exp (total)": "44,025",
+    "character exp": "219",
+    "extra items chance": "7.80%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 30 — 0 — 0"
+  },
+  {
+    "level": "79",
+    "exp": "1,900",
+    "exp (total)": "45,925",
+    "character exp": "224",
+    "extra items chance": "7.90%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 30 — 0 — 0"
+  },
+  {
+    "level": "80",
+    "exp": "1,950",
+    "exp (total)": "47,875",
+    "character exp": "229",
+    "extra items chance": "8.00%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 35 — 0 — 0"
+  },
+  {
+    "level": "81",
+    "exp": "2,000",
+    "exp (total)": "49,875",
+    "character exp": "234",
+    "extra items chance": "8.10%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 35 — 0 — 0"
+  },
+  {
+    "level": "82",
+    "exp": "2,050",
+    "exp (total)": "51,925",
+    "character exp": "239",
+    "extra items chance": "8.20%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 35 — 0 — 0"
+  },
+  {
+    "level": "83",
+    "exp": "2,100",
+    "exp (total)": "54,025",
+    "character exp": "244",
+    "extra items chance": "8.30%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 35 — 0 — 0"
+  },
+  {
+    "level": "84",
+    "exp": "2,150",
+    "exp (total)": "56,175",
+    "character exp": "249",
+    "extra items chance": "8.40%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 35 — 0 — 0"
+  },
+  {
+    "level": "85",
+    "exp": "2,200",
+    "exp (total)": "58,375",
+    "character exp": "254",
+    "extra items chance": "8.50%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 40 — 0 — 0"
+  },
+  {
+    "level": "86",
+    "exp": "2,250",
+    "exp (total)": "60,625",
+    "character exp": "259",
+    "extra items chance": "8.60%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 40 — 0 — 0"
+  },
+  {
+    "level": "87",
+    "exp": "2,300",
+    "exp (total)": "62,925",
+    "character exp": "264",
+    "extra items chance": "8.70%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 40 — 0 — 0"
+  },
+  {
+    "level": "88",
+    "exp": "2,350",
+    "exp (total)": "65,275",
+    "character exp": "269",
+    "extra items chance": "8.80%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 40 — 0 — 0"
+  },
+  {
+    "level": "89",
+    "exp": "2,400",
+    "exp (total)": "67,675",
+    "character exp": "274",
+    "extra items chance": "8.90%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 0 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 40 — 0 — 0"
+  },
+  {
+    "level": "90",
+    "exp": "2,450",
+    "exp (total)": "70,125",
+    "character exp": "279",
+    "extra items chance": "9.00%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 5 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 45 — 0 — 0"
+  },
+  {
+    "level": "91",
+    "exp": "2,500",
+    "exp (total)": "72,625",
+    "character exp": "284",
+    "extra items chance": "9.10%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 5 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 45 — 0 — 0"
+  },
+  {
+    "level": "92",
+    "exp": "2,550",
+    "exp (total)": "75,175",
+    "character exp": "289",
+    "extra items chance": "9.20%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 5 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 45 — 0 — 0"
+  },
+  {
+    "level": "93",
+    "exp": "2,600",
+    "exp (total)": "77,775",
+    "character exp": "294",
+    "extra items chance": "9.30%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 5 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 45 — 0 — 0"
+  },
+  {
+    "level": "94",
+    "exp": "2,650",
+    "exp (total)": "80,425",
+    "character exp": "299",
+    "extra items chance": "9.40%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 5 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 45 — 0 — 0"
+  },
+  {
+    "level": "95",
+    "exp": "2,700",
+    "exp (total)": "83,125",
+    "character exp": "304",
+    "extra items chance": "9.50%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 5 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 50 — 0 — 0"
+  },
+  {
+    "level": "96",
+    "exp": "2,750",
+    "exp (total)": "85,875",
+    "character exp": "309",
+    "extra items chance": "9.60%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 5 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 50 — 0 — 0"
+  },
+  {
+    "level": "97",
+    "exp": "2,800",
+    "exp (total)": "88,675",
+    "character exp": "314",
+    "extra items chance": "9.70%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 5 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 50 — 0 — 0"
+  },
+  {
+    "level": "98",
+    "exp": "2,850",
+    "exp (total)": "91,525",
+    "character exp": "319",
+    "extra items chance": "9.80%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 5 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 50 — 0 — 0"
+  },
+  {
+    "level": "99",
+    "exp": "2,900",
+    "exp (total)": "94,425",
+    "character exp": "324",
+    "extra items chance": "9.90%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 5 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 50 — 0 — 0"
+  },
+  {
+    "level": "100",
+    "exp": "2,950",
+    "exp (total)": "97,375",
+    "character exp": "329",
+    "extra items chance": "10.00%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 10 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 55 — 5 — 0"
+  },
+  {
+    "level": "101",
+    "exp": "3,534",
+    "exp (total)": "100,909",
+    "character exp": "335",
+    "extra items chance": "10.10%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 10 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 55 — 5 — 0"
+  },
+  {
+    "level": "102",
+    "exp": "3,720",
+    "exp (total)": "104,629",
+    "character exp": "341",
+    "extra items chance": "10.20%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 10 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 55 — 5 — 0"
+  },
+  {
+    "level": "103",
+    "exp": "3,906",
+    "exp (total)": "108,535",
+    "character exp": "347",
+    "extra items chance": "10.30%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 10 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 55 — 5 — 0"
+  },
+  {
+    "level": "104",
+    "exp": "4,092",
+    "exp (total)": "112,627",
+    "character exp": "353",
+    "extra items chance": "10.40%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 10 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 55 — 5 — 0"
+  },
+  {
+    "level": "105",
+    "exp": "4,278",
+    "exp (total)": "116,905",
+    "character exp": "359",
+    "extra items chance": "10.50%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 10 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 60 — 10 — 0"
+  },
+  {
+    "level": "106",
+    "exp": "4,464",
+    "exp (total)": "121,369",
+    "character exp": "365",
+    "extra items chance": "10.60%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 10 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 60 — 10 — 0"
+  },
+  {
+    "level": "107",
+    "exp": "4,650",
+    "exp (total)": "126,019",
+    "character exp": "371",
+    "extra items chance": "10.70%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 10 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 60 — 10 — 0"
+  },
+  {
+    "level": "108",
+    "exp": "4,836",
+    "exp (total)": "130,855",
+    "character exp": "377",
+    "extra items chance": "10.80%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 10 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 60 — 10 — 0"
+  },
+  {
+    "level": "109",
+    "exp": "5,022",
+    "exp (total)": "135,877",
+    "character exp": "383",
+    "extra items chance": "10.90%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 15 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 60 — 10 — 0"
+  },
+  {
+    "level": "110",
+    "exp": "5,208",
+    "exp (total)": "141,085",
+    "character exp": "389",
+    "extra items chance": "11.00%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 15 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 65 — 15 — 0"
+  },
+  {
+    "level": "111",
+    "exp": "5,394",
+    "exp (total)": "146,479",
+    "character exp": "395",
+    "extra items chance": "11.10%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 15 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 65 — 15 — 0"
+  },
+  {
+    "level": "112",
+    "exp": "5,580",
+    "exp (total)": "152,059",
+    "character exp": "401",
+    "extra items chance": "11.20%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 15 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 65 — 15 — 0"
+  },
+  {
+    "level": "113",
+    "exp": "5,766",
+    "exp (total)": "157,825",
+    "character exp": "407",
+    "extra items chance": "11.30%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 15 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 65 — 15 — 0"
+  },
+  {
+    "level": "114",
+    "exp": "5,952",
+    "exp (total)": "163,777",
+    "character exp": "413",
+    "extra items chance": "11.40%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 15 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 65 — 15 — 0"
+  },
+  {
+    "level": "115",
+    "exp": "6,138",
+    "exp (total)": "169,915",
+    "character exp": "419",
+    "extra items chance": "11.50%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 15 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 70 — 20 — 0"
+  },
+  {
+    "level": "116",
+    "exp": "6,324",
+    "exp (total)": "176,239",
+    "character exp": "425",
+    "extra items chance": "11.60%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 15 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 70 — 20 — 0"
+  },
+  {
+    "level": "117",
+    "exp": "6,510",
+    "exp (total)": "182,749",
+    "character exp": "431",
+    "extra items chance": "11.70%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 15 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 70 — 20 — 0"
+  },
+  {
+    "level": "118",
+    "exp": "6,696",
+    "exp (total)": "189,445",
+    "character exp": "437",
+    "extra items chance": "11.80%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 15 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 70 — 20 — 0"
+  },
+  {
+    "level": "119",
+    "exp": "6,882",
+    "exp (total)": "196,327",
+    "character exp": "443",
+    "extra items chance": "11.90%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 15 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 70 — 20 — 0"
+  },
+  {
+    "level": "120",
+    "exp": "7,068",
+    "exp (total)": "203,395",
+    "character exp": "449",
+    "extra items chance": "12.00%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 25 — 0"
+  },
+  {
+    "level": "121",
+    "exp": "7,254",
+    "exp (total)": "210,649",
+    "character exp": "455",
+    "extra items chance": "12.10%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 25 — 0"
+  },
+  {
+    "level": "122",
+    "exp": "7,440",
+    "exp (total)": "218,089",
+    "character exp": "461",
+    "extra items chance": "12.20%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 25 — 0"
+  },
+  {
+    "level": "123",
+    "exp": "7,626",
+    "exp (total)": "225,715",
+    "character exp": "467",
+    "extra items chance": "12.30%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 25 — 0"
+  },
+  {
+    "level": "124",
+    "exp": "7,812",
+    "exp (total)": "233,527",
+    "character exp": "473",
+    "extra items chance": "12.40%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 25 — 0"
+  },
+  {
+    "level": "125",
+    "exp": "7,998",
+    "exp (total)": "241,525",
+    "character exp": "479",
+    "extra items chance": "12.50%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 30 — 0"
+  },
+  {
+    "level": "126",
+    "exp": "8,184",
+    "exp (total)": "249,709",
+    "character exp": "486",
+    "extra items chance": "12.60%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 30 — 0"
+  },
+  {
+    "level": "127",
+    "exp": "8,370",
+    "exp (total)": "258,079",
+    "character exp": "493",
+    "extra items chance": "12.70%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 30 — 0"
+  },
+  {
+    "level": "128",
+    "exp": "8,556",
+    "exp (total)": "266,635",
+    "character exp": "500",
+    "extra items chance": "12.80%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 30 — 0"
+  },
+  {
+    "level": "129",
+    "exp": "8,742",
+    "exp (total)": "275,377",
+    "character exp": "507",
+    "extra items chance": "12.90%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 30 — 0"
+  },
+  {
+    "level": "130",
+    "exp": "8,928",
+    "exp (total)": "284,305",
+    "character exp": "514",
+    "extra items chance": "13.00%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 35 — 0"
+  },
+  {
+    "level": "131",
+    "exp": "9,114",
+    "exp (total)": "293,419",
+    "character exp": "521",
+    "extra items chance": "13.10%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 35 — 0"
+  },
+  {
+    "level": "132",
+    "exp": "9,300",
+    "exp (total)": "302,719",
+    "character exp": "528",
+    "extra items chance": "13.20%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 35 — 0"
+  },
+  {
+    "level": "133",
+    "exp": "9,486",
+    "exp (total)": "312,205",
+    "character exp": "535",
+    "extra items chance": "13.30%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 35 — 0"
+  },
+  {
+    "level": "134",
+    "exp": "9,672",
+    "exp (total)": "321,877",
+    "character exp": "542",
+    "extra items chance": "13.40%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 35 — 0"
+  },
+  {
+    "level": "135",
+    "exp": "9,858",
+    "exp (total)": "331,735",
+    "character exp": "549",
+    "extra items chance": "13.50%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 40 — 0"
+  },
+  {
+    "level": "136",
+    "exp": "10,044",
+    "exp (total)": "341,779",
+    "character exp": "556",
+    "extra items chance": "13.60%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 40 — 0"
+  },
+  {
+    "level": "137",
+    "exp": "10,230",
+    "exp (total)": "352,009",
+    "character exp": "563",
+    "extra items chance": "13.70%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 40 — 0"
+  },
+  {
+    "level": "138",
+    "exp": "10,416",
+    "exp (total)": "362,425",
+    "character exp": "570",
+    "extra items chance": "13.80%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 40 — 0"
+  },
+  {
+    "level": "139",
+    "exp": "10,602",
+    "exp (total)": "373,027",
+    "character exp": "577",
+    "extra items chance": "13.90%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 0 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 40 — 0"
+  },
+  {
+    "level": "140",
+    "exp": "10,788",
+    "exp (total)": "383,815",
+    "character exp": "584",
+    "extra items chance": "14.00%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 5 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 45 — 0"
+  },
+  {
+    "level": "141",
+    "exp": "10,974",
+    "exp (total)": "394,789",
+    "character exp": "591",
+    "extra items chance": "14.10%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 5 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 45 — 0"
+  },
+  {
+    "level": "142",
+    "exp": "11,160",
+    "exp (total)": "405,949",
+    "character exp": "598",
+    "extra items chance": "14.20%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 5 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 45 — 0"
+  },
+  {
+    "level": "143",
+    "exp": "11,346",
+    "exp (total)": "417,295",
+    "character exp": "605",
+    "extra items chance": "14.30%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 5 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 45 — 0"
+  },
+  {
+    "level": "144",
+    "exp": "11,532",
+    "exp (total)": "428,827",
+    "character exp": "612",
+    "extra items chance": "14.40%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 5 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 45 — 0"
+  },
+  {
+    "level": "145",
+    "exp": "11,718",
+    "exp (total)": "440,545",
+    "character exp": "619",
+    "extra items chance": "14.50%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 5 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 50 — 0"
+  },
+  {
+    "level": "146",
+    "exp": "11,904",
+    "exp (total)": "452,449",
+    "character exp": "626",
+    "extra items chance": "14.60%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 5 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 50 — 0"
+  },
+  {
+    "level": "147",
+    "exp": "12,090",
+    "exp (total)": "464,539",
+    "character exp": "633",
+    "extra items chance": "14.70%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 5 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 50 — 0"
+  },
+  {
+    "level": "148",
+    "exp": "12,276",
+    "exp (total)": "476,815",
+    "character exp": "640",
+    "extra items chance": "14.80%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 5 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 50 — 0"
+  },
+  {
+    "level": "149",
+    "exp": "12,462",
+    "exp (total)": "489,277",
+    "character exp": "647",
+    "extra items chance": "14.90%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 5 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 50 — 0"
+  },
+  {
+    "level": "150",
+    "exp": "12,648",
+    "exp (total)": "501,925",
+    "character exp": "654",
+    "extra items chance": "15.00%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 10 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 55 — 5"
+  },
+  {
+    "level": "151",
+    "exp": "12,400",
+    "exp (total)": "514,325",
+    "character exp": "661",
+    "extra items chance": "15.10%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 10 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 55 — 5"
+  },
+  {
+    "level": "152",
+    "exp": "13,020",
+    "exp (total)": "527,345",
+    "character exp": "668",
+    "extra items chance": "15.20%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 10 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 55 — 5"
+  },
+  {
+    "level": "153",
+    "exp": "13,640",
+    "exp (total)": "540,985",
+    "character exp": "675",
+    "extra items chance": "15.30%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 10 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 55 — 5"
+  },
+  {
+    "level": "154",
+    "exp": "14,260",
+    "exp (total)": "555,245",
+    "character exp": "682",
+    "extra items chance": "15.40%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 10 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 55 — 5"
+  },
+  {
+    "level": "155",
+    "exp": "14,880",
+    "exp (total)": "570,125",
+    "character exp": "689",
+    "extra items chance": "15.50%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 10 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 60 — 5"
+  },
+  {
+    "level": "156",
+    "exp": "15,500",
+    "exp (total)": "585,625",
+    "character exp": "696",
+    "extra items chance": "15.60%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 10 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 60 — 5"
+  },
+  {
+    "level": "157",
+    "exp": "16,120",
+    "exp (total)": "601,745",
+    "character exp": "703",
+    "extra items chance": "15.70%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 10 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 60 — 5"
+  },
+  {
+    "level": "158",
+    "exp": "16,740",
+    "exp (total)": "618,485",
+    "character exp": "710",
+    "extra items chance": "15.80%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 10 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 60 — 5"
+  },
+  {
+    "level": "159",
+    "exp": "17,360",
+    "exp (total)": "635,845",
+    "character exp": "717",
+    "extra items chance": "15.90%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 15 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 60 — 5"
+  },
+  {
+    "level": "160",
+    "exp": "17,980",
+    "exp (total)": "653,825",
+    "character exp": "724",
+    "extra items chance": "16.00%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 15 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 65 — 5"
+  },
+  {
+    "level": "161",
+    "exp": "18,600",
+    "exp (total)": "672,425",
+    "character exp": "732",
+    "extra items chance": "16.10%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 15 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 65 — 5"
+  },
+  {
+    "level": "162",
+    "exp": "19,220",
+    "exp (total)": "691,645",
+    "character exp": "740",
+    "extra items chance": "16.20%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 15 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 65 — 5"
+  },
+  {
+    "level": "163",
+    "exp": "19,840",
+    "exp (total)": "711,485",
+    "character exp": "748",
+    "extra items chance": "16.30%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 15 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 65 — 5"
+  },
+  {
+    "level": "164",
+    "exp": "20,460",
+    "exp (total)": "731,945",
+    "character exp": "756",
+    "extra items chance": "16.40%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 15 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 65 — 5"
+  },
+  {
+    "level": "165",
+    "exp": "21,080",
+    "exp (total)": "753,025",
+    "character exp": "764",
+    "extra items chance": "16.50%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 15 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 70 — 10"
+  },
+  {
+    "level": "166",
+    "exp": "21,700",
+    "exp (total)": "774,725",
+    "character exp": "772",
+    "extra items chance": "16.60%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 15 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 70 — 10"
+  },
+  {
+    "level": "167",
+    "exp": "22,320",
+    "exp (total)": "797,045",
+    "character exp": "780",
+    "extra items chance": "16.70%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 15 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 70 — 10"
+  },
+  {
+    "level": "168",
+    "exp": "22,940",
+    "exp (total)": "819,985",
+    "character exp": "788",
+    "extra items chance": "16.80%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 15 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 70 — 10"
+  },
+  {
+    "level": "169",
+    "exp": "23,560",
+    "exp (total)": "843,545",
+    "character exp": "796",
+    "extra items chance": "16.90%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 15 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 70 — 10"
+  },
+  {
+    "level": "170",
+    "exp": "24,180",
+    "exp (total)": "867,725",
+    "character exp": "804",
+    "extra items chance": "17.00%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 20 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 75 — 10"
+  },
+  {
+    "level": "171",
+    "exp": "24,800",
+    "exp (total)": "892,525",
+    "character exp": "812",
+    "extra items chance": "17.10%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 20 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 75 — 10"
+  },
+  {
+    "level": "172",
+    "exp": "25,420",
+    "exp (total)": "917,945",
+    "character exp": "820",
+    "extra items chance": "17.20%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 20 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 75 — 10"
+  },
+  {
+    "level": "173",
+    "exp": "26,040",
+    "exp (total)": "943,985",
+    "character exp": "828",
+    "extra items chance": "17.30%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 20 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 75 — 10"
+  },
+  {
+    "level": "174",
+    "exp": "26,660",
+    "exp (total)": "970,645",
+    "character exp": "836",
+    "extra items chance": "17.40%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 20 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 75 — 10"
+  },
+  {
+    "level": "175",
+    "exp": "27,280",
+    "exp (total)": "997,925",
+    "character exp": "844",
+    "extra items chance": "17.50%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 20 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 75 — 10"
+  },
+  {
+    "level": "176",
+    "exp": "27,900",
+    "exp (total)": "1,025,825",
+    "character exp": "853",
+    "extra items chance": "17.60%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 20 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 75 — 10"
+  },
+  {
+    "level": "177",
+    "exp": "28,520",
+    "exp (total)": "1,054,345",
+    "character exp": "862",
+    "extra items chance": "17.70%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 20 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 75 — 10"
+  },
+  {
+    "level": "178",
+    "exp": "29,140",
+    "exp (total)": "1,083,485",
+    "character exp": "871",
+    "extra items chance": "17.80%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 20 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 75 — 10"
+  },
+  {
+    "level": "179",
+    "exp": "29,760",
+    "exp (total)": "1,113,245",
+    "character exp": "880",
+    "extra items chance": "17.90%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 20 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 75 — 10"
+  },
+  {
+    "level": "180",
+    "exp": "30,380",
+    "exp (total)": "1,143,625",
+    "character exp": "889",
+    "extra items chance": "18.00%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 20 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 75 — 15"
+  },
+  {
+    "level": "181",
+    "exp": "31,000",
+    "exp (total)": "1,174,625",
+    "character exp": "898",
+    "extra items chance": "18.10%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 20 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 75 — 15"
+  },
+  {
+    "level": "182",
+    "exp": "31,620",
+    "exp (total)": "1,206,245",
+    "character exp": "907",
+    "extra items chance": "18.20%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 20 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 75 — 15"
+  },
+  {
+    "level": "183",
+    "exp": "32,240",
+    "exp (total)": "1,238,485",
+    "character exp": "916",
+    "extra items chance": "18.30%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 20 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 75 — 15"
+  },
+  {
+    "level": "184",
+    "exp": "32,860",
+    "exp (total)": "1,271,345",
+    "character exp": "925",
+    "extra items chance": "18.40%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 20 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 75 — 15"
+  },
+  {
+    "level": "185",
+    "exp": "33,480",
+    "exp (total)": "1,304,825",
+    "character exp": "934",
+    "extra items chance": "18.50%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 20 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 75 — 15"
+  },
+  {
+    "level": "186",
+    "exp": "34,100",
+    "exp (total)": "1,338,925",
+    "character exp": "943",
+    "extra items chance": "18.60%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 20 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 75 — 15"
+  },
+  {
+    "level": "187",
+    "exp": "34,720",
+    "exp (total)": "1,373,645",
+    "character exp": "952",
+    "extra items chance": "18.70%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 20 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 75 — 15"
+  },
+  {
+    "level": "188",
+    "exp": "35,340",
+    "exp (total)": "1,408,985",
+    "character exp": "961",
+    "extra items chance": "18.80%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 20 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 75 — 15"
+  },
+  {
+    "level": "189",
+    "exp": "35,960",
+    "exp (total)": "1,444,945",
+    "character exp": "970",
+    "extra items chance": "18.90%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 20 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 75 — 15"
+  },
+  {
+    "level": "190",
+    "exp": "36,580",
+    "exp (total)": "1,481,525",
+    "character exp": "979",
+    "extra items chance": "19.00%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 20 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 75 — 20"
+  },
+  {
+    "level": "191",
+    "exp": "37,200",
+    "exp (total)": "1,518,725",
+    "character exp": "989",
+    "extra items chance": "19.10%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 20 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 75 — 20"
+  },
+  {
+    "level": "192",
+    "exp": "37,820",
+    "exp (total)": "1,556,545",
+    "character exp": "999",
+    "extra items chance": "19.20%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 20 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 75 — 20"
+  },
+  {
+    "level": "193",
+    "exp": "38,440",
+    "exp (total)": "1,594,985",
+    "character exp": "1,009",
+    "extra items chance": "19.30%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 20 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 75 — 20"
+  },
+  {
+    "level": "194",
+    "exp": "39,060",
+    "exp (total)": "1,634,045",
+    "character exp": "1,019",
+    "extra items chance": "19.40%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 20 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 75 — 20"
+  },
+  {
+    "level": "195",
+    "exp": "39,680",
+    "exp (total)": "1,673,725",
+    "character exp": "1,029",
+    "extra items chance": "19.50%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 20 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 75 — 20"
+  },
+  {
+    "level": "196",
+    "exp": "40,300",
+    "exp (total)": "1,714,025",
+    "character exp": "1,039",
+    "extra items chance": "19.60%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 20 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 75 — 20"
+  },
+  {
+    "level": "197",
+    "exp": "40,920",
+    "exp (total)": "1,754,945",
+    "character exp": "1,049",
+    "extra items chance": "19.70%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 20 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 75 — 20"
+  },
+  {
+    "level": "198",
+    "exp": "41,540",
+    "exp (total)": "1,796,485",
+    "character exp": "1,059",
+    "extra items chance": "19.80%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 20 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 75 — 20"
+  },
+  {
+    "level": "199",
+    "exp": "42,160",
+    "exp (total)": "1,838,645",
+    "character exp": "1,069",
+    "extra items chance": "19.90%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 20 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 75 — 20"
+  },
+  {
+    "level": "200",
+    "exp": "42,780",
+    "exp (total)": "1,881,425",
+    "character exp": "1,079",
+    "extra items chance": "20.00%",
+    "min gs bonus (t1 — t5)": "0 — 20 — 20 — 20 — 0",
+    "max gs bonus (t1 — t5)": "0 — 75 — 75 — 75 — 25"
+  }
+]

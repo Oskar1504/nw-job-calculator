@@ -1,0 +1,52 @@
+[
+  {
+    "id":1,
+    "name":"Spear iron",
+    "experience":204,
+    "ingredients":[
+      {
+        "name":"wood",
+        "items":["wood"],
+        "selectedItem":"wood",
+        "amount":10
+      },
+      {
+        "name":"iron",
+        "items":["iron"],
+        "selectedItem":"iron",
+        "amount":5
+      },
+      {
+        "name":"leather",
+        "items":["leather"],
+        "selectedItem":"leather",
+        "amount":2
+      }
+    ]
+  },
+  {
+    "id":2,
+    "name":"Spear steel",
+    "experience":540,
+    "ingredients":[
+      {
+        "name":"wood",
+        "selectedItem":"wood_2",
+        "amount":11,
+        "items":["wood_2"]
+      },
+      {
+        "name":"Metal",
+        "items":["iron","iron_2"],
+        "selectedItem":"iron",
+        "amount":5
+      },
+      {
+        "name":"leather",
+        "items":["leather","leather_2"],
+        "selectedItem":"leather",
+        "amount":2
+      }
+    ]
+  }
+]
