@@ -5,16 +5,16 @@ let skillLevel = [],
 async function getSkillLevel(name){
     
     try {
-        await fetch("/data/jobs/" + name + '.json')
+        await fetch("./data/jobs/" + name + '.json')
             .then(response => response.json())
             .then(data => skillLevel = data);
 
-        await fetch("/data/recipes/" + name + '_recipes.json')
+        await fetch("./data/recipes/" + name + '_recipes.json')
             .then(response => response.json())
             .then(data => app._data.recipes = data)
             .catch(error => app._data.recipes = [])
 
-        await fetch('/data/recipes.json')
+        await fetch('./data/recipes.json')
             .then(response => response.json())
             .then(data => resourceRecipes = data);
     }catch (e) {
@@ -90,7 +90,7 @@ var app = new Vue({
 
             skillLevel.forEach(level => {
                 if(level.level == start){
-                    startExp = parseInt(level["exp (total)"])
+                    startExp = parseInt(level["exp (total)"].replace(",",""))
                 }
 
                 if(level.level == end){
