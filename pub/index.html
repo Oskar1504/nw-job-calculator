@@ -45,26 +45,54 @@
                     <span class="text-primary">Informations</span>
                 </h4>
                 <ul class="list-group mb-3">
+
                     <li class="list-group-item d-flex justify-content-between lh-sm">
-                        <h6 class="my-0">Experience needed</h6>
-                        <strong>{{ stats.expNeeded }}</strong>
+                        <h6 class="my-0">startExp: {{ deformat(stats.startExp) }}</h6>
+                        <h6 class="my-0">targetExp: {{ deformat(stats.targetExp) }}</h6>
                     </li>
-                    <li v-if="form.recipe.experience" class="list-group-item d-flex justify-content-between lh-sm">
+                    <li class="list-group-item d-flex justify-content-between lh-sm">
+                        <h6 class="my-0">Experience needed:</h6>
+                        <strong>{{ deformat(stats.expNeeded) }}</strong>
+                    </li>
+                    <li v-if="form.recipe.experience  && form.selectedJob == 'crafting'" class="list-group-item d-flex justify-content-between lh-sm">
                         <h6 class="my-0">Crafting times</h6>
-                        <strong>{{ stats.craftingAmount }}</strong>
+                        <strong>{{  deformat(stats.craftingAmount) }}</strong>
                     </li>
                 </ul>
-                <h4 class="d-flex justify-content-between align-items-center mb-3">
-                    <span class="text-primary">Raw resources</span>
-                </h4>
-                <ul class="list-group mb-3">
-                    <li v-for="rawResource in stats.rawResources" class="list-group-item d-flex justify-content-between lh-sm">
-                        <div>
-                            <h6 class="my-0">{{ rawResource.amount }} x {{ rawResource.name }}</h6>
+                <!-- RAW RESOURCES-->
+                <div v-if="stats.rawResources.length > 0 && form.selectedJob == 'crafting'">
+                    <h4 class="d-flex justify-content-between align-items-center mb-3">
+                        <span class="text-primary">Raw resources</span>
+                    </h4>
+                    <ul class="list-group mb-3">
+                        <li v-for="rawResource in stats.rawResources" class="list-group-item d-flex justify-content-between lh-sm">
+                            <h6 class="my-0">
+                                {{ rawResource.amount }} x {{ rawResource.name }}
+                                <span class="text-muted f-6">x {{stats.craftingAmount }}</span>
+                            </h6>
+                            <h6 class="my-0">Total: {{  deformat(rawResource.amount * stats.craftingAmount) }}</h6>
+                        </li>
+                        <li class="list-group-item d-flex justify-content-center  ">
+                            <button class="btn btn-outline-primary btn-sm" @click="saveHistory()">Speichern</button>
+                        </li>
+                    </ul>
+                </div>
+                <!-- RAW RESOURCES HISTORY-->
+                <div v-if="history.keys.length > 0">
+                    <h4 class="d-flex justify-content-between align-items-between mb-3">
+                        <span class="text-primary">History</span>
+                    </h4>
+                    <div class="mb-2">
+                        <div class="row">
+                            <div class="col-9">
+                                <select v-model="history.selectedList" @change="loadHistory()" class="form-select ">
+                                    <option v-for="key in history.keys" :value="key" selected>{{key}}</option>
+                                </select>
+                            </div>
+                            <div v-if="history.selectedList != ''" class="btn btn-sm btn-outline-danger col-2" @click="removeHistory()" >Remove</div>
                         </div>
-                        <strong>Total: {{ rawResource.amount * stats.craftingAmount }}</strong>
-                    </li>
-                </ul>
+                    </div>
+                </div>
             </div>
 <!--            REAL CONTENT            -->
             <div class="col-md-9 col-lg-8">
@@ -72,14 +100,18 @@
                 <div>
                     <div class="row">
                         <div class="col-sm-6">
-                            <label for="startLevel" class="form-label">Crafting skill</label>
-                            <select v-model="form.selectedJob" onchange="getSkillLevel(this.value)" class="form-select mb-3" aria-label=".form-select-lg example">
-                                <option v-for="job in availableJobs" :value="job" selected>{{job}}</option>
+                            <label for="startLevel" class="form-label">Categorie</label>
+                            <select v-model="form.selectedCategorie" class="form-select mb-3" aria-label=".form-select-lg example">
+                                <option v-for="option in options.categories" :value="option" selected>{{option}}</option>
+                            </select>
+                        </div>
+                        <div class="col-sm-6">
+                            <label for="startLevel" class="form-label">Selected categorie: {{form.selectedCategorie}}</label>
+                            <select v-model="form.selectedJob" @change="updateSkillLevel()" class="form-select mb-3" aria-label=".form-select-lg example">
+                                <option v-for="option in options[form.selectedCategorie]" :value="option" selected>{{option}}</option>
                             </select>
                         </div>
 
-                        <div class="col-sm-6">
-                        </div>
                         <div class="col-sm-6">
                             <label for="startLevel" class="form-label">Start level</label>
                             <input v-model="form.startLevel"  type="number" class="form-control" id="startLevel" placeholder="" value="1" required="">
@@ -90,32 +122,46 @@
                             <input v-model="form.targetLevel" type="number" class="form-control" id="targetLevel" placeholder="" value="50" required="">
                         </div>
                         <hr class="my-4">
-                        <div class="row" v-if="recipes.length > 0">
-                            <div class="col-sm-3">
-                                <label for="startLevel" class="form-label">Recipe</label>
-                                <select v-model="form.recipe" class="form-select mb-3" aria-label=".form-select-lg example">
-                                    <option v-for="recipe in recipes" :value="recipe">{{recipe.name}}</option>
-                                </select>
+                        <div v-if="form.selectedCategorie == 'crafting'">
+                            <div class="row" v-if="recipes.length > 0">
+                                <div class="col-sm-3">
+                                    <label for="startLevel" class="form-label">Recipe</label>
+                                    <select v-model="form.recipe" class="form-select mb-3" aria-label=".form-select-lg example">
+                                        <option v-for="recipe in recipes" :value="recipe">{{recipe.name}}</option>
+                                    </select>
+                                </div>
+
+                                <div class="col-sm-3">
+                                    <label for="startLevel" class="form-label">Experience: {{form.recipe.experience}}</label>
+                                </div>
+
+                                <div class="col-sm-6">
+                                </div>
+
+
+                                <div  v-for="ingredient in form.recipe.ingredients" class="col-sm-3">
+                                    <label for="startLevel" class="form-label"> {{ingredient.amount }} x {{ingredient.displayName }}</label>
+                                    <select v-model="ingredient.name" class="form-select mb-3" aria-label=".form-select-lg example">
+                                        <option v-for="item in ingredient.items" :value="item">{{item}}</option>
+                                    </select>
+                                </div>
                             </div>
-
-                            <div class="col-sm-3">
-                                <label for="startLevel" class="form-label">Experience: {{form.recipe.experience}}</label>
-                            </div>
-
-                            <div class="col-sm-6">
-                            </div>
-
-
-                            <div v-for="ingredient in form.recipe.ingredients" class="col-sm-3">
-                                <label for="startLevel" class="form-label"> {{ingredient.amount }} x {{ingredient.name }}</label>
-                                <select v-model="ingredient.selectedItem" class="form-select mb-3" aria-label=".form-select-lg example">
-                                    <option v-for="item in ingredient.items" :value="item">{{item}}</option>
-                                </select>
+                            <div v-else>
+                                <h2>Sry didn't managed to add recipes. May added in the future.</h2>
+                                <h4>If u want to help me hit me up on discord Oskar#2843</h4>
                             </div>
                         </div>
-                        <div v-else>
-                            <h2>Sry didn't managed to add recipes. May added in the future.</h2>
-                            <h4>If u want to help me hit me up on discord Oskar#2843</h4>
+                        <div v-else-if="form.selectedCategorie == 'gathering'">
+                            <div class="row">
+                                <div class="col-sm-6">
+                                    <label for="startLevel" class="form-label">Exp per gathering object</label>
+                                    <input v-model="form.gatheringValue"  type="number" class="form-control" value="166" >
+                                </div>
+                                <div class="col-sm-6">
+                                    <label for="startLevel" class="form-label">Objects need to be gathered ({{stats.expNeeded}}/{{form.gatheringValue}})</label>
+                                    <input type="text" readonly class="form-control" :value="stats.expNeeded + '/' + form.gatheringValue + ' = ' + Math.ceil(stats.expNeeded/form.gatheringValue)">
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>

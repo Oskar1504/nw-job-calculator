@@ -1,50 +1,144 @@
 [
   {
-    "id":1,
     "name":"Spear iron",
     "experience":204,
     "ingredients":[
       {
-        "name":"wood",
-        "items":["wood"],
-        "selectedItem":"wood",
+        "displayName":"Wood",
+        "items":["timber"],
+        "name":"timber",
         "amount":10
       },
       {
-        "name":"iron",
-        "items":["iron"],
-        "selectedItem":"iron",
+        "displayName":"Metal",
+        "items":["iron_ingot"],
+        "name":"iron_ingot",
         "amount":5
       },
       {
-        "name":"leather",
-        "items":["leather"],
-        "selectedItem":"leather",
+        "displayName":"Leathers",
+        "items":["coarse_leather"],
+        "name":"coarse_leather",
         "amount":2
       }
     ]
   },
   {
-    "id":2,
     "name":"Spear steel",
     "experience":540,
     "ingredients":[
       {
-        "name":"wood",
-        "selectedItem":"wood_2",
+        "displayName":"Wood",
+        "name":"lumber",
         "amount":11,
-        "items":["wood_2"]
+        "items":["lumber"]
       },
       {
-        "name":"Metal",
-        "items":["iron","iron_2"],
-        "selectedItem":"iron",
+        "displayName":"Metal",
+        "items":["iron_ingot","steel_ingot"],
+        "name":"iron_ingot",
         "amount":5
       },
       {
-        "name":"leather",
-        "items":["leather","leather_2"],
-        "selectedItem":"leather",
+        "displayName":"Leathers",
+        "items":["coarse_leather","rugged_leather"],
+        "name":"coarse_leather",
+        "amount":2
+      }
+    ]
+  },
+  {
+    "name":"Hatchet iron",
+    "experience":120,
+    "ingredients":[
+      {
+        "displayName":"Metal",
+        "name":"iron_ingot",
+        "amount":7,
+        "items":["iron_ingot"]
+      },
+      {
+        "displayName":"Wood",
+        "items":["timber"],
+        "name":"timber",
+        "amount":2
+      },
+      {
+        "displayName":"Leathers",
+        "items":["coarse_leather"],
+        "name":"coarse_leather",
+        "amount":1
+      }
+    ]
+  },
+  {
+    "name":"Hatchet steel",
+    "experience":330,
+    "ingredients":[
+      {
+        "displayName":"Metal",
+        "name":"steel_ingot",
+        "amount":8,
+        "items":["steel_ingot"]
+      },
+      {
+        "displayName":"Wood",
+        "items":["timber","lumber"],
+        "name":"timber",
+        "amount":2
+      },
+      {
+        "displayName":"Leathers",
+        "items":["coarse_leather","rugged_leather"],
+        "name":"coarse_leather",
+        "amount":1
+      }
+    ]
+  },
+  {
+    "name":"Bow wood 1",
+    "experience":204,
+    "ingredients":[
+      {
+        "displayName":"Wood",
+        "items":["timber"],
+        "name":"timber",
+        "amount":12
+      },
+      {
+        "displayName":"Leathers",
+        "items":["coarse_leather"],
+        "name":"coarse_leather",
+        "amount":3
+      },
+      {
+        "displayName":"Cloth",
+        "items":["linen"],
+        "name":"linen",
+        "amount":2
+      }
+    ]
+  },
+  {
+    "name":"Bow wood 2",
+    "experience":540,
+    "ingredients":[
+      {
+        "displayName":"Wood",
+        "items":["lumber"],
+        "name":"lumber",
+        "amount":13
+      },
+      {
+        "displayName":"Leathers",
+        "items":["coarse_leather","rugged_leather"],
+        "name":"coarse_leather",
+        "amount":3
+      },
+      {
+        "displayName":"Cloth",
+        "items":["linen","sateen"],
+        "name":"linen",
         "amount":2
       }
     ]

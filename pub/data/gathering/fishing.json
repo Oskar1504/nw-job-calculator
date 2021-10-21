@@ -1,0 +1,1202 @@
+[
+  {
+    "level": "1",
+    "exp": "100",
+    "exp (total)": "100",
+    "character exp": "20"
+  },
+  {
+    "level": "2",
+    "exp": "200",
+    "exp (total)": "300",
+    "character exp": "22"
+  },
+  {
+    "level": "3",
+    "exp": "300",
+    "exp (total)": "600",
+    "character exp": "24"
+  },
+  {
+    "level": "4",
+    "exp": "400",
+    "exp (total)": "1,000",
+    "character exp": "26"
+  },
+  {
+    "level": "5",
+    "exp": "500",
+    "exp (total)": "1,500",
+    "character exp": "28"
+  },
+  {
+    "level": "6",
+    "exp": "600",
+    "exp (total)": "2,100",
+    "character exp": "30"
+  },
+  {
+    "level": "7",
+    "exp": "700",
+    "exp (total)": "2,800",
+    "character exp": "32"
+  },
+  {
+    "level": "8",
+    "exp": "800",
+    "exp (total)": "3,600",
+    "character exp": "34"
+  },
+  {
+    "level": "9",
+    "exp": "900",
+    "exp (total)": "4,500",
+    "character exp": "36"
+  },
+  {
+    "level": "10",
+    "exp": "1,000",
+    "exp (total)": "5,500",
+    "character exp": "38"
+  },
+  {
+    "level": "11",
+    "exp": "1,050",
+    "exp (total)": "6,550",
+    "character exp": "40"
+  },
+  {
+    "level": "12",
+    "exp": "1,025",
+    "exp (total)": "7,575",
+    "character exp": "42"
+  },
+  {
+    "level": "13",
+    "exp": "1,050",
+    "exp (total)": "8,625",
+    "character exp": "44"
+  },
+  {
+    "level": "14",
+    "exp": "1,075",
+    "exp (total)": "9,700",
+    "character exp": "46"
+  },
+  {
+    "level": "15",
+    "exp": "1,100",
+    "exp (total)": "10,800",
+    "character exp": "48"
+  },
+  {
+    "level": "16",
+    "exp": "1,125",
+    "exp (total)": "11,925",
+    "character exp": "52"
+  },
+  {
+    "level": "17",
+    "exp": "1,150",
+    "exp (total)": "13,075",
+    "character exp": "56"
+  },
+  {
+    "level": "18",
+    "exp": "1,175",
+    "exp (total)": "14,250",
+    "character exp": "60"
+  },
+  {
+    "level": "19",
+    "exp": "1,200",
+    "exp (total)": "15,450",
+    "character exp": "64"
+  },
+  {
+    "level": "20",
+    "exp": "1,225",
+    "exp (total)": "16,675",
+    "character exp": "68"
+  },
+  {
+    "level": "21",
+    "exp": "1,250",
+    "exp (total)": "17,925",
+    "character exp": "72"
+  },
+  {
+    "level": "22",
+    "exp": "1,275",
+    "exp (total)": "19,200",
+    "character exp": "76"
+  },
+  {
+    "level": "23",
+    "exp": "1,300",
+    "exp (total)": "20,500",
+    "character exp": "80"
+  },
+  {
+    "level": "24",
+    "exp": "1,325",
+    "exp (total)": "21,825",
+    "character exp": "84"
+  },
+  {
+    "level": "25",
+    "exp": "1,350",
+    "exp (total)": "23,175",
+    "character exp": "88"
+  },
+  {
+    "level": "26",
+    "exp": "1,375",
+    "exp (total)": "24,550",
+    "character exp": "92"
+  },
+  {
+    "level": "27",
+    "exp": "1,400",
+    "exp (total)": "25,950",
+    "character exp": "96"
+  },
+  {
+    "level": "28",
+    "exp": "1,425",
+    "exp (total)": "27,375",
+    "character exp": "100"
+  },
+  {
+    "level": "29",
+    "exp": "1,450",
+    "exp (total)": "28,825",
+    "character exp": "104"
+  },
+  {
+    "level": "30",
+    "exp": "1,475",
+    "exp (total)": "30,300",
+    "character exp": "108"
+  },
+  {
+    "level": "31",
+    "exp": "1,500",
+    "exp (total)": "31,800",
+    "character exp": "112"
+  },
+  {
+    "level": "32",
+    "exp": "1,525",
+    "exp (total)": "33,325",
+    "character exp": "116"
+  },
+  {
+    "level": "33",
+    "exp": "1,550",
+    "exp (total)": "34,875",
+    "character exp": "120"
+  },
+  {
+    "level": "34",
+    "exp": "1,575",
+    "exp (total)": "36,450",
+    "character exp": "124"
+  },
+  {
+    "level": "35",
+    "exp": "1,600",
+    "exp (total)": "38,050",
+    "character exp": "128"
+  },
+  {
+    "level": "36",
+    "exp": "1,625",
+    "exp (total)": "39,675",
+    "character exp": "132"
+  },
+  {
+    "level": "37",
+    "exp": "1,650",
+    "exp (total)": "41,325",
+    "character exp": "136"
+  },
+  {
+    "level": "38",
+    "exp": "1,675",
+    "exp (total)": "43,000",
+    "character exp": "140"
+  },
+  {
+    "level": "39",
+    "exp": "1,700",
+    "exp (total)": "44,700",
+    "character exp": "144"
+  },
+  {
+    "level": "40",
+    "exp": "1,725",
+    "exp (total)": "46,425",
+    "character exp": "148"
+  },
+  {
+    "level": "41",
+    "exp": "1,750",
+    "exp (total)": "48,175",
+    "character exp": "154"
+  },
+  {
+    "level": "42",
+    "exp": "1,775",
+    "exp (total)": "49,950",
+    "character exp": "160"
+  },
+  {
+    "level": "43",
+    "exp": "1,800",
+    "exp (total)": "51,750",
+    "character exp": "166"
+  },
+  {
+    "level": "44",
+    "exp": "1,825",
+    "exp (total)": "53,575",
+    "character exp": "172"
+  },
+  {
+    "level": "45",
+    "exp": "1,850",
+    "exp (total)": "55,425",
+    "character exp": "178"
+  },
+  {
+    "level": "46",
+    "exp": "1,875",
+    "exp (total)": "57,300",
+    "character exp": "184"
+  },
+  {
+    "level": "47",
+    "exp": "1,900",
+    "exp (total)": "59,200",
+    "character exp": "190"
+  },
+  {
+    "level": "48",
+    "exp": "1,925",
+    "exp (total)": "61,125",
+    "character exp": "196"
+  },
+  {
+    "level": "49",
+    "exp": "1,950",
+    "exp (total)": "63,075",
+    "character exp": "202"
+  },
+  {
+    "level": "50",
+    "exp": "1,975",
+    "exp (total)": "65,050",
+    "character exp": "208"
+  },
+  {
+    "level": "51",
+    "exp": "2,000",
+    "exp (total)": "67,050",
+    "character exp": "216"
+  },
+  {
+    "level": "52",
+    "exp": "2,010",
+    "exp (total)": "69,060",
+    "character exp": "224"
+  },
+  {
+    "level": "53",
+    "exp": "2,020",
+    "exp (total)": "71,080",
+    "character exp": "232"
+  },
+  {
+    "level": "54",
+    "exp": "2,030",
+    "exp (total)": "73,110",
+    "character exp": "240"
+  },
+  {
+    "level": "55",
+    "exp": "2,040",
+    "exp (total)": "75,150",
+    "character exp": "248"
+  },
+  {
+    "level": "56",
+    "exp": "2,050",
+    "exp (total)": "77,200",
+    "character exp": "256"
+  },
+  {
+    "level": "57",
+    "exp": "2,060",
+    "exp (total)": "79,260",
+    "character exp": "264"
+  },
+  {
+    "level": "58",
+    "exp": "2,070",
+    "exp (total)": "81,330",
+    "character exp": "272"
+  },
+  {
+    "level": "59",
+    "exp": "2,080",
+    "exp (total)": "83,410",
+    "character exp": "280"
+  },
+  {
+    "level": "60",
+    "exp": "2,090",
+    "exp (total)": "85,500",
+    "character exp": "288"
+  },
+  {
+    "level": "61",
+    "exp": "2,100",
+    "exp (total)": "87,600",
+    "character exp": "296"
+  },
+  {
+    "level": "62",
+    "exp": "2,110",
+    "exp (total)": "89,710",
+    "character exp": "304"
+  },
+  {
+    "level": "63",
+    "exp": "2,120",
+    "exp (total)": "91,830",
+    "character exp": "312"
+  },
+  {
+    "level": "64",
+    "exp": "2,130",
+    "exp (total)": "93,960",
+    "character exp": "320"
+  },
+  {
+    "level": "65",
+    "exp": "2,140",
+    "exp (total)": "96,100",
+    "character exp": "328"
+  },
+  {
+    "level": "66",
+    "exp": "2,150",
+    "exp (total)": "98,250",
+    "character exp": "336"
+  },
+  {
+    "level": "67",
+    "exp": "2,160",
+    "exp (total)": "100,410",
+    "character exp": "344"
+  },
+  {
+    "level": "68",
+    "exp": "2,170",
+    "exp (total)": "102,580",
+    "character exp": "352"
+  },
+  {
+    "level": "69",
+    "exp": "2,180",
+    "exp (total)": "104,760",
+    "character exp": "360"
+  },
+  {
+    "level": "70",
+    "exp": "2,190",
+    "exp (total)": "106,950",
+    "character exp": "368"
+  },
+  {
+    "level": "71",
+    "exp": "2,200",
+    "exp (total)": "109,150",
+    "character exp": "376"
+  },
+  {
+    "level": "72",
+    "exp": "2,210",
+    "exp (total)": "111,360",
+    "character exp": "384"
+  },
+  {
+    "level": "73",
+    "exp": "2,220",
+    "exp (total)": "113,580",
+    "character exp": "392"
+  },
+  {
+    "level": "74",
+    "exp": "2,230",
+    "exp (total)": "115,810",
+    "character exp": "400"
+  },
+  {
+    "level": "75",
+    "exp": "2,240",
+    "exp (total)": "118,050",
+    "character exp": "408"
+  },
+  {
+    "level": "76",
+    "exp": "2,250",
+    "exp (total)": "120,300",
+    "character exp": "418"
+  },
+  {
+    "level": "77",
+    "exp": "2,260",
+    "exp (total)": "122,560",
+    "character exp": "428"
+  },
+  {
+    "level": "78",
+    "exp": "2,270",
+    "exp (total)": "124,830",
+    "character exp": "438"
+  },
+  {
+    "level": "79",
+    "exp": "2,280",
+    "exp (total)": "127,110",
+    "character exp": "448"
+  },
+  {
+    "level": "80",
+    "exp": "2,290",
+    "exp (total)": "129,400",
+    "character exp": "458"
+  },
+  {
+    "level": "81",
+    "exp": "2,300",
+    "exp (total)": "131,700",
+    "character exp": "468"
+  },
+  {
+    "level": "82",
+    "exp": "2,310",
+    "exp (total)": "134,010",
+    "character exp": "478"
+  },
+  {
+    "level": "83",
+    "exp": "2,320",
+    "exp (total)": "136,330",
+    "character exp": "488"
+  },
+  {
+    "level": "84",
+    "exp": "2,330",
+    "exp (total)": "138,660",
+    "character exp": "498"
+  },
+  {
+    "level": "85",
+    "exp": "2,340",
+    "exp (total)": "141,000",
+    "character exp": "508"
+  },
+  {
+    "level": "86",
+    "exp": "2,350",
+    "exp (total)": "143,350",
+    "character exp": "518"
+  },
+  {
+    "level": "87",
+    "exp": "2,360",
+    "exp (total)": "145,710",
+    "character exp": "528"
+  },
+  {
+    "level": "88",
+    "exp": "2,370",
+    "exp (total)": "148,080",
+    "character exp": "538"
+  },
+  {
+    "level": "89",
+    "exp": "2,380",
+    "exp (total)": "150,460",
+    "character exp": "548"
+  },
+  {
+    "level": "90",
+    "exp": "2,390",
+    "exp (total)": "152,850",
+    "character exp": "558"
+  },
+  {
+    "level": "91",
+    "exp": "2,400",
+    "exp (total)": "155,250",
+    "character exp": "568"
+  },
+  {
+    "level": "92",
+    "exp": "2,410",
+    "exp (total)": "157,660",
+    "character exp": "578"
+  },
+  {
+    "level": "93",
+    "exp": "2,420",
+    "exp (total)": "160,080",
+    "character exp": "588"
+  },
+  {
+    "level": "94",
+    "exp": "2,430",
+    "exp (total)": "162,510",
+    "character exp": "598"
+  },
+  {
+    "level": "95",
+    "exp": "2,440",
+    "exp (total)": "164,950",
+    "character exp": "608"
+  },
+  {
+    "level": "96",
+    "exp": "2,450",
+    "exp (total)": "167,400",
+    "character exp": "618"
+  },
+  {
+    "level": "97",
+    "exp": "2,460",
+    "exp (total)": "169,860",
+    "character exp": "628"
+  },
+  {
+    "level": "98",
+    "exp": "2,470",
+    "exp (total)": "172,330",
+    "character exp": "638"
+  },
+  {
+    "level": "99",
+    "exp": "2,480",
+    "exp (total)": "174,810",
+    "character exp": "648"
+  },
+  {
+    "level": "100",
+    "exp": "2,490",
+    "exp (total)": "177,300",
+    "character exp": "658"
+  },
+  {
+    "level": "101",
+    "exp": "2,500",
+    "exp (total)": "179,800",
+    "character exp": "670"
+  },
+  {
+    "level": "102",
+    "exp": "2,505",
+    "exp (total)": "182,305",
+    "character exp": "682"
+  },
+  {
+    "level": "103",
+    "exp": "2,510",
+    "exp (total)": "184,815",
+    "character exp": "694"
+  },
+  {
+    "level": "104",
+    "exp": "2,515",
+    "exp (total)": "187,330",
+    "character exp": "706"
+  },
+  {
+    "level": "105",
+    "exp": "2,520",
+    "exp (total)": "189,850",
+    "character exp": "718"
+  },
+  {
+    "level": "106",
+    "exp": "2,525",
+    "exp (total)": "192,375",
+    "character exp": "730"
+  },
+  {
+    "level": "107",
+    "exp": "2,530",
+    "exp (total)": "194,905",
+    "character exp": "742"
+  },
+  {
+    "level": "108",
+    "exp": "2,535",
+    "exp (total)": "197,440",
+    "character exp": "754"
+  },
+  {
+    "level": "109",
+    "exp": "2,540",
+    "exp (total)": "199,980",
+    "character exp": "766"
+  },
+  {
+    "level": "110",
+    "exp": "2,545",
+    "exp (total)": "202,525",
+    "character exp": "778"
+  },
+  {
+    "level": "111",
+    "exp": "2,550",
+    "exp (total)": "205,075",
+    "character exp": "790"
+  },
+  {
+    "level": "112",
+    "exp": "2,555",
+    "exp (total)": "207,630",
+    "character exp": "802"
+  },
+  {
+    "level": "113",
+    "exp": "2,560",
+    "exp (total)": "210,190",
+    "character exp": "814"
+  },
+  {
+    "level": "114",
+    "exp": "2,565",
+    "exp (total)": "212,755",
+    "character exp": "826"
+  },
+  {
+    "level": "115",
+    "exp": "2,570",
+    "exp (total)": "215,325",
+    "character exp": "838"
+  },
+  {
+    "level": "116",
+    "exp": "2,575",
+    "exp (total)": "217,900",
+    "character exp": "850"
+  },
+  {
+    "level": "117",
+    "exp": "2,580",
+    "exp (total)": "220,480",
+    "character exp": "862"
+  },
+  {
+    "level": "118",
+    "exp": "2,585",
+    "exp (total)": "223,065",
+    "character exp": "874"
+  },
+  {
+    "level": "119",
+    "exp": "2,590",
+    "exp (total)": "225,655",
+    "character exp": "886"
+  },
+  {
+    "level": "120",
+    "exp": "2,595",
+    "exp (total)": "228,250",
+    "character exp": "898"
+  },
+  {
+    "level": "121",
+    "exp": "2,600",
+    "exp (total)": "230,850",
+    "character exp": "910"
+  },
+  {
+    "level": "122",
+    "exp": "2,605",
+    "exp (total)": "233,455",
+    "character exp": "922"
+  },
+  {
+    "level": "123",
+    "exp": "2,610",
+    "exp (total)": "236,065",
+    "character exp": "934"
+  },
+  {
+    "level": "124",
+    "exp": "2,615",
+    "exp (total)": "238,680",
+    "character exp": "946"
+  },
+  {
+    "level": "125",
+    "exp": "2,620",
+    "exp (total)": "241,300",
+    "character exp": "958"
+  },
+  {
+    "level": "126",
+    "exp": "2,625",
+    "exp (total)": "243,925",
+    "character exp": "972"
+  },
+  {
+    "level": "127",
+    "exp": "2,630",
+    "exp (total)": "246,555",
+    "character exp": "986"
+  },
+  {
+    "level": "128",
+    "exp": "2,635",
+    "exp (total)": "249,190",
+    "character exp": "1,000"
+  },
+  {
+    "level": "129",
+    "exp": "2,640",
+    "exp (total)": "251,830",
+    "character exp": "1,014"
+  },
+  {
+    "level": "130",
+    "exp": "2,645",
+    "exp (total)": "254,475",
+    "character exp": "1,028"
+  },
+  {
+    "level": "131",
+    "exp": "2,650",
+    "exp (total)": "257,125",
+    "character exp": "1,042"
+  },
+  {
+    "level": "132",
+    "exp": "2,655",
+    "exp (total)": "259,780",
+    "character exp": "1,056"
+  },
+  {
+    "level": "133",
+    "exp": "2,660",
+    "exp (total)": "262,440",
+    "character exp": "1,070"
+  },
+  {
+    "level": "134",
+    "exp": "2,665",
+    "exp (total)": "265,105",
+    "character exp": "1,084"
+  },
+  {
+    "level": "135",
+    "exp": "2,670",
+    "exp (total)": "267,775",
+    "character exp": "1,098"
+  },
+  {
+    "level": "136",
+    "exp": "2,675",
+    "exp (total)": "270,450",
+    "character exp": "1,112"
+  },
+  {
+    "level": "137",
+    "exp": "2,680",
+    "exp (total)": "273,130",
+    "character exp": "1,126"
+  },
+  {
+    "level": "138",
+    "exp": "2,685",
+    "exp (total)": "275,815",
+    "character exp": "1,140"
+  },
+  {
+    "level": "139",
+    "exp": "2,690",
+    "exp (total)": "278,505",
+    "character exp": "1,154"
+  },
+  {
+    "level": "140",
+    "exp": "2,695",
+    "exp (total)": "281,200",
+    "character exp": "1,168"
+  },
+  {
+    "level": "141",
+    "exp": "2,700",
+    "exp (total)": "283,900",
+    "character exp": "1,182"
+  },
+  {
+    "level": "142",
+    "exp": "2,705",
+    "exp (total)": "286,605",
+    "character exp": "1,196"
+  },
+  {
+    "level": "143",
+    "exp": "2,710",
+    "exp (total)": "289,315",
+    "character exp": "1,210"
+  },
+  {
+    "level": "144",
+    "exp": "2,715",
+    "exp (total)": "292,030",
+    "character exp": "1,224"
+  },
+  {
+    "level": "145",
+    "exp": "2,720",
+    "exp (total)": "294,750",
+    "character exp": "1,238"
+  },
+  {
+    "level": "146",
+    "exp": "2,725",
+    "exp (total)": "297,475",
+    "character exp": "1,252"
+  },
+  {
+    "level": "147",
+    "exp": "2,730",
+    "exp (total)": "300,205",
+    "character exp": "1,266"
+  },
+  {
+    "level": "148",
+    "exp": "2,735",
+    "exp (total)": "302,940",
+    "character exp": "1,280"
+  },
+  {
+    "level": "149",
+    "exp": "2,740",
+    "exp (total)": "305,680",
+    "character exp": "1,294"
+  },
+  {
+    "level": "150",
+    "exp": "2,745",
+    "exp (total)": "308,425",
+    "character exp": "1,308"
+  },
+  {
+    "level": "151",
+    "exp": "2,750",
+    "exp (total)": "311,175",
+    "character exp": "1,322"
+  },
+  {
+    "level": "152",
+    "exp": "2,755",
+    "exp (total)": "313,930",
+    "character exp": "1,336"
+  },
+  {
+    "level": "153",
+    "exp": "2,760",
+    "exp (total)": "316,690",
+    "character exp": "1,350"
+  },
+  {
+    "level": "154",
+    "exp": "2,765",
+    "exp (total)": "319,455",
+    "character exp": "1,364"
+  },
+  {
+    "level": "155",
+    "exp": "2,770",
+    "exp (total)": "322,225",
+    "character exp": "1,378"
+  },
+  {
+    "level": "156",
+    "exp": "2,775",
+    "exp (total)": "325,000",
+    "character exp": "1,392"
+  },
+  {
+    "level": "157",
+    "exp": "2,780",
+    "exp (total)": "327,780",
+    "character exp": "1,406"
+  },
+  {
+    "level": "158",
+    "exp": "2,785",
+    "exp (total)": "330,565",
+    "character exp": "1,420"
+  },
+  {
+    "level": "159",
+    "exp": "2,790",
+    "exp (total)": "333,355",
+    "character exp": "1,434"
+  },
+  {
+    "level": "160",
+    "exp": "2,795",
+    "exp (total)": "336,150",
+    "character exp": "1,448"
+  },
+  {
+    "level": "161",
+    "exp": "2,800",
+    "exp (total)": "338,950",
+    "character exp": "1,464"
+  },
+  {
+    "level": "162",
+    "exp": "2,805",
+    "exp (total)": "341,755",
+    "character exp": "1,480"
+  },
+  {
+    "level": "163",
+    "exp": "2,810",
+    "exp (total)": "344,565",
+    "character exp": "1,496"
+  },
+  {
+    "level": "164",
+    "exp": "2,815",
+    "exp (total)": "347,380",
+    "character exp": "1,512"
+  },
+  {
+    "level": "165",
+    "exp": "2,820",
+    "exp (total)": "350,200",
+    "character exp": "1,528"
+  },
+  {
+    "level": "166",
+    "exp": "2,825",
+    "exp (total)": "353,025",
+    "character exp": "1,544"
+  },
+  {
+    "level": "167",
+    "exp": "2,830",
+    "exp (total)": "355,855",
+    "character exp": "1,560"
+  },
+  {
+    "level": "168",
+    "exp": "2,835",
+    "exp (total)": "358,690",
+    "character exp": "1,576"
+  },
+  {
+    "level": "169",
+    "exp": "2,840",
+    "exp (total)": "361,530",
+    "character exp": "1,592"
+  },
+  {
+    "level": "170",
+    "exp": "2,845",
+    "exp (total)": "364,375",
+    "character exp": "1,608"
+  },
+  {
+    "level": "171",
+    "exp": "2,850",
+    "exp (total)": "367,225",
+    "character exp": "1,624"
+  },
+  {
+    "level": "172",
+    "exp": "2,855",
+    "exp (total)": "370,080",
+    "character exp": "1,640"
+  },
+  {
+    "level": "173",
+    "exp": "2,860",
+    "exp (total)": "372,940",
+    "character exp": "1,656"
+  },
+  {
+    "level": "174",
+    "exp": "2,865",
+    "exp (total)": "375,805",
+    "character exp": "1,672"
+  },
+  {
+    "level": "175",
+    "exp": "2,870",
+    "exp (total)": "378,675",
+    "character exp": "1,688"
+  },
+  {
+    "level": "176",
+    "exp": "2,875",
+    "exp (total)": "381,550",
+    "character exp": "1,706"
+  },
+  {
+    "level": "177",
+    "exp": "2,880",
+    "exp (total)": "384,430",
+    "character exp": "1,724"
+  },
+  {
+    "level": "178",
+    "exp": "2,885",
+    "exp (total)": "387,315",
+    "character exp": "1,742"
+  },
+  {
+    "level": "179",
+    "exp": "2,890",
+    "exp (total)": "390,205",
+    "character exp": "1,760"
+  },
+  {
+    "level": "180",
+    "exp": "2,895",
+    "exp (total)": "393,100",
+    "character exp": "1,778"
+  },
+  {
+    "level": "181",
+    "exp": "2,900",
+    "exp (total)": "396,000",
+    "character exp": "1,796"
+  },
+  {
+    "level": "182",
+    "exp": "2,905",
+    "exp (total)": "398,905",
+    "character exp": "1,814"
+  },
+  {
+    "level": "183",
+    "exp": "2,910",
+    "exp (total)": "401,815",
+    "character exp": "1,832"
+  },
+  {
+    "level": "184",
+    "exp": "2,915",
+    "exp (total)": "404,730",
+    "character exp": "1,850"
+  },
+  {
+    "level": "185",
+    "exp": "2,920",
+    "exp (total)": "407,650",
+    "character exp": "1,868"
+  },
+  {
+    "level": "186",
+    "exp": "2,925",
+    "exp (total)": "410,575",
+    "character exp": "1,886"
+  },
+  {
+    "level": "187",
+    "exp": "2,930",
+    "exp (total)": "413,505",
+    "character exp": "1,904"
+  },
+  {
+    "level": "188",
+    "exp": "2,935",
+    "exp (total)": "416,440",
+    "character exp": "1,922"
+  },
+  {
+    "level": "189",
+    "exp": "2,940",
+    "exp (total)": "419,380",
+    "character exp": "1,940"
+  },
+  {
+    "level": "190",
+    "exp": "2,945",
+    "exp (total)": "422,325",
+    "character exp": "1,958"
+  },
+  {
+    "level": "191",
+    "exp": "2,950",
+    "exp (total)": "425,275",
+    "character exp": "1,978"
+  },
+  {
+    "level": "192",
+    "exp": "2,955",
+    "exp (total)": "428,230",
+    "character exp": "1,998"
+  },
+  {
+    "level": "193",
+    "exp": "2,960",
+    "exp (total)": "431,190",
+    "character exp": "2,018"
+  },
+  {
+    "level": "194",
+    "exp": "2,965",
+    "exp (total)": "434,155",
+    "character exp": "2,038"
+  },
+  {
+    "level": "195",
+    "exp": "2,970",
+    "exp (total)": "437,125",
+    "character exp": "2,058"
+  },
+  {
+    "level": "196",
+    "exp": "2,975",
+    "exp (total)": "440,100",
+    "character exp": "2,078"
+  },
+  {
+    "level": "197",
+    "exp": "2,980",
+    "exp (total)": "443,080",
+    "character exp": "2,098"
+  },
+  {
+    "level": "198",
+    "exp": "2,985",
+    "exp (total)": "446,065",
+    "character exp": "2,118"
+  },
+  {
+    "level": "199",
+    "exp": "2,990",
+    "exp (total)": "449,055",
+    "character exp": "2,138"
+  },
+  {
+    "level": "200",
+    "exp": "2,995",
+    "exp (total)": "452,050",
+    "character exp": "2,158"
+  }
+]

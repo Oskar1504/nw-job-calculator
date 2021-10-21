@@ -1,0 +1,74 @@
+{
+  "iron_ore":{
+      "name": "iron_ore",
+      "type": "raw"
+  },
+  "iron_ingot":{
+    "name": "iron_ingot",
+    "type": "crafted"
+  },
+  "steel_ingot":{
+    "name": "steel_ingot",
+    "type": "crafted"
+  },
+  "sand_flux": {
+    "name": "sand_flux",
+    "type": "raw"
+  },
+  "sand_paper": {
+    "name": "sand_paper",
+    "type": "raw"
+  },
+  "tannin": {
+    "name": "tannin",
+    "type": "raw"
+  },
+  "crossweave": {
+    "name": "crossweave",
+    "type": "raw"
+  },
+  "charcoal": {
+    "name": "charcoal",
+    "type": "crafted"
+  },
+  "green_wood": {
+    "name": "green_wood",
+    "type": "raw"
+  },
+  "aged_wood": {
+    "name": "aged_wood",
+    "type": "raw"
+  },
+  "timber": {
+    "name": "timber",
+    "type": "crafted"
+  },
+  "lumber": {
+    "name": "lumber",
+    "type": "crafted"
+  },
+  "raw_hide": {
+    "name": "raw_hide",
+    "type": "raw"
+  },
+  "coarse_leather": {
+    "name": "coarse_leather",
+    "type": "crafted"
+  },
+  "rugged_leather": {
+    "name": "rugged_leather",
+    "type": "crafted"
+  },
+  "fiber": {
+    "name": "fiber",
+    "type": "raw"
+  },
+  "linen": {
+    "name": "linen",
+    "type": "crafted"
+  },
+  "sateen": {
+    "name": "sateen",
+    "type": "crafted"
+  }
+}

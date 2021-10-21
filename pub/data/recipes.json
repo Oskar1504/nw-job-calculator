@@ -1,21 +1,23 @@
-[
-  {
-    "name": "iron",
-    "rawResources": [{
-      "name": "iron_ore",
-      "amount": 4
-    }]
-  },
-  {
-    "name": "iron_2",
-    "rawResources": [
+{
+  "iron_ingot":{
+    "name": "iron_ingot",
+    "ingredients": [
       {
         "name": "iron_ore",
-        "amount": 12
+        "amount": 4
+      }
+    ]
+  },
+  "steel_ingot":{
+    "name": "steel_ingot",
+    "ingredients": [
+      {
+        "name": "iron_ingot",
+        "amount": 3
       },
       {
-        "name": "raw_wood_1",
-        "amount": 4
+        "name": "charcoal",
+        "amount": 2
       },
       {
         "name": "sand_flux",
@@ -23,45 +25,56 @@
       }
     ]
   },
-  {
-    "name": "wood",
-    "rawResources": [{
-      "name": "raw_wood_1",
-      "amount": 4
-    }]
+  "charcoal":{
+    "name": "charcoal",
+    "ingredients": [
+      {
+        "name": "green_wood",
+        "amount": 2
+      }
+    ]
   },
-  {
-    "name": "wood_2",
-    "rawResources": [
+  "timber":{
+    "name": "charcoal",
+    "ingredients": [
       {
-        "name": "raw_wood_1",
-        "amount": 8
-      },
+        "name": "green_wood",
+        "amount": 4
+      }
+    ]
+  },
+  "lumber":{
+    "name": "charcoal",
+    "ingredients": [
       {
-        "name": "raw_wood_2",
+        "name": "aged_wood",
         "amount": 4
       },
       {
-        "name": "sandpaper",
+        "name": "timber",
+        "amount": 2
+      },
+      {
+        "name": "sand_paper",
         "amount": 1
       }
     ]
   },
-  {
-    "name": "leather",
-    "rawResources": [
+  "coarse_leather": {
+    "name": "coarse_leather",
+    "ingredients": [
       {
-        "name": "raw_leather",
+        "name": "raw_hide",
         "amount": 4
       }
     ]
   },
-  {
-    "name": "leather_2",
-    "rawResources": [
+  "rugged_leather": {
+    "name": "rugged_leather",
+    "ingredients": [
       {
-        "name": "raw_leather",
-        "amount": 16
+        "name": "coarse_leather",
+        "amount": 4
       },
       {
         "name": "tannin",
@@ -69,13 +82,26 @@
       }
     ]
   },
-  {
-    "name": "cloth",
-    "rawResources": [
+  "linen": {
+    "name": "linen",
+    "ingredients": [
       {
-        "name": "hemp",
+        "name": "fiber",
         "amount": 4
       }
     ]
+  },
+  "sateen": {
+    "name": "sateen",
+    "ingredients": [
+      {
+        "name": "fiber",
+        "amount": 4
+      },
+      {
+        "name": "crossweave",
+        "amount": 1
+      }
+    ]
   }
-]
+}

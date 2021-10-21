@@ -1,0 +1,1602 @@
+[
+  {
+    "level": "1",
+    "exp": "100",
+    "exp (total)": "100",
+    "character exp": "10",
+    "drop rate increase": "0.10%",
+    "gathering speed bonus": "5.00%"
+  },
+  {
+    "level": "2",
+    "exp": "105",
+    "exp (total)": "205",
+    "character exp": "11",
+    "drop rate increase": "0.20%",
+    "gathering speed bonus": "10.00%"
+  },
+  {
+    "level": "3",
+    "exp": "110",
+    "exp (total)": "315",
+    "character exp": "12",
+    "drop rate increase": "0.30%",
+    "gathering speed bonus": "15.00%"
+  },
+  {
+    "level": "4",
+    "exp": "115",
+    "exp (total)": "430",
+    "character exp": "13",
+    "drop rate increase": "0.40%",
+    "gathering speed bonus": "20.00%"
+  },
+  {
+    "level": "5",
+    "exp": "120",
+    "exp (total)": "550",
+    "character exp": "14",
+    "drop rate increase": "0.50%",
+    "gathering speed bonus": "25.00%"
+  },
+  {
+    "level": "6",
+    "exp": "125",
+    "exp (total)": "675",
+    "character exp": "15",
+    "drop rate increase": "0.60%",
+    "gathering speed bonus": "30.00%"
+  },
+  {
+    "level": "7",
+    "exp": "130",
+    "exp (total)": "805",
+    "character exp": "16",
+    "drop rate increase": "0.70%",
+    "gathering speed bonus": "35.00%"
+  },
+  {
+    "level": "8",
+    "exp": "136",
+    "exp (total)": "941",
+    "character exp": "17",
+    "drop rate increase": "0.80%",
+    "gathering speed bonus": "40.00%"
+  },
+  {
+    "level": "9",
+    "exp": "142",
+    "exp (total)": "1,083",
+    "character exp": "18",
+    "drop rate increase": "0.90%",
+    "gathering speed bonus": "45.00%"
+  },
+  {
+    "level": "10",
+    "exp": "148",
+    "exp (total)": "1,231",
+    "character exp": "19",
+    "drop rate increase": "1.00%",
+    "gathering speed bonus": "50.00%"
+  },
+  {
+    "level": "11",
+    "exp": "154",
+    "exp (total)": "1,385",
+    "character exp": "20",
+    "drop rate increase": "1.10%",
+    "gathering speed bonus": "55.00%"
+  },
+  {
+    "level": "12",
+    "exp": "160",
+    "exp (total)": "1,545",
+    "character exp": "21",
+    "drop rate increase": "1.20%",
+    "gathering speed bonus": "60.00%"
+  },
+  {
+    "level": "13",
+    "exp": "167",
+    "exp (total)": "1,712",
+    "character exp": "22",
+    "drop rate increase": "1.30%",
+    "gathering speed bonus": "65.00%"
+  },
+  {
+    "level": "14",
+    "exp": "174",
+    "exp (total)": "1,886",
+    "character exp": "23",
+    "drop rate increase": "1.40%",
+    "gathering speed bonus": "70.00%"
+  },
+  {
+    "level": "15",
+    "exp": "181",
+    "exp (total)": "2,067",
+    "character exp": "24",
+    "drop rate increase": "1.50%",
+    "gathering speed bonus": "75.00%"
+  },
+  {
+    "level": "16",
+    "exp": "188",
+    "exp (total)": "2,255",
+    "character exp": "26",
+    "drop rate increase": "1.60%",
+    "gathering speed bonus": "80.00%"
+  },
+  {
+    "level": "17",
+    "exp": "196",
+    "exp (total)": "2,451",
+    "character exp": "28",
+    "drop rate increase": "1.70%",
+    "gathering speed bonus": "85.00%"
+  },
+  {
+    "level": "18",
+    "exp": "204",
+    "exp (total)": "2,655",
+    "character exp": "30",
+    "drop rate increase": "1.80%",
+    "gathering speed bonus": "90.00%"
+  },
+  {
+    "level": "19",
+    "exp": "212",
+    "exp (total)": "2,867",
+    "character exp": "32",
+    "drop rate increase": "1.90%",
+    "gathering speed bonus": "95.00%"
+  },
+  {
+    "level": "20",
+    "exp": "220",
+    "exp (total)": "3,087",
+    "character exp": "34",
+    "drop rate increase": "2.00%",
+    "gathering speed bonus": "100.00%"
+  },
+  {
+    "level": "21",
+    "exp": "229",
+    "exp (total)": "3,316",
+    "character exp": "36",
+    "drop rate increase": "2.10%",
+    "gathering speed bonus": "100.30%"
+  },
+  {
+    "level": "22",
+    "exp": "238",
+    "exp (total)": "3,554",
+    "character exp": "38",
+    "drop rate increase": "2.20%",
+    "gathering speed bonus": "100.60%"
+  },
+  {
+    "level": "23",
+    "exp": "247",
+    "exp (total)": "3,801",
+    "character exp": "40",
+    "drop rate increase": "2.30%",
+    "gathering speed bonus": "100.90%"
+  },
+  {
+    "level": "24",
+    "exp": "256",
+    "exp (total)": "4,057",
+    "character exp": "42",
+    "drop rate increase": "2.40%",
+    "gathering speed bonus": "101.20%"
+  },
+  {
+    "level": "25",
+    "exp": "266",
+    "exp (total)": "4,323",
+    "character exp": "44",
+    "drop rate increase": "2.50%",
+    "gathering speed bonus": "101.50%"
+  },
+  {
+    "level": "26",
+    "exp": "276",
+    "exp (total)": "4,599",
+    "character exp": "46",
+    "drop rate increase": "2.60%",
+    "gathering speed bonus": "101.80%"
+  },
+  {
+    "level": "27",
+    "exp": "286",
+    "exp (total)": "4,885",
+    "character exp": "48",
+    "drop rate increase": "2.70%",
+    "gathering speed bonus": "102.10%"
+  },
+  {
+    "level": "28",
+    "exp": "297",
+    "exp (total)": "5,182",
+    "character exp": "50",
+    "drop rate increase": "2.80%",
+    "gathering speed bonus": "102.40%"
+  },
+  {
+    "level": "29",
+    "exp": "308",
+    "exp (total)": "5,490",
+    "character exp": "52",
+    "drop rate increase": "2.90%",
+    "gathering speed bonus": "102.70%"
+  },
+  {
+    "level": "30",
+    "exp": "319",
+    "exp (total)": "5,809",
+    "character exp": "54",
+    "drop rate increase": "3.00%",
+    "gathering speed bonus": "103.00%"
+  },
+  {
+    "level": "31",
+    "exp": "331",
+    "exp (total)": "6,140",
+    "character exp": "56",
+    "drop rate increase": "3.10%",
+    "gathering speed bonus": "103.30%"
+  },
+  {
+    "level": "32",
+    "exp": "343",
+    "exp (total)": "6,483",
+    "character exp": "58",
+    "drop rate increase": "3.20%",
+    "gathering speed bonus": "103.60%"
+  },
+  {
+    "level": "33",
+    "exp": "355",
+    "exp (total)": "6,838",
+    "character exp": "60",
+    "drop rate increase": "3.30%",
+    "gathering speed bonus": "103.90%"
+  },
+  {
+    "level": "34",
+    "exp": "368",
+    "exp (total)": "7,206",
+    "character exp": "62",
+    "drop rate increase": "3.40%",
+    "gathering speed bonus": "104.20%"
+  },
+  {
+    "level": "35",
+    "exp": "381",
+    "exp (total)": "7,587",
+    "character exp": "64",
+    "drop rate increase": "3.50%",
+    "gathering speed bonus": "104.50%"
+  },
+  {
+    "level": "36",
+    "exp": "394",
+    "exp (total)": "7,981",
+    "character exp": "66",
+    "drop rate increase": "3.60%",
+    "gathering speed bonus": "104.80%"
+  },
+  {
+    "level": "37",
+    "exp": "408",
+    "exp (total)": "8,389",
+    "character exp": "68",
+    "drop rate increase": "3.70%",
+    "gathering speed bonus": "105.10%"
+  },
+  {
+    "level": "38",
+    "exp": "422",
+    "exp (total)": "8,811",
+    "character exp": "70",
+    "drop rate increase": "3.80%",
+    "gathering speed bonus": "105.40%"
+  },
+  {
+    "level": "39",
+    "exp": "436",
+    "exp (total)": "9,247",
+    "character exp": "72",
+    "drop rate increase": "3.90%",
+    "gathering speed bonus": "105.70%"
+  },
+  {
+    "level": "40",
+    "exp": "451",
+    "exp (total)": "9,698",
+    "character exp": "74",
+    "drop rate increase": "4.00%",
+    "gathering speed bonus": "106.00%"
+  },
+  {
+    "level": "41",
+    "exp": "466",
+    "exp (total)": "10,164",
+    "character exp": "77",
+    "drop rate increase": "4.10%",
+    "gathering speed bonus": "106.30%"
+  },
+  {
+    "level": "42",
+    "exp": "481",
+    "exp (total)": "10,645",
+    "character exp": "80",
+    "drop rate increase": "4.20%",
+    "gathering speed bonus": "106.60%"
+  },
+  {
+    "level": "43",
+    "exp": "497",
+    "exp (total)": "11,142",
+    "character exp": "83",
+    "drop rate increase": "4.30%",
+    "gathering speed bonus": "106.90%"
+  },
+  {
+    "level": "44",
+    "exp": "513",
+    "exp (total)": "11,655",
+    "character exp": "86",
+    "drop rate increase": "4.40%",
+    "gathering speed bonus": "107.20%"
+  },
+  {
+    "level": "45",
+    "exp": "529",
+    "exp (total)": "12,184",
+    "character exp": "89",
+    "drop rate increase": "4.50%",
+    "gathering speed bonus": "107.50%"
+  },
+  {
+    "level": "46",
+    "exp": "546",
+    "exp (total)": "12,730",
+    "character exp": "92",
+    "drop rate increase": "4.60%",
+    "gathering speed bonus": "107.80%"
+  },
+  {
+    "level": "47",
+    "exp": "563",
+    "exp (total)": "13,293",
+    "character exp": "95",
+    "drop rate increase": "4.70%",
+    "gathering speed bonus": "108.10%"
+  },
+  {
+    "level": "48",
+    "exp": "580",
+    "exp (total)": "13,873",
+    "character exp": "98",
+    "drop rate increase": "4.80%",
+    "gathering speed bonus": "108.40%"
+  },
+  {
+    "level": "49",
+    "exp": "598",
+    "exp (total)": "14,471",
+    "character exp": "101",
+    "drop rate increase": "4.90%",
+    "gathering speed bonus": "108.70%"
+  },
+  {
+    "level": "50",
+    "exp": "616",
+    "exp (total)": "15,087",
+    "character exp": "104",
+    "drop rate increase": "5.00%",
+    "gathering speed bonus": "109.00%"
+  },
+  {
+    "level": "51",
+    "exp": "634",
+    "exp (total)": "15,721",
+    "character exp": "108",
+    "drop rate increase": "5.10%",
+    "gathering speed bonus": "109.30%"
+  },
+  {
+    "level": "52",
+    "exp": "653",
+    "exp (total)": "16,374",
+    "character exp": "112",
+    "drop rate increase": "5.20%",
+    "gathering speed bonus": "109.60%"
+  },
+  {
+    "level": "53",
+    "exp": "672",
+    "exp (total)": "17,046",
+    "character exp": "116",
+    "drop rate increase": "5.30%",
+    "gathering speed bonus": "109.90%"
+  },
+  {
+    "level": "54",
+    "exp": "691",
+    "exp (total)": "17,737",
+    "character exp": "120",
+    "drop rate increase": "5.40%",
+    "gathering speed bonus": "110.20%"
+  },
+  {
+    "level": "55",
+    "exp": "711",
+    "exp (total)": "18,448",
+    "character exp": "124",
+    "drop rate increase": "5.50%",
+    "gathering speed bonus": "110.50%"
+  },
+  {
+    "level": "56",
+    "exp": "731",
+    "exp (total)": "19,179",
+    "character exp": "128",
+    "drop rate increase": "5.60%",
+    "gathering speed bonus": "110.80%"
+  },
+  {
+    "level": "57",
+    "exp": "752",
+    "exp (total)": "19,931",
+    "character exp": "132",
+    "drop rate increase": "5.70%",
+    "gathering speed bonus": "111.10%"
+  },
+  {
+    "level": "58",
+    "exp": "773",
+    "exp (total)": "20,704",
+    "character exp": "136",
+    "drop rate increase": "5.80%",
+    "gathering speed bonus": "111.40%"
+  },
+  {
+    "level": "59",
+    "exp": "794",
+    "exp (total)": "21,498",
+    "character exp": "140",
+    "drop rate increase": "5.90%",
+    "gathering speed bonus": "111.70%"
+  },
+  {
+    "level": "60",
+    "exp": "816",
+    "exp (total)": "22,314",
+    "character exp": "144",
+    "drop rate increase": "6.00%",
+    "gathering speed bonus": "112.00%"
+  },
+  {
+    "level": "61",
+    "exp": "838",
+    "exp (total)": "23,152",
+    "character exp": "148",
+    "drop rate increase": "6.10%",
+    "gathering speed bonus": "112.30%"
+  },
+  {
+    "level": "62",
+    "exp": "860",
+    "exp (total)": "24,012",
+    "character exp": "152",
+    "drop rate increase": "6.20%",
+    "gathering speed bonus": "112.60%"
+  },
+  {
+    "level": "63",
+    "exp": "883",
+    "exp (total)": "24,895",
+    "character exp": "156",
+    "drop rate increase": "6.30%",
+    "gathering speed bonus": "112.90%"
+  },
+  {
+    "level": "64",
+    "exp": "906",
+    "exp (total)": "25,801",
+    "character exp": "160",
+    "drop rate increase": "6.40%",
+    "gathering speed bonus": "113.20%"
+  },
+  {
+    "level": "65",
+    "exp": "930",
+    "exp (total)": "26,731",
+    "character exp": "164",
+    "drop rate increase": "6.50%",
+    "gathering speed bonus": "113.50%"
+  },
+  {
+    "level": "66",
+    "exp": "954",
+    "exp (total)": "27,685",
+    "character exp": "168",
+    "drop rate increase": "6.60%",
+    "gathering speed bonus": "113.80%"
+  },
+  {
+    "level": "67",
+    "exp": "978",
+    "exp (total)": "28,663",
+    "character exp": "172",
+    "drop rate increase": "6.70%",
+    "gathering speed bonus": "114.10%"
+  },
+  {
+    "level": "68",
+    "exp": "1,003",
+    "exp (total)": "29,666",
+    "character exp": "176",
+    "drop rate increase": "6.80%",
+    "gathering speed bonus": "114.40%"
+  },
+  {
+    "level": "69",
+    "exp": "1,028",
+    "exp (total)": "30,694",
+    "character exp": "180",
+    "drop rate increase": "6.90%",
+    "gathering speed bonus": "114.70%"
+  },
+  {
+    "level": "70",
+    "exp": "1,053",
+    "exp (total)": "31,747",
+    "character exp": "184",
+    "drop rate increase": "7.00%",
+    "gathering speed bonus": "115.00%"
+  },
+  {
+    "level": "71",
+    "exp": "1,079",
+    "exp (total)": "32,826",
+    "character exp": "188",
+    "drop rate increase": "7.10%",
+    "gathering speed bonus": "115.30%"
+  },
+  {
+    "level": "72",
+    "exp": "1,105",
+    "exp (total)": "33,931",
+    "character exp": "192",
+    "drop rate increase": "7.20%",
+    "gathering speed bonus": "115.60%"
+  },
+  {
+    "level": "73",
+    "exp": "1,131",
+    "exp (total)": "35,062",
+    "character exp": "196",
+    "drop rate increase": "7.30%",
+    "gathering speed bonus": "115.90%"
+  },
+  {
+    "level": "74",
+    "exp": "1,158",
+    "exp (total)": "36,220",
+    "character exp": "200",
+    "drop rate increase": "7.40%",
+    "gathering speed bonus": "116.20%"
+  },
+  {
+    "level": "75",
+    "exp": "1,185",
+    "exp (total)": "37,405",
+    "character exp": "204",
+    "drop rate increase": "7.50%",
+    "gathering speed bonus": "116.50%"
+  },
+  {
+    "level": "76",
+    "exp": "1,212",
+    "exp (total)": "38,617",
+    "character exp": "209",
+    "drop rate increase": "7.60%",
+    "gathering speed bonus": "116.80%"
+  },
+  {
+    "level": "77",
+    "exp": "1,239",
+    "exp (total)": "39,856",
+    "character exp": "214",
+    "drop rate increase": "7.70%",
+    "gathering speed bonus": "117.10%"
+  },
+  {
+    "level": "78",
+    "exp": "1,267",
+    "exp (total)": "41,123",
+    "character exp": "219",
+    "drop rate increase": "7.80%",
+    "gathering speed bonus": "117.40%"
+  },
+  {
+    "level": "79",
+    "exp": "1,295",
+    "exp (total)": "42,418",
+    "character exp": "224",
+    "drop rate increase": "7.90%",
+    "gathering speed bonus": "117.70%"
+  },
+  {
+    "level": "80",
+    "exp": "1,323",
+    "exp (total)": "43,741",
+    "character exp": "229",
+    "drop rate increase": "8.00%",
+    "gathering speed bonus": "118.00%"
+  },
+  {
+    "level": "81",
+    "exp": "1,352",
+    "exp (total)": "45,093",
+    "character exp": "234",
+    "drop rate increase": "8.10%",
+    "gathering speed bonus": "118.30%"
+  },
+  {
+    "level": "82",
+    "exp": "1,381",
+    "exp (total)": "46,474",
+    "character exp": "239",
+    "drop rate increase": "8.20%",
+    "gathering speed bonus": "118.60%"
+  },
+  {
+    "level": "83",
+    "exp": "1,410",
+    "exp (total)": "47,884",
+    "character exp": "244",
+    "drop rate increase": "8.30%",
+    "gathering speed bonus": "118.90%"
+  },
+  {
+    "level": "84",
+    "exp": "1,439",
+    "exp (total)": "49,323",
+    "character exp": "249",
+    "drop rate increase": "8.40%",
+    "gathering speed bonus": "119.20%"
+  },
+  {
+    "level": "85",
+    "exp": "1,469",
+    "exp (total)": "50,792",
+    "character exp": "254",
+    "drop rate increase": "8.50%",
+    "gathering speed bonus": "119.50%"
+  },
+  {
+    "level": "86",
+    "exp": "1,499",
+    "exp (total)": "52,291",
+    "character exp": "259",
+    "drop rate increase": "8.60%",
+    "gathering speed bonus": "119.80%"
+  },
+  {
+    "level": "87",
+    "exp": "1,529",
+    "exp (total)": "53,820",
+    "character exp": "264",
+    "drop rate increase": "8.70%",
+    "gathering speed bonus": "120.10%"
+  },
+  {
+    "level": "88",
+    "exp": "1,559",
+    "exp (total)": "55,379",
+    "character exp": "269",
+    "drop rate increase": "8.80%",
+    "gathering speed bonus": "120.40%"
+  },
+  {
+    "level": "89",
+    "exp": "1,590",
+    "exp (total)": "56,969",
+    "character exp": "274",
+    "drop rate increase": "8.90%",
+    "gathering speed bonus": "120.70%"
+  },
+  {
+    "level": "90",
+    "exp": "1,621",
+    "exp (total)": "58,590",
+    "character exp": "279",
+    "drop rate increase": "9.00%",
+    "gathering speed bonus": "121.00%"
+  },
+  {
+    "level": "91",
+    "exp": "1,652",
+    "exp (total)": "60,242",
+    "character exp": "284",
+    "drop rate increase": "9.10%",
+    "gathering speed bonus": "121.30%"
+  },
+  {
+    "level": "92",
+    "exp": "1,683",
+    "exp (total)": "61,925",
+    "character exp": "289",
+    "drop rate increase": "9.20%",
+    "gathering speed bonus": "121.60%"
+  },
+  {
+    "level": "93",
+    "exp": "1,715",
+    "exp (total)": "63,640",
+    "character exp": "294",
+    "drop rate increase": "9.30%",
+    "gathering speed bonus": "121.90%"
+  },
+  {
+    "level": "94",
+    "exp": "1,747",
+    "exp (total)": "65,387",
+    "character exp": "299",
+    "drop rate increase": "9.40%",
+    "gathering speed bonus": "122.20%"
+  },
+  {
+    "level": "95",
+    "exp": "1,779",
+    "exp (total)": "67,166",
+    "character exp": "304",
+    "drop rate increase": "9.50%",
+    "gathering speed bonus": "122.50%"
+  },
+  {
+    "level": "96",
+    "exp": "1,811",
+    "exp (total)": "68,977",
+    "character exp": "309",
+    "drop rate increase": "9.60%",
+    "gathering speed bonus": "122.80%"
+  },
+  {
+    "level": "97",
+    "exp": "1,844",
+    "exp (total)": "70,821",
+    "character exp": "314",
+    "drop rate increase": "9.70%",
+    "gathering speed bonus": "123.10%"
+  },
+  {
+    "level": "98",
+    "exp": "1,877",
+    "exp (total)": "72,698",
+    "character exp": "319",
+    "drop rate increase": "9.80%",
+    "gathering speed bonus": "123.40%"
+  },
+  {
+    "level": "99",
+    "exp": "1,910",
+    "exp (total)": "74,608",
+    "character exp": "324",
+    "drop rate increase": "9.90%",
+    "gathering speed bonus": "123.70%"
+  },
+  {
+    "level": "100",
+    "exp": "1,943",
+    "exp (total)": "76,551",
+    "character exp": "329",
+    "drop rate increase": "10.00%",
+    "gathering speed bonus": "124.00%"
+  },
+  {
+    "level": "101",
+    "exp": "1,976",
+    "exp (total)": "78,527",
+    "character exp": "335",
+    "drop rate increase": "10.10%",
+    "gathering speed bonus": "124.30%"
+  },
+  {
+    "level": "102",
+    "exp": "2,009",
+    "exp (total)": "80,536",
+    "character exp": "341",
+    "drop rate increase": "10.20%",
+    "gathering speed bonus": "124.60%"
+  },
+  {
+    "level": "103",
+    "exp": "2,043",
+    "exp (total)": "82,579",
+    "character exp": "347",
+    "drop rate increase": "10.30%",
+    "gathering speed bonus": "124.90%"
+  },
+  {
+    "level": "104",
+    "exp": "2,077",
+    "exp (total)": "84,656",
+    "character exp": "353",
+    "drop rate increase": "10.40%",
+    "gathering speed bonus": "125.20%"
+  },
+  {
+    "level": "105",
+    "exp": "2,111",
+    "exp (total)": "86,767",
+    "character exp": "359",
+    "drop rate increase": "10.50%",
+    "gathering speed bonus": "125.50%"
+  },
+  {
+    "level": "106",
+    "exp": "2,145",
+    "exp (total)": "88,912",
+    "character exp": "365",
+    "drop rate increase": "10.60%",
+    "gathering speed bonus": "125.80%"
+  },
+  {
+    "level": "107",
+    "exp": "2,179",
+    "exp (total)": "91,091",
+    "character exp": "371",
+    "drop rate increase": "10.70%",
+    "gathering speed bonus": "126.10%"
+  },
+  {
+    "level": "108",
+    "exp": "2,213",
+    "exp (total)": "93,304",
+    "character exp": "377",
+    "drop rate increase": "10.80%",
+    "gathering speed bonus": "126.40%"
+  },
+  {
+    "level": "109",
+    "exp": "2,247",
+    "exp (total)": "95,551",
+    "character exp": "383",
+    "drop rate increase": "10.90%",
+    "gathering speed bonus": "126.70%"
+  },
+  {
+    "level": "110",
+    "exp": "2,281",
+    "exp (total)": "97,832",
+    "character exp": "389",
+    "drop rate increase": "11.00%",
+    "gathering speed bonus": "127.00%"
+  },
+  {
+    "level": "111",
+    "exp": "2,315",
+    "exp (total)": "100,147",
+    "character exp": "395",
+    "drop rate increase": "11.10%",
+    "gathering speed bonus": "127.30%"
+  },
+  {
+    "level": "112",
+    "exp": "2,350",
+    "exp (total)": "102,497",
+    "character exp": "401",
+    "drop rate increase": "11.20%",
+    "gathering speed bonus": "127.60%"
+  },
+  {
+    "level": "113",
+    "exp": "2,385",
+    "exp (total)": "104,882",
+    "character exp": "407",
+    "drop rate increase": "11.30%",
+    "gathering speed bonus": "127.90%"
+  },
+  {
+    "level": "114",
+    "exp": "2,420",
+    "exp (total)": "107,302",
+    "character exp": "413",
+    "drop rate increase": "11.40%",
+    "gathering speed bonus": "128.20%"
+  },
+  {
+    "level": "115",
+    "exp": "2,455",
+    "exp (total)": "109,757",
+    "character exp": "419",
+    "drop rate increase": "11.50%",
+    "gathering speed bonus": "128.50%"
+  },
+  {
+    "level": "116",
+    "exp": "2,490",
+    "exp (total)": "112,247",
+    "character exp": "425",
+    "drop rate increase": "11.60%",
+    "gathering speed bonus": "128.80%"
+  },
+  {
+    "level": "117",
+    "exp": "2,525",
+    "exp (total)": "114,772",
+    "character exp": "431",
+    "drop rate increase": "11.70%",
+    "gathering speed bonus": "129.10%"
+  },
+  {
+    "level": "118",
+    "exp": "2,560",
+    "exp (total)": "117,332",
+    "character exp": "437",
+    "drop rate increase": "11.80%",
+    "gathering speed bonus": "129.40%"
+  },
+  {
+    "level": "119",
+    "exp": "2,595",
+    "exp (total)": "119,927",
+    "character exp": "443",
+    "drop rate increase": "11.90%",
+    "gathering speed bonus": "129.70%"
+  },
+  {
+    "level": "120",
+    "exp": "2,630",
+    "exp (total)": "122,557",
+    "character exp": "449",
+    "drop rate increase": "12.00%",
+    "gathering speed bonus": "130.00%"
+  },
+  {
+    "level": "121",
+    "exp": "2,665",
+    "exp (total)": "125,222",
+    "character exp": "455",
+    "drop rate increase": "12.10%",
+    "gathering speed bonus": "130.30%"
+  },
+  {
+    "level": "122",
+    "exp": "2,700",
+    "exp (total)": "127,922",
+    "character exp": "461",
+    "drop rate increase": "12.20%",
+    "gathering speed bonus": "130.60%"
+  },
+  {
+    "level": "123",
+    "exp": "2,735",
+    "exp (total)": "130,657",
+    "character exp": "467",
+    "drop rate increase": "12.30%",
+    "gathering speed bonus": "130.90%"
+  },
+  {
+    "level": "124",
+    "exp": "2,770",
+    "exp (total)": "133,427",
+    "character exp": "473",
+    "drop rate increase": "12.40%",
+    "gathering speed bonus": "131.20%"
+  },
+  {
+    "level": "125",
+    "exp": "2,805",
+    "exp (total)": "136,232",
+    "character exp": "479",
+    "drop rate increase": "12.50%",
+    "gathering speed bonus": "131.50%"
+  },
+  {
+    "level": "126",
+    "exp": "2,840",
+    "exp (total)": "139,072",
+    "character exp": "486",
+    "drop rate increase": "12.60%",
+    "gathering speed bonus": "131.80%"
+  },
+  {
+    "level": "127",
+    "exp": "2,875",
+    "exp (total)": "141,947",
+    "character exp": "493",
+    "drop rate increase": "12.70%",
+    "gathering speed bonus": "132.10%"
+  },
+  {
+    "level": "128",
+    "exp": "2,910",
+    "exp (total)": "144,857",
+    "character exp": "500",
+    "drop rate increase": "12.80%",
+    "gathering speed bonus": "132.40%"
+  },
+  {
+    "level": "129",
+    "exp": "2,945",
+    "exp (total)": "147,802",
+    "character exp": "507",
+    "drop rate increase": "12.90%",
+    "gathering speed bonus": "132.70%"
+  },
+  {
+    "level": "130",
+    "exp": "2,980",
+    "exp (total)": "150,782",
+    "character exp": "514",
+    "drop rate increase": "13.00%",
+    "gathering speed bonus": "133.00%"
+  },
+  {
+    "level": "131",
+    "exp": "3,015",
+    "exp (total)": "153,797",
+    "character exp": "521",
+    "drop rate increase": "13.10%",
+    "gathering speed bonus": "133.30%"
+  },
+  {
+    "level": "132",
+    "exp": "3,050",
+    "exp (total)": "156,847",
+    "character exp": "528",
+    "drop rate increase": "13.20%",
+    "gathering speed bonus": "133.60%"
+  },
+  {
+    "level": "133",
+    "exp": "3,085",
+    "exp (total)": "159,932",
+    "character exp": "535",
+    "drop rate increase": "13.30%",
+    "gathering speed bonus": "133.90%"
+  },
+  {
+    "level": "134",
+    "exp": "3,119",
+    "exp (total)": "163,051",
+    "character exp": "542",
+    "drop rate increase": "13.40%",
+    "gathering speed bonus": "134.20%"
+  },
+  {
+    "level": "135",
+    "exp": "3,153",
+    "exp (total)": "166,204",
+    "character exp": "549",
+    "drop rate increase": "13.50%",
+    "gathering speed bonus": "134.50%"
+  },
+  {
+    "level": "136",
+    "exp": "3,187",
+    "exp (total)": "169,391",
+    "character exp": "556",
+    "drop rate increase": "13.60%",
+    "gathering speed bonus": "134.80%"
+  },
+  {
+    "level": "137",
+    "exp": "3,221",
+    "exp (total)": "172,612",
+    "character exp": "563",
+    "drop rate increase": "13.70%",
+    "gathering speed bonus": "135.10%"
+  },
+  {
+    "level": "138",
+    "exp": "3,255",
+    "exp (total)": "175,867",
+    "character exp": "570",
+    "drop rate increase": "13.80%",
+    "gathering speed bonus": "135.40%"
+  },
+  {
+    "level": "139",
+    "exp": "3,289",
+    "exp (total)": "179,156",
+    "character exp": "577",
+    "drop rate increase": "13.90%",
+    "gathering speed bonus": "135.70%"
+  },
+  {
+    "level": "140",
+    "exp": "3,323",
+    "exp (total)": "182,479",
+    "character exp": "584",
+    "drop rate increase": "14.00%",
+    "gathering speed bonus": "136.00%"
+  },
+  {
+    "level": "141",
+    "exp": "3,356",
+    "exp (total)": "185,835",
+    "character exp": "591",
+    "drop rate increase": "14.10%",
+    "gathering speed bonus": "136.30%"
+  },
+  {
+    "level": "142",
+    "exp": "3,389",
+    "exp (total)": "189,224",
+    "character exp": "598",
+    "drop rate increase": "14.20%",
+    "gathering speed bonus": "136.60%"
+  },
+  {
+    "level": "143",
+    "exp": "3,422",
+    "exp (total)": "192,646",
+    "character exp": "605",
+    "drop rate increase": "14.30%",
+    "gathering speed bonus": "136.90%"
+  },
+  {
+    "level": "144",
+    "exp": "3,455",
+    "exp (total)": "196,101",
+    "character exp": "612",
+    "drop rate increase": "14.40%",
+    "gathering speed bonus": "137.20%"
+  },
+  {
+    "level": "145",
+    "exp": "3,488",
+    "exp (total)": "199,589",
+    "character exp": "619",
+    "drop rate increase": "14.50%",
+    "gathering speed bonus": "137.50%"
+  },
+  {
+    "level": "146",
+    "exp": "3,520",
+    "exp (total)": "203,109",
+    "character exp": "626",
+    "drop rate increase": "14.60%",
+    "gathering speed bonus": "137.80%"
+  },
+  {
+    "level": "147",
+    "exp": "3,552",
+    "exp (total)": "206,661",
+    "character exp": "633",
+    "drop rate increase": "14.70%",
+    "gathering speed bonus": "138.10%"
+  },
+  {
+    "level": "148",
+    "exp": "3,584",
+    "exp (total)": "210,245",
+    "character exp": "640",
+    "drop rate increase": "14.80%",
+    "gathering speed bonus": "138.40%"
+  },
+  {
+    "level": "149",
+    "exp": "3,616",
+    "exp (total)": "213,861",
+    "character exp": "647",
+    "drop rate increase": "14.90%",
+    "gathering speed bonus": "138.70%"
+  },
+  {
+    "level": "150",
+    "exp": "3,648",
+    "exp (total)": "217,509",
+    "character exp": "654",
+    "drop rate increase": "15.00%",
+    "gathering speed bonus": "139.00%"
+  },
+  {
+    "level": "151",
+    "exp": "3,680",
+    "exp (total)": "221,189",
+    "character exp": "661",
+    "drop rate increase": "15.10%",
+    "gathering speed bonus": "139.30%"
+  },
+  {
+    "level": "152",
+    "exp": "3,711",
+    "exp (total)": "224,900",
+    "character exp": "668",
+    "drop rate increase": "15.20%",
+    "gathering speed bonus": "139.60%"
+  },
+  {
+    "level": "153",
+    "exp": "3,742",
+    "exp (total)": "228,642",
+    "character exp": "675",
+    "drop rate increase": "15.30%",
+    "gathering speed bonus": "139.90%"
+  },
+  {
+    "level": "154",
+    "exp": "3,773",
+    "exp (total)": "232,415",
+    "character exp": "682",
+    "drop rate increase": "15.40%",
+    "gathering speed bonus": "140.20%"
+  },
+  {
+    "level": "155",
+    "exp": "3,804",
+    "exp (total)": "236,219",
+    "character exp": "689",
+    "drop rate increase": "15.50%",
+    "gathering speed bonus": "140.50%"
+  },
+  {
+    "level": "156",
+    "exp": "3,834",
+    "exp (total)": "240,053",
+    "character exp": "696",
+    "drop rate increase": "15.60%",
+    "gathering speed bonus": "140.80%"
+  },
+  {
+    "level": "157",
+    "exp": "3,864",
+    "exp (total)": "243,917",
+    "character exp": "703",
+    "drop rate increase": "15.70%",
+    "gathering speed bonus": "141.10%"
+  },
+  {
+    "level": "158",
+    "exp": "3,894",
+    "exp (total)": "247,811",
+    "character exp": "710",
+    "drop rate increase": "15.80%",
+    "gathering speed bonus": "141.40%"
+  },
+  {
+    "level": "159",
+    "exp": "3,924",
+    "exp (total)": "251,735",
+    "character exp": "717",
+    "drop rate increase": "15.90%",
+    "gathering speed bonus": "141.70%"
+  },
+  {
+    "level": "160",
+    "exp": "3,954",
+    "exp (total)": "255,689",
+    "character exp": "724",
+    "drop rate increase": "16.00%",
+    "gathering speed bonus": "142.00%"
+  },
+  {
+    "level": "161",
+    "exp": "3,983",
+    "exp (total)": "259,672",
+    "character exp": "732",
+    "drop rate increase": "16.10%",
+    "gathering speed bonus": "142.30%"
+  },
+  {
+    "level": "162",
+    "exp": "4,012",
+    "exp (total)": "263,684",
+    "character exp": "740",
+    "drop rate increase": "16.20%",
+    "gathering speed bonus": "142.60%"
+  },
+  {
+    "level": "163",
+    "exp": "4,041",
+    "exp (total)": "267,725",
+    "character exp": "748",
+    "drop rate increase": "16.30%",
+    "gathering speed bonus": "142.90%"
+  },
+  {
+    "level": "164",
+    "exp": "4,070",
+    "exp (total)": "271,795",
+    "character exp": "756",
+    "drop rate increase": "16.40%",
+    "gathering speed bonus": "143.20%"
+  },
+  {
+    "level": "165",
+    "exp": "4,098",
+    "exp (total)": "275,893",
+    "character exp": "764",
+    "drop rate increase": "16.50%",
+    "gathering speed bonus": "143.50%"
+  },
+  {
+    "level": "166",
+    "exp": "4,126",
+    "exp (total)": "280,019",
+    "character exp": "772",
+    "drop rate increase": "16.60%",
+    "gathering speed bonus": "143.80%"
+  },
+  {
+    "level": "167",
+    "exp": "4,154",
+    "exp (total)": "284,173",
+    "character exp": "780",
+    "drop rate increase": "16.70%",
+    "gathering speed bonus": "144.10%"
+  },
+  {
+    "level": "168",
+    "exp": "4,182",
+    "exp (total)": "288,355",
+    "character exp": "788",
+    "drop rate increase": "16.80%",
+    "gathering speed bonus": "144.40%"
+  },
+  {
+    "level": "169",
+    "exp": "4,210",
+    "exp (total)": "292,565",
+    "character exp": "796",
+    "drop rate increase": "16.90%",
+    "gathering speed bonus": "144.70%"
+  },
+  {
+    "level": "170",
+    "exp": "4,237",
+    "exp (total)": "296,802",
+    "character exp": "804",
+    "drop rate increase": "17.00%",
+    "gathering speed bonus": "145.00%"
+  },
+  {
+    "level": "171",
+    "exp": "4,264",
+    "exp (total)": "301,066",
+    "character exp": "812",
+    "drop rate increase": "17.10%",
+    "gathering speed bonus": "145.30%"
+  },
+  {
+    "level": "172",
+    "exp": "4,291",
+    "exp (total)": "305,357",
+    "character exp": "820",
+    "drop rate increase": "17.20%",
+    "gathering speed bonus": "145.60%"
+  },
+  {
+    "level": "173",
+    "exp": "4,318",
+    "exp (total)": "309,675",
+    "character exp": "828",
+    "drop rate increase": "17.30%",
+    "gathering speed bonus": "145.90%"
+  },
+  {
+    "level": "174",
+    "exp": "4,344",
+    "exp (total)": "314,019",
+    "character exp": "836",
+    "drop rate increase": "17.40%",
+    "gathering speed bonus": "146.20%"
+  },
+  {
+    "level": "175",
+    "exp": "4,370",
+    "exp (total)": "318,389",
+    "character exp": "844",
+    "drop rate increase": "17.50%",
+    "gathering speed bonus": "146.50%"
+  },
+  {
+    "level": "176",
+    "exp": "4,396",
+    "exp (total)": "322,785",
+    "character exp": "853",
+    "drop rate increase": "17.60%",
+    "gathering speed bonus": "146.80%"
+  },
+  {
+    "level": "177",
+    "exp": "4,422",
+    "exp (total)": "327,207",
+    "character exp": "862",
+    "drop rate increase": "17.70%",
+    "gathering speed bonus": "147.10%"
+  },
+  {
+    "level": "178",
+    "exp": "4,447",
+    "exp (total)": "331,654",
+    "character exp": "871",
+    "drop rate increase": "17.80%",
+    "gathering speed bonus": "147.40%"
+  },
+  {
+    "level": "179",
+    "exp": "4,472",
+    "exp (total)": "336,126",
+    "character exp": "880",
+    "drop rate increase": "17.90%",
+    "gathering speed bonus": "147.70%"
+  },
+  {
+    "level": "180",
+    "exp": "4,497",
+    "exp (total)": "340,623",
+    "character exp": "889",
+    "drop rate increase": "18.00%",
+    "gathering speed bonus": "148.00%"
+  },
+  {
+    "level": "181",
+    "exp": "4,521",
+    "exp (total)": "345,144",
+    "character exp": "898",
+    "drop rate increase": "18.10%",
+    "gathering speed bonus": "148.30%"
+  },
+  {
+    "level": "182",
+    "exp": "4,545",
+    "exp (total)": "349,689",
+    "character exp": "907",
+    "drop rate increase": "18.20%",
+    "gathering speed bonus": "148.60%"
+  },
+  {
+    "level": "183",
+    "exp": "4,569",
+    "exp (total)": "354,258",
+    "character exp": "916",
+    "drop rate increase": "18.30%",
+    "gathering speed bonus": "148.90%"
+  },
+  {
+    "level": "184",
+    "exp": "4,592",
+    "exp (total)": "358,850",
+    "character exp": "925",
+    "drop rate increase": "18.40%",
+    "gathering speed bonus": "149.20%"
+  },
+  {
+    "level": "185",
+    "exp": "4,615",
+    "exp (total)": "363,465",
+    "character exp": "934",
+    "drop rate increase": "18.50%",
+    "gathering speed bonus": "149.50%"
+  },
+  {
+    "level": "186",
+    "exp": "4,638",
+    "exp (total)": "368,103",
+    "character exp": "943",
+    "drop rate increase": "18.60%",
+    "gathering speed bonus": "149.80%"
+  },
+  {
+    "level": "187",
+    "exp": "4,661",
+    "exp (total)": "372,764",
+    "character exp": "952",
+    "drop rate increase": "18.70%",
+    "gathering speed bonus": "150.10%"
+  },
+  {
+    "level": "188",
+    "exp": "4,683",
+    "exp (total)": "377,447",
+    "character exp": "961",
+    "drop rate increase": "18.80%",
+    "gathering speed bonus": "150.40%"
+  },
+  {
+    "level": "189",
+    "exp": "4,705",
+    "exp (total)": "382,152",
+    "character exp": "970",
+    "drop rate increase": "18.90%",
+    "gathering speed bonus": "150.70%"
+  },
+  {
+    "level": "190",
+    "exp": "4,727",
+    "exp (total)": "386,879",
+    "character exp": "979",
+    "drop rate increase": "19.00%",
+    "gathering speed bonus": "151.00%"
+  },
+  {
+    "level": "191",
+    "exp": "4,748",
+    "exp (total)": "391,627",
+    "character exp": "989",
+    "drop rate increase": "19.10%",
+    "gathering speed bonus": "151.30%"
+  },
+  {
+    "level": "192",
+    "exp": "4,769",
+    "exp (total)": "396,396",
+    "character exp": "999",
+    "drop rate increase": "19.20%",
+    "gathering speed bonus": "151.60%"
+  },
+  {
+    "level": "193",
+    "exp": "4,790",
+    "exp (total)": "401,186",
+    "character exp": "1,009",
+    "drop rate increase": "19.30%",
+    "gathering speed bonus": "151.90%"
+  },
+  {
+    "level": "194",
+    "exp": "4,811",
+    "exp (total)": "405,997",
+    "character exp": "1,019",
+    "drop rate increase": "19.40%",
+    "gathering speed bonus": "152.20%"
+  },
+  {
+    "level": "195",
+    "exp": "4,831",
+    "exp (total)": "410,828",
+    "character exp": "1,029",
+    "drop rate increase": "19.50%",
+    "gathering speed bonus": "152.50%"
+  },
+  {
+    "level": "196",
+    "exp": "4,851",
+    "exp (total)": "415,679",
+    "character exp": "1,039",
+    "drop rate increase": "19.60%",
+    "gathering speed bonus": "152.80%"
+  },
+  {
+    "level": "197",
+    "exp": "4,871",
+    "exp (total)": "420,550",
+    "character exp": "1,049",
+    "drop rate increase": "19.70%",
+    "gathering speed bonus": "153.10%"
+  },
+  {
+    "level": "198",
+    "exp": "4,891",
+    "exp (total)": "425,441",
+    "character exp": "1,059",
+    "drop rate increase": "19.80%",
+    "gathering speed bonus": "153.40%"
+  },
+  {
+    "level": "199",
+    "exp": "4,910",
+    "exp (total)": "430,351",
+    "character exp": "1,069",
+    "drop rate increase": "19.90%",
+    "gathering speed bonus": "153.70%"
+  },
+  {
+    "level": "200",
+    "exp": "4,929",
+    "exp (total)": "435,280",
+    "character exp": "1,079",
+    "drop rate increase": "20.00%",
+    "gathering speed bonus": "154.00%"
+  }
+]
