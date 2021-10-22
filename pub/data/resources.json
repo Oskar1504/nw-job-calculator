@@ -3,12 +3,48 @@
       "name": "iron_ore",
       "type": "raw"
   },
+  "silver_ore":{
+    "name": "silver_ore",
+    "type": "raw"
+  },
+  "gold_ore":{
+    "name": "gold_ore",
+    "type": "raw"
+  },
+  "starmetal_ore":{
+    "name": "starmetal_ore",
+    "type": "raw"
+  },
+  "orichalcum_ore":{
+    "name": "orichalcum_ore",
+    "type": "raw"
+  },
   "iron_ingot":{
     "name": "iron_ingot",
     "type": "crafted"
   },
+  "silver_ingot":{
+    "name": "silver_ingot",
+    "type": "crafted"
+  },
+  "gold_ingot":{
+    "name": "gold_ingot",
+    "type": "crafted"
+  },
+  "platinum_ingot":{
+    "name": "platinum_ingot",
+    "type": "crafted"
+  },
   "steel_ingot":{
     "name": "steel_ingot",
+    "type": "crafted"
+  },
+  "starmetal_ingot":{
+    "name": "starmetal_ingot",
+    "type": "crafted"
+  },
+  "orichalcum_ingot":{
+    "name": "orichalcum_ingot",
     "type": "crafted"
   },
   "sand_flux": {
@@ -39,6 +75,14 @@
     "name": "aged_wood",
     "type": "raw"
   },
+  "wyrdwood": {
+    "name": "wyrdwood",
+    "type": "raw"
+  },
+  "ironwood": {
+    "name": "ironwood",
+    "type": "raw"
+  },
   "timber": {
     "name": "timber",
     "type": "crafted"
@@ -47,8 +91,24 @@
     "name": "lumber",
     "type": "crafted"
   },
+  "wyrdwood_planks": {
+    "name": "wyrdwood_planks",
+    "type": "crafted"
+  },
+  "ironwood_planks": {
+    "name": "ironwood_planks",
+    "type": "crafted"
+  },
   "raw_hide": {
     "name": "raw_hide",
+    "type": "raw"
+  },
+  "thick_leather": {
+    "name": "thick_leather",
+    "type": "raw"
+  },
+  "iron_hide": {
+    "name": "iron_hide",
     "type": "raw"
   },
   "coarse_leather": {
@@ -59,8 +119,24 @@
     "name": "rugged_leather",
     "type": "crafted"
   },
+  "layered_leather": {
+    "name": "layered_leather",
+    "type": "crafted"
+  },
+  "infused_leather": {
+    "name": "infused_leather",
+    "type": "crafted"
+  },
   "fiber": {
     "name": "fiber",
+    "type": "raw"
+  },
+  "silk_threads": {
+    "name": "silk_threads",
+    "type": "raw"
+  },
+  "wirefiber": {
+    "name": "wirefiber",
     "type": "raw"
   },
   "linen": {
@@ -69,6 +145,14 @@
   },
   "sateen": {
     "name": "sateen",
+    "type": "crafted"
+  },
+  "silk": {
+    "name": "silk",
+    "type": "crafted"
+  },
+  "infused_silk": {
+    "name": "infused_silk",
     "type": "crafted"
   }
 }

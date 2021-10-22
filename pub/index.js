@@ -5,7 +5,7 @@ let skillLevel = [],
 
 async function getSkillLevel(categorie, name){
     try {
-        await fetch(`./data/${categorie}/${name}.json`)
+        await fetch(`./data/exp_tables/${categorie}/${name}.json`)
             .then(response => response.json())
             .then(data => skillLevel = data);
 
@@ -109,14 +109,14 @@ var app = new Vue({
             this.updateChart()
         },
         saveHistory: function () {
-            let key = `${this.form.selectedJob}_${this.form.startLevel}_${this.form.targetLevel}`
+            let key = `lvl_${this.form.selectedJob}_${this.form.startLevel}_${this.form.targetLevel}`
             localStorage.setItem(key,JSON.stringify(this.form))
             this.updateHistory()
         },
         updateHistory: function () {
             let o = []
             Object.keys(localStorage).forEach(key => {
-                if(key.includes("_")){
+                if(key.includes("_") && key.includes("lvl")){
                     o.push(key)
                 }
             })

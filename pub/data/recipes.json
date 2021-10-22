@@ -1,6 +1,9 @@
 {
   "iron_ingot":{
     "name": "iron_ingot",
+    "categorie": "smelting",
+    "craftingFee": 1,
+    "exp": 36,
     "ingredients": [
       {
         "name": "iron_ore",
@@ -10,6 +13,9 @@
   },
   "steel_ingot":{
     "name": "steel_ingot",
+    "categorie": "smelting",
+    "craftingFee": 4,
+    "exp": 228,
     "ingredients": [
       {
         "name": "iron_ingot",
@@ -25,8 +31,111 @@
       }
     ]
   },
+  "starmetal_ingot":{
+    "name": "starmetal_ingot",
+    "categorie": "smelting",
+    "craftingFee": 7,
+    "exp": 2035,
+    "ingredients": [
+      {
+        "name": "starmetal_ore",
+        "amount": 6
+      },
+      {
+        "name": "steel_ingot",
+        "amount": 2
+      },
+      {
+        "name": "charcoal",
+        "amount": 2
+      },
+      {
+        "name": "sand_flux",
+        "amount": 1
+      }
+    ]
+  },
+  "orichalcum_ingot":{
+    "name": "orichalcum_ingot",
+    "categorie": "smelting",
+    "craftingFee": 13,
+    "exp": 10010,
+    "ingredients": [
+      {
+        "name": "orichalcum_ore",
+        "amount": 8
+      },
+      {
+        "name": "starmetal_ingot",
+        "amount": 2
+      },
+      {
+        "name": "charcoal",
+        "amount": 2
+      },
+      {
+        "name": "sand_flux",
+        "amount": 1
+      }
+    ]
+  },
+  "silver_ingot":{
+    "name": "silver_ingot",
+    "categorie": "smelting",
+    "craftingFee": 1,
+    "exp": 36,
+    "ingredients": [
+      {
+        "name": "silver_ore",
+        "amount": 4
+      }
+    ]
+  },
+  "gold_ingot":{
+    "name": "gold_ingot",
+    "categorie": "smelting",
+    "craftingFee": 4,
+    "exp": 304,
+    "ingredients": [
+      {
+        "name": "gold_ore",
+        "amount": 5
+      },
+      {
+        "name": "silver_ingot",
+        "amount": 2
+      },
+      {
+        "name": "sand_flux",
+        "amount": 1
+      }
+    ]
+  },
+  "platinum_ingot":{
+    "name": "platinum_ingot",
+    "categorie": "smelting",
+    "craftingFee": 7,
+    "exp": 1665,
+    "ingredients": [
+      {
+        "name": "platinum_ore",
+        "amount": 6
+      },
+      {
+        "name": "gold_ingot",
+        "amount": 2
+      },
+      {
+        "name": "sand_flux",
+        "amount": 1
+      }
+    ]
+  },
   "charcoal":{
     "name": "charcoal",
+    "categorie": "smelting",
+    "craftingFee": 1,
+    "exp": 18,
     "ingredients": [
       {
         "name": "green_wood",
@@ -35,7 +144,10 @@
     ]
   },
   "timber":{
-    "name": "charcoal",
+    "name": "timber",
+    "categorie": "woodworking",
+    "craftingFee": 1,
+    "exp": 36,
     "ingredients": [
       {
         "name": "green_wood",
@@ -44,7 +156,10 @@
     ]
   },
   "lumber":{
-    "name": "charcoal",
+    "name": "lumber",
+    "categorie": "woodworking",
+    "craftingFee": 4,
+    "exp": 266,
     "ingredients": [
       {
         "name": "aged_wood",
@@ -60,8 +175,51 @@
       }
     ]
   },
+  "wyrdwood_planks":{
+    "name": "wyrdwood_planks",
+    "categorie": "woodworking",
+    "craftingFee": 7,
+    "exp": 1665,
+    "ingredients": [
+      {
+        "name": "wyrdwood",
+        "amount": 6
+      },
+      {
+        "name": "lumber",
+        "amount": 2
+      },
+      {
+        "name": "sand_paper",
+        "amount": 1
+      }
+    ]
+  },
+  "ironwood_planks":{
+    "name": "ironwood_planks",
+    "categorie": "woodworking",
+    "craftingFee": 13,
+    "exp": 8470,
+    "ingredients": [
+      {
+        "name": "ironwood",
+        "amount": 8
+      },
+      {
+        "name": "wyrdwood_planks",
+        "amount": 2
+      },
+      {
+        "name": "sand_paper",
+        "amount": 1
+      }
+    ]
+  },
   "coarse_leather": {
     "name": "coarse_leather",
+    "categorie": "leatherworking",
+    "craftingFee": 1,
+    "exp": 36,
     "ingredients": [
       {
         "name": "raw_hide",
@@ -71,6 +229,9 @@
   },
   "rugged_leather": {
     "name": "rugged_leather",
+    "categorie": "leatherworking",
+    "craftingFee": 4,
+    "exp": 190,
     "ingredients": [
       {
         "name": "coarse_leather",
@@ -82,8 +243,51 @@
       }
     ]
   },
+  "layered_leather": {
+    "name": "layered_leather",
+    "categorie": "leatherworking",
+    "craftingFee": 7,
+    "exp": 1665,
+    "ingredients": [
+      {
+        "name": "thick_leather",
+        "amount": 6
+      },
+      {
+        "name": "rugged_leather",
+        "amount": 2
+      },
+      {
+        "name": "tannin",
+        "amount": 1
+      }
+    ]
+  },
+  "infused_leather": {
+    "name": "infused_leather",
+    "categorie": "leatherworking",
+    "craftingFee": 13,
+    "exp": 8470,
+    "ingredients": [
+      {
+        "name": "iron_hide",
+        "amount": 8
+      },
+      {
+        "name": "layered_leather",
+        "amount": 2
+      },
+      {
+        "name": "tannin",
+        "amount": 1
+      }
+    ]
+  },
   "linen": {
     "name": "linen",
+    "categorie": "weaving",
+    "craftingFee": 1,
+    "exp": 36,
     "ingredients": [
       {
         "name": "fiber",
@@ -93,10 +297,53 @@
   },
   "sateen": {
     "name": "sateen",
+    "categorie": "weaving",
+    "craftingFee": 4,
+    "exp": 190,
     "ingredients": [
       {
         "name": "fiber",
         "amount": 4
+      },
+      {
+        "name": "crossweave",
+        "amount": 1
+      }
+    ]
+  },
+  "silk": {
+    "name": "silk",
+    "categorie": "weaving",
+    "craftingFee": 7,
+    "exp": 1665,
+    "ingredients": [
+      {
+        "name": "silk_threads",
+        "amount": 6
+      },
+      {
+        "name": "sateen",
+        "amount": 2
+      },
+      {
+        "name": "crossweave",
+        "amount": 1
+      }
+    ]
+  },
+  "infused_silk": {
+    "name": "infused_silk",
+    "categorie": "weaving",
+    "craftingFee": 13,
+    "exp": 8470,
+    "ingredients": [
+      {
+        "name": "wirefiber",
+        "amount": 8
+      },
+      {
+        "name": "silk",
+        "amount": 2
       },
       {
         "name": "crossweave",

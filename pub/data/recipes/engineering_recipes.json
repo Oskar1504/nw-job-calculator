@@ -2,6 +2,7 @@
   {
     "name":"Spear iron",
     "experience":204,
+    "categorie": "engineering",
     "ingredients":[
       {
         "displayName":"Wood",
@@ -26,6 +27,7 @@
   {
     "name":"Spear steel",
     "experience":540,
+    "categorie": "engineering",
     "ingredients":[
       {
         "displayName":"Wood",
@@ -50,6 +52,7 @@
   {
     "name":"Hatchet iron",
     "experience":120,
+    "categorie": "engineering",
     "ingredients":[
       {
         "displayName":"Metal",
@@ -74,6 +77,7 @@
   {
     "name":"Hatchet steel",
     "experience":330,
+    "categorie": "engineering",
     "ingredients":[
       {
         "displayName":"Metal",
@@ -98,6 +102,7 @@
   {
     "name":"Bow wood 1",
     "experience":204,
+    "categorie": "engineering",
     "ingredients":[
       {
         "displayName":"Wood",
@@ -122,6 +127,7 @@
   {
     "name":"Bow wood 2",
     "experience":540,
+    "categorie": "engineering",
     "ingredients":[
       {
         "displayName":"Wood",
