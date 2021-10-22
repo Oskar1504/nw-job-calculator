@@ -2,6 +2,7 @@ let skillLevel = [],
     resourceRecipes = [],
     resources = []
 
+
 async function getSkillLevel(categorie, name){
     try {
         await fetch(`./data/${categorie}/${name}.json`)
@@ -53,6 +54,9 @@ var app = new Vue({
         history:{
             keys:[],
             selectedList:""
+        },
+        chart:{
+            visible:false
         }
     },
     computed:{
@@ -61,10 +65,10 @@ var app = new Vue({
                 craftingAmount = Math.ceil(expNeeded[0]/this.form.recipe.experience),
                 rawResources = [],
                 ingredients = this.form.recipe.ingredients
-
             if(ingredients){
                 rawResources = getRawItems(ingredients)
             }
+            if(skillLevel.length > 0){this.updateChart()}
 
             return {
                 rawResources:rawResources,
@@ -101,7 +105,8 @@ var app = new Vue({
             return [o,startExp,targetExp]
         },
         updateSkillLevel: function () {
-          getSkillLevel(this.form.selectedCategorie, this.form.selectedJob)
+            getSkillLevel(this.form.selectedCategorie, this.form.selectedJob)
+            this.updateChart()
         },
         saveHistory: function () {
             let key = `${this.form.selectedJob}_${this.form.startLevel}_${this.form.targetLevel}`
@@ -124,6 +129,19 @@ var app = new Vue({
         loadHistory: function () {
             this.form = JSON.parse(localStorage.getItem(this.history.selectedList))
             getSkillLevel(this.form.selectedCategorie, this.form.selectedJob)
+        },
+        updateChart:function () {
+            if(this.chart.visible){
+                let labels = [],data = []
+                for(let i = parseInt(this.form.startLevel)-1; i < parseInt(this.form.targetLevel);i++){
+                    labels.push(skillLevel[i].level)
+                    data.push(skillLevel[i]["exp (total)"].replace(/,/g,""))
+                }
+                myChart.data.labels = labels
+                myChart.data.datasets[0].label = this.form.selectedJob
+                myChart.data.datasets[0].data = data
+                myChart.update()
+            }
         }
 
     }
@@ -173,3 +191,42 @@ function getRawItems(ingredients){
     });
     return l
 }
+
+
+const cdata = {
+    labels: ["a","b"],
+    datasets: [{
+        label: 'My First dataset',
+        backgroundColor: 'rgb(13,110,253)',
+        borderColor: 'rgb(13,110,253)',
+        data: [0, 10],
+    }]
+};
+
+const config = {
+    type: 'line',
+    data: cdata,
+    options: {
+        scales: {
+            y:  {
+                display: true,
+                title: {
+                    display: true,
+                    text: 'Exp total'
+                }
+            },
+            x:  {
+                display: true,
+                title: {
+                    display: true,
+                    text: 'Level'
+                }
+            }
+        }
+    }
+};
+
+var myChart = new Chart(
+    document.getElementById('myChart'),
+    config
+);
