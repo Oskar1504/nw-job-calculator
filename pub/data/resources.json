@@ -154,5 +154,37 @@
   "infused_silk": {
     "name": "infused_silk",
     "type": "crafted"
+  },
+  "fire_mote": {
+    "name": "fire_mote",
+    "type": "raw"
+  },
+  "fire_wisp": {
+    "name": "fire_wisp",
+    "type": "crafted"
+  },
+  "fire_essence": {
+    "name": "fire_essence",
+    "type": "crafted"
+  },
+  "fire_quintessence": {
+    "name": "fire_quintessence",
+    "type": "crafted"
+  },
+  "life_mote": {
+    "name": "life_mote",
+    "type": "raw"
+  },
+  "life_wisp": {
+    "name": "life_wisp",
+    "type": "crafted"
+  },
+  "life_essence": {
+    "name": "life_essence",
+    "type": "crafted"
+  },
+  "life_quintessence": {
+    "name": "life_quintessence",
+    "type": "crafted"
   }
 }
