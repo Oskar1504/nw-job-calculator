@@ -167,6 +167,9 @@ function getRawItems(ingredients){
                         crafted_items.push(item)
                     }
                 })
+            }else{
+                let raw_item = JSON.parse((JSON.stringify(ingredient)))
+                raw_items.push(raw_item)
             }
         })
         ingredients = crafted_items
