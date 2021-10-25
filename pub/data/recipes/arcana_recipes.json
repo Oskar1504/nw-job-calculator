@@ -1,0 +1,27 @@
+[
+  {
+    "name":"Iron Fire Staff",
+    "experience":276,
+    "categorie": "arcana",
+    "ingredients":[
+      {
+        "displayName":"Metal",
+        "items":["iron_ingot"],
+        "name":"iron_ingot",
+        "amount":12
+      },
+      {
+        "displayName":"Wood",
+        "items":["timber"],
+        "name":"timber",
+        "amount":5
+      },
+      {
+        "displayName":"Leathers",
+        "items":["coarse_leather"],
+        "name":"coarse_leather",
+        "amount":2
+      }
+    ]
+  }
+]
