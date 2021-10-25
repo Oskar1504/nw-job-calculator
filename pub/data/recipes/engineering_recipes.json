@@ -50,6 +50,31 @@
     ]
   },
   {
+    "name":"Spear starmetal",
+    "experience":1425,
+    "categorie": "engineering",
+    "ingredients":[
+      {
+        "displayName":"Wood",
+        "name":"wyrdwood_planks",
+        "amount":12,
+        "items":["wyrdwood_planks"]
+      },
+      {
+        "displayName":"Metal",
+        "items":["iron_ingot","steel_ingot"],
+        "name":"iron_ingot",
+        "amount":5
+      },
+      {
+        "displayName":"Leathers",
+        "items":["coarse_leather","rugged_leather"],
+        "name":"coarse_leather",
+        "amount":2
+      }
+    ]
+  },
+  {
     "name":"Hatchet iron",
     "experience":120,
     "categorie": "engineering",
@@ -84,6 +109,31 @@
         "name":"steel_ingot",
         "amount":8,
         "items":["steel_ingot"]
+      },
+      {
+        "displayName":"Wood",
+        "items":["timber","lumber"],
+        "name":"timber",
+        "amount":2
+      },
+      {
+        "displayName":"Leathers",
+        "items":["coarse_leather","rugged_leather"],
+        "name":"coarse_leather",
+        "amount":1
+      }
+    ]
+  },
+  {
+    "name":"Hatchet starmetal",
+    "experience":900,
+    "categorie": "engineering",
+    "ingredients":[
+      {
+        "displayName":"Metal",
+        "name":"starmetal_ingot",
+        "amount":9,
+        "items":["starmetal_ingot"]
       },
       {
         "displayName":"Wood",

@@ -4,21 +4,21 @@
     "experience":108,
     "ingredients":[
       {
-        "name":"iron",
-        "items":["iron"],
-        "selectedItem":"iron",
+        "displayName":"Metal",
+        "items":["iron_ingot"],
+        "name":"iron_ingot",
         "amount":5
       },
       {
-        "name":"leather",
-        "items":["leather"],
-        "selectedItem":"leather",
+        "displayName":"Leather",
+        "items":["coarse_leather"],
+        "name":"coarse_leather",
         "amount":3
       },
       {
-        "name":"cloth",
-        "items":["cloth"],
-        "selectedItem":"cloth",
+        "displayName":"cloth",
+        "items":["linen"],
+        "name":"linen",
         "amount":1
       }
     ]
@@ -28,21 +28,21 @@
     "experience":270,
     "ingredients":[
       {
-        "name":"Metal",
-        "selectedItem":"iron_2",
-        "amount":5,
-        "items":["iron_2"]
+        "displayName":"Metal",
+        "items":["steel_ingot"],
+        "name":"steel_ingot",
+        "amount":5
       },
       {
-        "name":"leather",
-        "items":["leather","leather_2"],
-        "selectedItem":"leather",
+        "displayName":"Leather",
+        "items":["coarse_leather","rugged_leather"],
+        "name":"coarse_leather",
         "amount":3
       },
       {
-        "name":"cloth",
-        "items":["cloth"],
-        "selectedItem":"cloth",
+        "displayName":"Cloth",
+        "items":["linen"],
+        "name":"linen",
         "amount":1
       }
     ]
