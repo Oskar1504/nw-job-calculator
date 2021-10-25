@@ -5,22 +5,197 @@
     "categorie": "arcana",
     "ingredients":[
       {
-        "displayName":"Metal",
+        "displayName":"Tier 2 Metal",
         "items":["iron_ingot"],
         "name":"iron_ingot",
         "amount":12
       },
       {
         "displayName":"Wood",
-        "items":["timber"],
-        "name":"timber",
+        "items":["green_wood","timber","lumber","wyrdwood_planks","ironwood_planks"],
+        "name":"green_wood",
         "amount":5
       },
       {
+        "displayName":"Fire Arcana",
+        "items":["fire_mote","fire_wisp","fire_essence","fire_quintessence"],
+        "name":"fire_mote",
+        "amount":6
+      }
+    ]
+  },
+  {
+    "name":"Iron Life Staff",
+    "experience":276,
+    "categorie": "arcana",
+    "ingredients":[
+      {
+        "displayName":"Tier 2 Metal",
+        "items":["iron_ingot"],
+        "name":"iron_ingot",
+        "amount":12
+      },
+      {
         "displayName":"Leathers",
-        "items":["coarse_leather"],
+        "items":["coarse_leather","rugged_leather","layered_leather","infused_leather"],
         "name":"coarse_leather",
-        "amount":2
+        "amount":5
+      },
+      {
+        "displayName":"Fire Arcana",
+        "items":["life_mote","life_wisp","life_essence","life_quintessence"],
+        "name":"life_mote",
+        "amount":6
+      }
+    ]
+  },
+  {
+    "name":"Steel Fire Staff",
+    "experience":690,
+    "categorie": "arcana",
+    "ingredients":[
+      {
+        "displayName":"Tier 3 Metal",
+        "items":["steel_ingot"],
+        "name":"steel_ingot",
+        "amount":12
+      },
+      {
+        "displayName":"Wood",
+        "items":["green_wood","timber","lumber","wyrdwood_planks","ironwood_planks"],
+        "name":"green_wood",
+        "amount":5
+      },
+      {
+        "displayName":"Fire Arcana",
+        "items":["fire_mote","fire_wisp","fire_essence","fire_quintessence"],
+        "name":"fire_mote",
+        "amount":6
+      }
+    ]
+  },
+  {
+    "name":"Steel Life Staff",
+    "experience":690,
+    "categorie": "arcana",
+    "ingredients":[
+      {
+        "displayName":"Tier 3 Metal",
+        "items":["steel_ingot"],
+        "name":"steel_ingot",
+        "amount":12
+      },
+      {
+        "displayName":"Leathers",
+        "items":["coarse_leather","rugged_leather","layered_leather","infused_leather"],
+        "name":"coarse_leather",
+        "amount":5
+      },
+      {
+        "displayName":"Fire Arcana",
+        "items":["life_mote","life_wisp","life_essence","life_quintessence"],
+        "name":"life_mote",
+        "amount":6
+      }
+    ]
+  },
+  {
+    "name":"Starmetal Fire Staff",
+    "experience":1725,
+    "categorie": "arcana",
+    "ingredients":[
+      {
+        "displayName":"Tier 4 Metal",
+        "items":["starmetal_ingot"],
+        "name":"starmetal_ingot",
+        "amount":12
+      },
+      {
+        "displayName":"Wood",
+        "items":["green_wood","timber","lumber","wyrdwood_planks","ironwood_planks"],
+        "name":"green_wood",
+        "amount":5
+      },
+      {
+        "displayName":"Fire Arcana",
+        "items":["fire_mote","fire_wisp","fire_essence","fire_quintessence"],
+        "name":"fire_mote",
+        "amount":6
+      }
+    ]
+  },
+  {
+    "name":"Starmetal Life Staff",
+    "experience":1725,
+    "categorie": "arcana",
+    "ingredients":[
+      {
+        "displayName":"Tier 4 Metal",
+        "items":["starmetal_ingot"],
+        "name":"starmetal_ingot",
+        "amount":12
+      },
+      {
+        "displayName":"Leathers",
+        "items":["coarse_leather","rugged_leather","layered_leather","infused_leather"],
+        "name":"coarse_leather",
+        "amount":5
+      },
+      {
+        "displayName":"Fire Arcana",
+        "items":["life_mote","life_wisp","life_essence","life_quintessence"],
+        "name":"life_mote",
+        "amount":6
+      }
+    ]
+  },
+  {
+    "name":"Orichalcum Fire Staff",
+    "experience":3565,
+    "categorie": "arcana",
+    "ingredients":[
+      {
+        "displayName":"Tier 5 Metal",
+        "items":["orichalcum_ingot"],
+        "name":"orichalcum_ingot",
+        "amount":12
+      },
+      {
+        "displayName":"Wood",
+        "items":["green_wood","timber","lumber","wyrdwood_planks","ironwood_planks"],
+        "name":"green_wood",
+        "amount":5
+      },
+      {
+        "displayName":"Fire Arcana",
+        "items":["fire_mote","fire_wisp","fire_essence","fire_quintessence"],
+        "name":"fire_mote",
+        "amount":6
+      }
+    ]
+  },
+  {
+    "name":"Orichalcum Life Staff",
+    "experience":3565,
+    "categorie": "arcana",
+    "ingredients":[
+      {
+        "displayName":"Tier 5 Metal",
+        "items":["orichalcum_ingot"],
+        "name":"orichalcum_ingot",
+        "amount":12
+      },
+      {
+        "displayName":"Leathers",
+        "items":["coarse_leather","rugged_leather","layered_leather","infused_leather"],
+        "name":"coarse_leather",
+        "amount":5
+      },
+      {
+        "displayName":"Fire Arcana",
+        "items":["life_mote","life_wisp","life_essence","life_quintessence"],
+        "name":"life_mote",
+        "amount":6
       }
     ]
   }
