@@ -13,14 +13,24 @@ async function getSkillLevel(categorie, name){
             .then(response => response.json())
             .then(data => resources = data);
 
-        await fetch("./data/recipes/" + name + '_recipes.json')
+        await fetch("./data/recipes/crafting/" + name + '.json')
             .then(response => response.json())
-            .then(data => app._data.recipes = data)
+            .then(data => app._data.recipes = Object.values(data).reverse())
             .catch(error => app._data.recipes = [])
 
-        await fetch('./data/recipes.json')
-            .then(response => response.json())
-            .then(data => resourceRecipes = data);
+        let refcats = ["Smelting","Woodworking","Leatherworking","Weaving","Stonecutting"]
+        resourceRecipes = []
+        for( let refcat of refcats){
+
+            await fetch(`./data/recipes/refining/${refcat}.json`)
+                .then(response => response.json())
+                .then(data => {
+                    // reverse so lowes recipe on top
+                    data = Object.fromEntries(Object.entries(data).reverse())
+                    // adds recipes togehter
+                    resourceRecipes = Object.assign({}, resourceRecipes, data)
+                });
+        }
 
         let o = parseInt(app._data.form.startLevel) + 1
         app._data.form.startLevel = o
@@ -31,7 +41,7 @@ async function getSkillLevel(categorie, name){
 
 }
 
-getSkillLevel("crafting","engineering")
+getSkillLevel("crafting","Engineering")
 
 
 var app = new Vue({
@@ -40,7 +50,7 @@ var app = new Vue({
         form:{
             startLevel:1,
             targetLevel:50,
-            selectedJob:"engineering",
+            selectedJob:"Engineering",
             recipe:1,
             selectedCategorie:"crafting",
             gatheringValue:166
@@ -48,8 +58,8 @@ var app = new Vue({
         recipes: [],
         options:{
             categories:["crafting","gathering"],
-            crafting:["arcana","armoring","cooking","engineering","furnishing","jewelcraft","weaponsmithing"],
-            gathering:["logging","mining","fishing","harvesting","skinning"]
+            crafting:["Arcana","Armoring","Cooking","Engineering","Furnishing","Jewelcraft","Weaponsmithing"],
+            gathering:["Logging","Mining","Fishing","Harvesting","Skinning"]
         },
         history:{
             keys:[],
@@ -62,7 +72,7 @@ var app = new Vue({
     computed:{
         stats:function(){
             let expNeeded = this.calculateExperience(),
-                craftingAmount = Math.ceil(expNeeded[0]/this.form.recipe.experience),
+                craftingAmount = Math.ceil(expNeeded[0]/this.form.recipe.exp),
                 rawResources = [],
                 ingredients = this.form.recipe.ingredients
             if(ingredients){
@@ -156,15 +166,21 @@ function getRawItems(ingredients){
                 // check resource recipe
                 resourceRecipes[ingredient.name].ingredients.forEach(resource => {
                     // if ingredient !type raw added to new iteration
-                    if (resources[resource.name].type == "raw") {
+                    if(resources[resource.name]){
+                        if (resources[resource.name].type == "raw") {
+                            let raw_item = JSON.parse((JSON.stringify(resource)))
+                            raw_item.amount *= ingredient.amount
+                            raw_items.push(raw_item)
+                        } else {
+                            // need to calculate new amount
+                            let item = JSON.parse((JSON.stringify(resource)))
+                            item.amount *= ingredient.amount
+                            crafted_items.push(item)
+                        }
+                    }else{
                         let raw_item = JSON.parse((JSON.stringify(resource)))
                         raw_item.amount *= ingredient.amount
                         raw_items.push(raw_item)
-                    } else {
-                        // need to calculate new amount
-                        let item = JSON.parse((JSON.stringify(resource)))
-                        item.amount *= ingredient.amount
-                        crafted_items.push(item)
                     }
                 })
             }else{
