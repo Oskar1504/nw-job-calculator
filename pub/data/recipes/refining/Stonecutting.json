@@ -1,0 +1,147 @@
+{
+  "runestone": {
+    "id_dwbd": "blockt51",
+    "displayName": "Runestone",
+    "name": "runestone",
+    "categorie": "Stonecutting",
+    "craftingFee": 19,
+    "exp": 5390,
+    "stations": [
+      "Stonecutting Table Tier 5"
+    ],
+    "ingredients": [
+      {
+        "name": "obsidian_voidstone",
+        "displayName": "Obsidian Voidstone",
+        "amount": 5
+      },
+      {
+        "name": "obsidian_sandpaper",
+        "displayName": "Obsidian Sandpaper",
+        "amount": 1
+      },
+      {
+        "name": "putrid_lodestone",
+        "displayName": "Putrid Lodestone",
+        "amount": 1
+      }
+    ]
+  },
+  "obsidian_voidstone": {
+    "id_dwbd": "blockt5",
+    "displayName": "Obsidian Voidstone",
+    "name": "obsidian_voidstone",
+    "categorie": "Stonecutting",
+    "craftingFee": 13,
+    "exp": 9240,
+    "stations": [
+      "Stonecutting Table Tier 5"
+    ],
+    "ingredients": [
+      {
+        "name": "lodestone_brick",
+        "displayName": "Lodestone Brick",
+        "amount": 8
+      },
+      {
+        "name": "lodestone",
+        "displayName": "Lodestone",
+        "amount": 2
+      },
+      {
+        "name": "loamy_lodestone",
+        "displayName": "Loamy Lodestone",
+        "amount": 1
+      },
+      {
+        "name": "coarse_sandpaper",
+        "items": [
+          "obsidian_sandpaper",
+          "coarse_sandpaper",
+          "fine_sandpaper"
+        ],
+        "displayName": "Sandpaper",
+        "amount": 1
+      }
+    ]
+  },
+  "lodestone_brick": {
+    "id_dwbd": "blockt4",
+    "displayName": "Lodestone Brick",
+    "name": "lodestone_brick",
+    "categorie": "Stonecutting",
+    "craftingFee": 7,
+    "exp": 1539,
+    "stations": [
+      "Stonecutting Table Tier 4"
+    ],
+    "ingredients": [
+      {
+        "name": "lodestone",
+        "displayName": "Lodestone",
+        "amount": 6
+      },
+      {
+        "name": "stone_brick",
+        "displayName": "Stone Brick",
+        "amount": 2
+      },
+      {
+        "name": "coarse_sandpaper",
+        "items": [
+          "fine_sandpaper",
+          "coarse_sandpaper",
+          "obsidian_sandpaper"
+        ],
+        "displayName": "Sandpaper",
+        "amount": 1
+      }
+    ]
+  },
+  "stone_brick": {
+    "id_dwbd": "blockt3",
+    "displayName": "Stone Brick",
+    "name": "stone_brick",
+    "categorie": "Stonecutting",
+    "craftingFee": 4,
+    "exp": 180,
+    "stations": [
+      "Stonecutting Table Tier 3"
+    ],
+    "ingredients": [
+      {
+        "name": "stone_block",
+        "displayName": "Stone Block",
+        "amount": 4
+      },
+      {
+        "name": "coarse_sandpaper",
+        "items": [
+          "coarse_sandpaper",
+          "fine_sandpaper",
+          "obsidian_sandpaper"
+        ],
+        "displayName": "Sandpaper",
+        "amount": 1
+      }
+    ]
+  },
+  "stone_block": {
+    "id_dwbd": "blockt2",
+    "displayName": "Stone Block",
+    "name": "stone_block",
+    "categorie": "Stonecutting",
+    "craftingFee": 1,
+    "exp": 36,
+    "stations": [
+      "Stonecutting Table Tier 3"
+    ],
+    "ingredients": [
+      {
+        "name": "stone",
+        "displayName": "Stone",
+        "amount": 4
+      }
+    ]
+  }
+}

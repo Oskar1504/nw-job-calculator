@@ -1,0 +1,1122 @@
+{
+  "ironwood_tree_sap": {
+    "id_dwbd": "focdexbonust4",
+    "displayName": "Ironwood Tree Sap",
+    "name": "ironwood_tree_sap",
+    "categorie": "Engineering",
+    "craftingFee": 90,
+    "exp": 0,
+    "stations": [
+      "Workshop Tier 5"
+    ],
+    "ingredients": [
+      {
+        "name": "wyrdwood_tree_sap",
+        "displayName": "Wyrdwood Tree Sap",
+        "amount": 3
+      },
+      {
+        "name": "grand_transmutation_catalyst",
+        "displayName": "Grand Transmutation Catalyst",
+        "amount": 1
+      }
+    ]
+  },
+  "ironwood_fishing_pole": {
+    "id_dwbd": "procedural_fishingpolet5",
+    "displayName": "Ironwood Fishing Pole",
+    "name": "ironwood_fishing_pole",
+    "categorie": "Engineering",
+    "craftingFee": 449,
+    "exp": 3100,
+    "stations": [
+      "Workshop Tier 5"
+    ],
+    "ingredients": [
+      {
+        "name": "ironwood_planks",
+        "items": [
+          "ironwood_planks",
+          "barbvine",
+          "wildwood",
+          "glittering_ebony"
+        ],
+        "displayName": "Tier 5 Timber",
+        "amount": 15
+      },
+      {
+        "name": "layered_leather",
+        "items": [
+          "infused_leather",
+          "coarse_leather",
+          "ragehide",
+          "rugged_leather",
+          "shadowfur",
+          "scaly_hide",
+          "layered_leather",
+          "shifthide",
+          "brightscale_hide",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 3
+      },
+      {
+        "name": "silk",
+        "items": [
+          "infused_silk",
+          "linen",
+          "shadecloth",
+          "sateen",
+          "phasefiber",
+          "silk",
+          "scalecord",
+          "glintstrands",
+          "scalecloth",
+          "blisterweave",
+          "phoenixweave"
+        ],
+        "displayName": "Cloth",
+        "amount": 2
+      }
+    ]
+  },
+  "ironwood_bow": {
+    "id_dwbd": "procedural_bowt5",
+    "displayName": "Ironwood Bow",
+    "name": "ironwood_bow",
+    "categorie": "Engineering",
+    "craftingFee": 449,
+    "exp": 3100,
+    "stations": [
+      "Workshop Tier 5"
+    ],
+    "ingredients": [
+      {
+        "name": "ironwood_planks",
+        "items": [
+          "ironwood_planks",
+          "barbvine",
+          "wildwood",
+          "glittering_ebony"
+        ],
+        "displayName": "Tier 5 Timber",
+        "amount": 15
+      },
+      {
+        "name": "layered_leather",
+        "items": [
+          "infused_leather",
+          "coarse_leather",
+          "ragehide",
+          "rugged_leather",
+          "shadowfur",
+          "scaly_hide",
+          "layered_leather",
+          "shifthide",
+          "brightscale_hide",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 3
+      },
+      {
+        "name": "silk",
+        "items": [
+          "infused_silk",
+          "linen",
+          "shadecloth",
+          "sateen",
+          "phasefiber",
+          "silk",
+          "scalecord",
+          "glintstrands",
+          "scalecloth",
+          "blisterweave",
+          "phoenixweave"
+        ],
+        "displayName": "Cloth",
+        "amount": 2
+      }
+    ]
+  },
+  "ironwood_spear": {
+    "id_dwbd": "procedural_speart5",
+    "displayName": "Ironwood Spear",
+    "name": "ironwood_spear",
+    "categorie": "Engineering",
+    "craftingFee": 449,
+    "exp": 3100,
+    "stations": [
+      "Forge Tier 5"
+    ],
+    "ingredients": [
+      {
+        "name": "ironwood_planks",
+        "items": [
+          "ironwood_planks",
+          "barbvine",
+          "wildwood",
+          "glittering_ebony"
+        ],
+        "displayName": "Tier 5 Timber",
+        "amount": 13
+      },
+      {
+        "name": "starmetal_ingot",
+        "items": [
+          "orichalcum_ingot",
+          "iron_ingot",
+          "fae_iron",
+          "steel_ingot",
+          "voidmetal",
+          "starmetal_ingot",
+          "azurite_chunk",
+          "blessed_crucible",
+          "tolvium",
+          "cinnabar",
+          "asmodeum"
+        ],
+        "displayName": "Metals",
+        "amount": 5
+      },
+      {
+        "name": "layered_leather",
+        "items": [
+          "infused_leather",
+          "coarse_leather",
+          "ragehide",
+          "rugged_leather",
+          "shadowfur",
+          "scaly_hide",
+          "layered_leather",
+          "shifthide",
+          "brightscale_hide",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 2
+      }
+    ]
+  },
+  "steel_corrupted_casing": {
+    "id_dwbd": "dexfocbonust2",
+    "displayName": "Steel Corrupted Casing",
+    "name": "steel_corrupted_casing",
+    "categorie": "Engineering",
+    "craftingFee": 15,
+    "exp": 0,
+    "stations": [
+      "Workshop Tier 3"
+    ],
+    "ingredients": [
+      {
+        "name": "iron_corrupted_casing",
+        "displayName": "Iron Corrupted Casing",
+        "amount": 5
+      },
+      {
+        "name": "common_transmutation_catalyst",
+        "displayName": "Common Transmutation Catalyst",
+        "amount": 1
+      }
+    ]
+  },
+  "steel_hook": {
+    "id_dwbd": "dexconbonust2",
+    "displayName": "Steel Hook",
+    "name": "steel_hook",
+    "categorie": "Engineering",
+    "craftingFee": 15,
+    "exp": 0,
+    "stations": [
+      "Workshop Tier 3"
+    ],
+    "ingredients": [
+      {
+        "name": "iron_hook",
+        "displayName": "Iron Hook",
+        "amount": 5
+      },
+      {
+        "name": "common_transmutation_catalyst",
+        "displayName": "Common Transmutation Catalyst",
+        "amount": 1
+      }
+    ]
+  },
+  "steel_sewing_needles": {
+    "id_dwbd": "sewingneedlest3",
+    "displayName": "Steel Sewing Needles",
+    "name": "steel_sewing_needles",
+    "categorie": "Engineering",
+    "craftingFee": 0,
+    "exp": 30,
+    "stations": [
+      "Workshop Tier 3"
+    ],
+    "ingredients": [
+      {
+        "name": "work_order:_steel_sewing_needles",
+        "displayName": "Work Order: Steel Sewing Needles",
+        "amount": 1
+      }
+    ]
+  },
+  "steel_cartridge": {
+    "id_dwbd": "shott3",
+    "displayName": "Steel Cartridge",
+    "name": "steel_cartridge",
+    "categorie": "Engineering",
+    "craftingFee": 15,
+    "exp": 180,
+    "stations": [
+      "Workshop Tier 3"
+    ],
+    "ingredients": [
+      {
+        "name": "steel_ingot",
+        "displayName": "Steel Ingot",
+        "amount": 3
+      },
+      {
+        "name": "sateen",
+        "displayName": "Sateen",
+        "amount": 2
+      },
+      {
+        "name": "gunpowder",
+        "displayName": "Gunpowder",
+        "amount": 1
+      }
+    ]
+  },
+  "steel_arrow": {
+    "id_dwbd": "arrowt3",
+    "displayName": "Steel Arrow",
+    "name": "steel_arrow",
+    "categorie": "Engineering",
+    "craftingFee": 15,
+    "exp": 240,
+    "stations": [
+      "Workshop Tier 3"
+    ],
+    "ingredients": [
+      {
+        "name": "steel_ingot",
+        "displayName": "Steel Ingot",
+        "amount": 3
+      },
+      {
+        "name": "lumber",
+        "displayName": "Lumber",
+        "amount": 2
+      },
+      {
+        "name": "feathers",
+        "displayName": "Feathers",
+        "amount": 3
+      }
+    ]
+  },
+  "steel_harvesting_sickle": {
+    "id_dwbd": "procedural_sicklet3",
+    "displayName": "Steel Harvesting Sickle",
+    "name": "steel_harvesting_sickle",
+    "categorie": "Engineering",
+    "craftingFee": 75,
+    "exp": 330,
+    "stations": [
+      "Workshop Tier 3"
+    ],
+    "ingredients": [
+      {
+        "name": "steel_ingot",
+        "items": [
+          "steel_ingot",
+          "voidmetal"
+        ],
+        "displayName": "Tier 3 Metals",
+        "amount": 8
+      },
+      {
+        "name": "ironwood_planks",
+        "items": [
+          "lumber",
+          "timber",
+          "petrified_wood",
+          "whisperwood",
+          "wyrdwood_planks",
+          "ebonwood",
+          "quillbark",
+          "ironwood_planks",
+          "animal_horn",
+          "barbvine",
+          "wildwood",
+          "glittering_ebony"
+        ],
+        "displayName": "Refined Wood",
+        "amount": 2
+      },
+      {
+        "name": "infused_leather",
+        "items": [
+          "rugged_leather",
+          "coarse_leather",
+          "ragehide",
+          "shadowfur",
+          "scaly_hide",
+          "layered_leather",
+          "shifthide",
+          "brightscale_hide",
+          "infused_leather",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 1
+      }
+    ]
+  },
+  "steel_skinning_knife": {
+    "id_dwbd": "procedural_skinningknifet3",
+    "displayName": "Steel Skinning Knife",
+    "name": "steel_skinning_knife",
+    "categorie": "Engineering",
+    "craftingFee": 75,
+    "exp": 330,
+    "stations": [
+      "Workshop Tier 3"
+    ],
+    "ingredients": [
+      {
+        "name": "steel_ingot",
+        "items": [
+          "steel_ingot",
+          "voidmetal"
+        ],
+        "displayName": "Tier 3 Metals",
+        "amount": 8
+      },
+      {
+        "name": "ironwood_planks",
+        "items": [
+          "lumber",
+          "timber",
+          "petrified_wood",
+          "whisperwood",
+          "wyrdwood_planks",
+          "ebonwood",
+          "quillbark",
+          "ironwood_planks",
+          "animal_horn",
+          "barbvine",
+          "wildwood",
+          "glittering_ebony"
+        ],
+        "displayName": "Refined Wood",
+        "amount": 2
+      },
+      {
+        "name": "infused_leather",
+        "items": [
+          "rugged_leather",
+          "coarse_leather",
+          "ragehide",
+          "shadowfur",
+          "scaly_hide",
+          "layered_leather",
+          "shifthide",
+          "brightscale_hide",
+          "infused_leather",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 1
+      }
+    ]
+  },
+  "steel_mining_pickaxe": {
+    "id_dwbd": "procedural_miningpickt3",
+    "displayName": "Steel Mining Pickaxe",
+    "name": "steel_mining_pickaxe",
+    "categorie": "Engineering",
+    "craftingFee": 75,
+    "exp": 540,
+    "stations": [
+      "Workshop Tier 3"
+    ],
+    "ingredients": [
+      {
+        "name": "steel_ingot",
+        "items": [
+          "steel_ingot",
+          "voidmetal"
+        ],
+        "displayName": "Tier 3 Metals",
+        "amount": 13
+      },
+      {
+        "name": "ironwood_planks",
+        "items": [
+          "lumber",
+          "timber",
+          "petrified_wood",
+          "whisperwood",
+          "wyrdwood_planks",
+          "ebonwood",
+          "quillbark",
+          "ironwood_planks",
+          "animal_horn",
+          "barbvine",
+          "wildwood",
+          "glittering_ebony"
+        ],
+        "displayName": "Refined Wood",
+        "amount": 3
+      },
+      {
+        "name": "infused_leather",
+        "items": [
+          "rugged_leather",
+          "coarse_leather",
+          "ragehide",
+          "shadowfur",
+          "scaly_hide",
+          "layered_leather",
+          "shifthide",
+          "brightscale_hide",
+          "infused_leather",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 2
+      }
+    ]
+  },
+  "steel_logging_axe": {
+    "id_dwbd": "procedural_loggingaxet3",
+    "displayName": "Steel Logging Axe",
+    "name": "steel_logging_axe",
+    "categorie": "Engineering",
+    "craftingFee": 75,
+    "exp": 540,
+    "stations": [
+      "Workshop Tier 3"
+    ],
+    "ingredients": [
+      {
+        "name": "steel_ingot",
+        "items": [
+          "steel_ingot",
+          "voidmetal"
+        ],
+        "displayName": "Tier 3 Metals",
+        "amount": 13
+      },
+      {
+        "name": "ironwood_planks",
+        "items": [
+          "lumber",
+          "timber",
+          "petrified_wood",
+          "whisperwood",
+          "wyrdwood_planks",
+          "ebonwood",
+          "quillbark",
+          "ironwood_planks",
+          "animal_horn",
+          "barbvine",
+          "wildwood",
+          "glittering_ebony"
+        ],
+        "displayName": "Refined Wood",
+        "amount": 3
+      },
+      {
+        "name": "infused_leather",
+        "items": [
+          "rugged_leather",
+          "coarse_leather",
+          "ragehide",
+          "shadowfur",
+          "scaly_hide",
+          "layered_leather",
+          "shifthide",
+          "brightscale_hide",
+          "infused_leather",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 2
+      }
+    ]
+  },
+  "steel_musket": {
+    "id_dwbd": "procedural_muskett3",
+    "displayName": "Steel Musket",
+    "name": "steel_musket",
+    "categorie": "Engineering",
+    "craftingFee": 75,
+    "exp": 540,
+    "stations": [
+      "Workshop Tier 3"
+    ],
+    "ingredients": [
+      {
+        "name": "steel_ingot",
+        "items": [
+          "steel_ingot",
+          "voidmetal"
+        ],
+        "displayName": "Tier 3 Metals",
+        "amount": 13
+      },
+      {
+        "name": "ironwood_planks",
+        "items": [
+          "lumber",
+          "timber",
+          "petrified_wood",
+          "whisperwood",
+          "wyrdwood_planks",
+          "ebonwood",
+          "quillbark",
+          "ironwood_planks",
+          "animal_horn",
+          "barbvine",
+          "wildwood",
+          "glittering_ebony"
+        ],
+        "displayName": "Refined Wood",
+        "amount": 3
+      },
+      {
+        "name": "infused_leather",
+        "items": [
+          "rugged_leather",
+          "coarse_leather",
+          "ragehide",
+          "shadowfur",
+          "scaly_hide",
+          "layered_leather",
+          "shifthide",
+          "brightscale_hide",
+          "infused_leather",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 2
+      }
+    ]
+  },
+  "steel_hatchet": {
+    "id_dwbd": "procedural_hatchett3",
+    "displayName": "Steel Hatchet",
+    "name": "steel_hatchet",
+    "categorie": "Engineering",
+    "craftingFee": 75,
+    "exp": 330,
+    "stations": [
+      "Forge Tier 3"
+    ],
+    "ingredients": [
+      {
+        "name": "steel_ingot",
+        "items": [
+          "steel_ingot",
+          "voidmetal"
+        ],
+        "displayName": "Tier 3 Metals",
+        "amount": 8
+      },
+      {
+        "name": "ironwood_planks",
+        "items": [
+          "lumber",
+          "timber",
+          "petrified_wood",
+          "whisperwood",
+          "wyrdwood_planks",
+          "ebonwood",
+          "quillbark",
+          "ironwood_planks",
+          "animal_horn",
+          "barbvine",
+          "wildwood",
+          "glittering_ebony"
+        ],
+        "displayName": "Refined Wood",
+        "amount": 2
+      },
+      {
+        "name": "infused_leather",
+        "items": [
+          "rugged_leather",
+          "coarse_leather",
+          "ragehide",
+          "shadowfur",
+          "scaly_hide",
+          "layered_leather",
+          "shifthide",
+          "brightscale_hide",
+          "infused_leather",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 1
+      }
+    ]
+  },
+  "iron_sewing_needles": {
+    "id_dwbd": "sewingneedlest2",
+    "displayName": "Iron Sewing Needles",
+    "name": "iron_sewing_needles",
+    "categorie": "Engineering",
+    "craftingFee": 0,
+    "exp": 12,
+    "stations": [
+      "Workshop Tier 2"
+    ],
+    "ingredients": [
+      {
+        "name": "work_order:_iron_sewing_needles",
+        "displayName": "Work Order: Iron Sewing Needles",
+        "amount": 1
+      }
+    ]
+  },
+  "iron_cartridge": {
+    "id_dwbd": "shott2",
+    "displayName": "Iron Cartridge",
+    "name": "iron_cartridge",
+    "categorie": "Engineering",
+    "craftingFee": 5,
+    "exp": 72,
+    "stations": [
+      "Workshop Tier 2"
+    ],
+    "ingredients": [
+      {
+        "name": "iron_ingot",
+        "displayName": "Iron Ingot",
+        "amount": 4
+      },
+      {
+        "name": "linen",
+        "displayName": "Linen",
+        "amount": 1
+      },
+      {
+        "name": "gunpowder",
+        "displayName": "Gunpowder",
+        "amount": 1
+      }
+    ]
+  },
+  "iron_arrow": {
+    "id_dwbd": "arrowt2",
+    "displayName": "Iron Arrow",
+    "name": "iron_arrow",
+    "categorie": "Engineering",
+    "craftingFee": 5,
+    "exp": 108,
+    "stations": [
+      "Workshop Tier 2"
+    ],
+    "ingredients": [
+      {
+        "name": "iron_ingot",
+        "displayName": "Iron Ingot",
+        "amount": 4
+      },
+      {
+        "name": "timber",
+        "displayName": "Timber",
+        "amount": 2
+      },
+      {
+        "name": "feathers",
+        "displayName": "Feathers",
+        "amount": 3
+      }
+    ]
+  },
+  "iron_harvesting_sickle": {
+    "id_dwbd": "procedural_sicklet2",
+    "displayName": "Iron Harvesting Sickle",
+    "name": "iron_harvesting_sickle",
+    "categorie": "Engineering",
+    "craftingFee": 25,
+    "exp": 120,
+    "stations": [
+      "Workshop Tier 2"
+    ],
+    "ingredients": [
+      {
+        "name": "iron_ingot",
+        "items": [
+          "iron_ingot",
+          "fae_iron"
+        ],
+        "displayName": "Tier 2 Metals",
+        "amount": 7
+      },
+      {
+        "name": "ironwood_planks",
+        "items": [
+          "timber",
+          "petrified_wood",
+          "lumber",
+          "whisperwood",
+          "wyrdwood_planks",
+          "ebonwood",
+          "quillbark",
+          "ironwood_planks",
+          "animal_horn",
+          "barbvine",
+          "wildwood",
+          "glittering_ebony"
+        ],
+        "displayName": "Refined Wood",
+        "amount": 2
+      },
+      {
+        "name": "infused_leather",
+        "items": [
+          "coarse_leather",
+          "ragehide",
+          "rugged_leather",
+          "shadowfur",
+          "scaly_hide",
+          "layered_leather",
+          "shifthide",
+          "brightscale_hide",
+          "infused_leather",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 1
+      }
+    ]
+  },
+  "iron_skinning_knife": {
+    "id_dwbd": "procedural_skinningknifet2",
+    "displayName": "Iron Skinning Knife",
+    "name": "iron_skinning_knife",
+    "categorie": "Engineering",
+    "craftingFee": 25,
+    "exp": 120,
+    "stations": [
+      "Workshop Tier 2"
+    ],
+    "ingredients": [
+      {
+        "name": "iron_ingot",
+        "items": [
+          "iron_ingot",
+          "fae_iron"
+        ],
+        "displayName": "Tier 2 Metals",
+        "amount": 7
+      },
+      {
+        "name": "ironwood_planks",
+        "items": [
+          "timber",
+          "petrified_wood",
+          "lumber",
+          "whisperwood",
+          "wyrdwood_planks",
+          "ebonwood",
+          "quillbark",
+          "ironwood_planks",
+          "animal_horn",
+          "barbvine",
+          "wildwood",
+          "glittering_ebony"
+        ],
+        "displayName": "Refined Wood",
+        "amount": 2
+      },
+      {
+        "name": "infused_leather",
+        "items": [
+          "coarse_leather",
+          "ragehide",
+          "rugged_leather",
+          "shadowfur",
+          "scaly_hide",
+          "layered_leather",
+          "shifthide",
+          "brightscale_hide",
+          "infused_leather",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 1
+      }
+    ]
+  },
+  "iron_mining_pickaxe": {
+    "id_dwbd": "procedural_miningpickt2",
+    "displayName": "Iron Mining Pickaxe",
+    "name": "iron_mining_pickaxe",
+    "categorie": "Engineering",
+    "craftingFee": 25,
+    "exp": 204,
+    "stations": [
+      "Workshop Tier 2"
+    ],
+    "ingredients": [
+      {
+        "name": "iron_ingot",
+        "items": [
+          "iron_ingot",
+          "fae_iron"
+        ],
+        "displayName": "Tier 2 Metals",
+        "amount": 12
+      },
+      {
+        "name": "ironwood_planks",
+        "items": [
+          "timber",
+          "petrified_wood",
+          "lumber",
+          "whisperwood",
+          "wyrdwood_planks",
+          "ebonwood",
+          "quillbark",
+          "ironwood_planks",
+          "animal_horn",
+          "barbvine",
+          "wildwood",
+          "glittering_ebony"
+        ],
+        "displayName": "Refined Wood",
+        "amount": 3
+      },
+      {
+        "name": "infused_leather",
+        "items": [
+          "coarse_leather",
+          "ragehide",
+          "rugged_leather",
+          "shadowfur",
+          "scaly_hide",
+          "layered_leather",
+          "shifthide",
+          "brightscale_hide",
+          "infused_leather",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 2
+      }
+    ]
+  },
+  "iron_logging_axe": {
+    "id_dwbd": "procedural_loggingaxet2",
+    "displayName": "Iron Logging Axe",
+    "name": "iron_logging_axe",
+    "categorie": "Engineering",
+    "craftingFee": 25,
+    "exp": 204,
+    "stations": [
+      "Workshop Tier 2"
+    ],
+    "ingredients": [
+      {
+        "name": "iron_ingot",
+        "items": [
+          "iron_ingot",
+          "fae_iron"
+        ],
+        "displayName": "Tier 2 Metals",
+        "amount": 12
+      },
+      {
+        "name": "ironwood_planks",
+        "items": [
+          "timber",
+          "petrified_wood",
+          "lumber",
+          "whisperwood",
+          "wyrdwood_planks",
+          "ebonwood",
+          "quillbark",
+          "ironwood_planks",
+          "animal_horn",
+          "barbvine",
+          "wildwood",
+          "glittering_ebony"
+        ],
+        "displayName": "Refined Wood",
+        "amount": 3
+      },
+      {
+        "name": "infused_leather",
+        "items": [
+          "coarse_leather",
+          "ragehide",
+          "rugged_leather",
+          "shadowfur",
+          "scaly_hide",
+          "layered_leather",
+          "shifthide",
+          "brightscale_hide",
+          "infused_leather",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 2
+      }
+    ]
+  },
+  "iron_musket": {
+    "id_dwbd": "procedural_muskett2",
+    "displayName": "Iron Musket",
+    "name": "iron_musket",
+    "categorie": "Engineering",
+    "craftingFee": 25,
+    "exp": 204,
+    "stations": [
+      "Workshop Tier 2"
+    ],
+    "ingredients": [
+      {
+        "name": "iron_ingot",
+        "items": [
+          "iron_ingot",
+          "fae_iron"
+        ],
+        "displayName": "Tier 2 Metals",
+        "amount": 12
+      },
+      {
+        "name": "ironwood_planks",
+        "items": [
+          "timber",
+          "petrified_wood",
+          "lumber",
+          "whisperwood",
+          "wyrdwood_planks",
+          "ebonwood",
+          "quillbark",
+          "ironwood_planks",
+          "animal_horn",
+          "barbvine",
+          "wildwood",
+          "glittering_ebony"
+        ],
+        "displayName": "Refined Wood",
+        "amount": 3
+      },
+      {
+        "name": "infused_leather",
+        "items": [
+          "coarse_leather",
+          "ragehide",
+          "rugged_leather",
+          "shadowfur",
+          "scaly_hide",
+          "layered_leather",
+          "shifthide",
+          "brightscale_hide",
+          "infused_leather",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 2
+      }
+    ]
+  },
+  "iron_hatchet": {
+    "id_dwbd": "procedural_hatchett2",
+    "displayName": "Iron Hatchet",
+    "name": "iron_hatchet",
+    "categorie": "Engineering",
+    "craftingFee": 25,
+    "exp": 120,
+    "stations": [
+      "Forge Tier 2"
+    ],
+    "ingredients": [
+      {
+        "name": "iron_ingot",
+        "items": [
+          "iron_ingot",
+          "fae_iron"
+        ],
+        "displayName": "Tier 2 Metals",
+        "amount": 7
+      },
+      {
+        "name": "ironwood_planks",
+        "items": [
+          "timber",
+          "petrified_wood",
+          "lumber",
+          "whisperwood",
+          "wyrdwood_planks",
+          "ebonwood",
+          "quillbark",
+          "ironwood_planks",
+          "animal_horn",
+          "barbvine",
+          "wildwood",
+          "glittering_ebony"
+        ],
+        "displayName": "Refined Wood",
+        "amount": 2
+      },
+      {
+        "name": "infused_leather",
+        "items": [
+          "coarse_leather",
+          "ragehide",
+          "rugged_leather",
+          "shadowfur",
+          "scaly_hide",
+          "layered_leather",
+          "shifthide",
+          "brightscale_hide",
+          "infused_leather",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 1
+      }
+    ]
+  }
+}

@@ -11,13 +11,17 @@ async function getData(categorie, skill){
             .then(response => response.json())
             .then(data => resources = data);
 
-        await fetch('./data/recipes.json')
-            .then(response => response.json())
-            .then(data => {
-                resourceRecipes = data
-            });
+        let refcats = ["Smelting","Woodworking","Leatherworking","Weaving","Stonecutting"]
+        resourceRecipes = []
+        for( let refcat of refcats){
 
-        await fetch(`./data/recipes/${skill}_recipes.json`)
+            await fetch(`./data/recipes/refining/${refcat}.json`)
+                .then(response => response.json())
+                .then(data => {
+                    resourceRecipes = Object.assign({}, resourceRecipes, data)
+                });
+        }
+        await fetch(`./data/recipes/crafting/${skill}.json`)
             .then(response => response.json())
             .then(data => {
                 dynamicRecipes = data
@@ -27,7 +31,7 @@ async function getData(categorie, skill){
     app.getAvailableRecipes()
 }
 
-getData("","engineering")
+getData("","Engineering")
 
 
 var app = new Vue({
@@ -35,15 +39,15 @@ var app = new Vue({
     data: {
         form:{
             selectedCategorie:"refining",
-            selectedJob:"smelting",
+            selectedJob:"Smelting",
             selectedRecipe:null,
             amount:10,
             availableRecipes:[]
         },
         options:{
             categories:["refining","crafting"],
-            refining:["smelting","woodworking","leatherworking","weaving","stonecutting"],
-            crafting:["arcana","armoring","cooking","engineering","furnishing","jewelcraft","weaponsmithing"],
+            refining:["Smelting","Woodworking","Leatherworking","Weaving","Stonecutting"],
+            crafting:["Arcana","Armoring","Cooking","Engineering","Furnishing","Jewelcraft","Weaponsmithing"],
         },
         history:{
             keys:[],
@@ -83,12 +87,12 @@ var app = new Vue({
             getData(this.form.selectedCategorie, this.form.selectedJob)
         },
         getAvailableRecipes:function (){
-            let allRecipes = Object.values(resourceRecipes).concat(dynamicRecipes)
+            let allRecipes = Object.values(resourceRecipes).concat(Object.values(dynamicRecipes))
             if(Object.values(allRecipes).length > 0) {
                 let o = []
                 Object.values(allRecipes).forEach(recipe => {
                     if (recipe.categorie == this.form.selectedJob) {
-                        o.push(JSON.parse(JSON.stringify(recipe)))
+                        o.push(copy(recipe))
                     }
                 })
                 this.form.availableRecipes = o
@@ -157,7 +161,15 @@ function getRawItems(){
         ingredients = allIngredients.flat(1)
 
     ingredients.forEach(ing => {
-        if (resources[ing.name].type === "raw") {
+        if(resources[ing.name]){
+            if (resources[ing.name].type === "raw") {
+                if(o[ing.name]){
+                    o[ing.name].amount += ing.amount
+                }else{
+                    o[ing.name] = copy(ing)
+                }
+            }
+        }else{
             if(o[ing.name]){
                 o[ing.name].amount += ing.amount
             }else{
@@ -184,21 +196,34 @@ function getCraftingTree(recipe, amount){
             totalFee = 0
 
         ingredient.amount *= amount
-
-        if(resources[ingredient.name].type != "raw"){
-            if(resourceRecipes[ingredient.name]){
-                exp = resourceRecipes[ingredient.name].exp * ingredient.amount
-                totalFee = resourceRecipes[ingredient.name].craftingFee * ingredient.amount
+        try{
+            if(resources[ingredient.name].type != "raw"){
+                if(resourceRecipes[ingredient.name]){
+                    exp = resourceRecipes[ingredient.name].exp * ingredient.amount
+                    totalFee = resourceRecipes[ingredient.name].craftingFee * ingredient.amount
+                }
             }
-        }
 
-        output.push({
-            name:ingredient.name,
-            amount: ingredient.amount ,
-            exp: exp,
-            craftingFee:totalFee,
-            ingredients: getIngredients(ingredient, ingredient.amount )
-        })
+            output.push({
+                name:ingredient.name,
+                amount: ingredient.amount ,
+                exp: exp,
+                craftingFee:totalFee,
+                ingredients: getIngredients(ingredient, ingredient.amount )
+            })
+        }
+        catch (e) {
+            let obj ={
+                name:ingredient.name + " (work in progress)",
+                amount: ingredient.amount ,
+                exp: 0,
+                craftingFee:0,
+                ingredients: []
+            }
+            output.push(obj)
+            allIngredients.push(obj)
+            console.warn("error while processing: ", ingredient.name)
+        }
     })
     r_count = 0
     return output
@@ -210,24 +235,31 @@ function getIngredients(ingredient, amount= 1){
     if(r_count < 25){
         r_count ++
         console.info("RECURSION COUNT:" , r_count)
-
-        let recipe = copy(resourceRecipes)[itemName]
-        if(recipe){
-            recipe.ingredients.forEach(ing => {
-                ing.amount *= amount
-                // !!!----RECURSIVE-----!!!
-                if(resources[ing.name].type != "raw"){
-                    ing["exp"] = resourceRecipes[ing.name].exp * ing.amount
-                    ing["craftingFee"] = resourceRecipes[ing.name].craftingFee * ing.amount
-                    ing["ingredients"] = getIngredients(ing, ing.amount)
-                }else{
-                    ing["ingredients"] = []
-                }
-            })
-            allIngredients.push(recipe["ingredients"])
-            return recipe.ingredients
-        }else{
-            allIngredients.push([ingredient])
+        try {
+            let recipe = copy(resourceRecipes)[itemName]
+            if (recipe) {
+                recipe.ingredients.forEach(ing => {
+                    ing.amount *= amount
+                    // !!!----RECURSIVE-----!!!
+                    // console.log(ing.name, resources[ing.name].type) // oftne used DEBUG
+                    if (resources[ing.name].type != "raw") {
+                        ing["exp"] = resourceRecipes[ing.name].exp * ing.amount
+                        ing["craftingFee"] = resourceRecipes[ing.name].craftingFee * ing.amount
+                        ing["ingredients"] = getIngredients(ing, ing.amount)
+                    } else {
+                        ing["ingredients"] = []
+                    }
+                })
+                allIngredients.push(recipe["ingredients"])
+                return recipe.ingredients
+            } else {
+                allIngredients.push([ingredient])
+                return []
+            }
+        }
+        catch (e) {
+            r_count = 0
+            console.warn("error while ", itemName)
             return []
         }
     }

@@ -1,0 +1,147 @@
+{
+  "phoenixweave": {
+    "id_dwbd": "clotht51",
+    "displayName": "Phoenixweave",
+    "name": "phoenixweave",
+    "categorie": "Weaving",
+    "craftingFee": 19,
+    "exp": 6160,
+    "stations": [
+      "Loom Tier 5"
+    ],
+    "ingredients": [
+      {
+        "name": "infused_silk",
+        "displayName": "Infused Silk",
+        "amount": 5
+      },
+      {
+        "name": "scalecloth",
+        "displayName": "Scalecloth",
+        "amount": 1
+      },
+      {
+        "name": "blisterweave",
+        "displayName": "Blisterweave",
+        "amount": 1
+      },
+      {
+        "name": "wireweave",
+        "displayName": "Wireweave",
+        "amount": 1
+      }
+    ]
+  },
+  "infused_silk": {
+    "id_dwbd": "clotht5",
+    "displayName": "Infused Silk",
+    "name": "infused_silk",
+    "categorie": "Weaving",
+    "craftingFee": 13,
+    "exp": 8470,
+    "stations": [
+      "Loom Tier 5"
+    ],
+    "ingredients": [
+      {
+        "name": "wirefiber",
+        "displayName": "Wirefiber",
+        "amount": 8
+      },
+      {
+        "name": "silk",
+        "displayName": "Silk",
+        "amount": 2
+      },
+      {
+        "name": "crossweave",
+        "items": [
+          "wireweave",
+          "crossweave",
+          "silkweave"
+        ],
+        "displayName": "Cloth Weave",
+        "amount": 1
+      }
+    ]
+  },
+  "silk": {
+    "id_dwbd": "clotht4",
+    "displayName": "Silk",
+    "name": "silk",
+    "categorie": "Weaving",
+    "craftingFee": 7,
+    "exp": 1665,
+    "stations": [
+      "Loom Tier 4"
+    ],
+    "ingredients": [
+      {
+        "name": "silk_threads",
+        "displayName": "Silk Threads",
+        "amount": 6
+      },
+      {
+        "name": "sateen",
+        "displayName": "Sateen",
+        "amount": 2
+      },
+      {
+        "name": "crossweave",
+        "items": [
+          "silkweave",
+          "crossweave",
+          "wireweave"
+        ],
+        "displayName": "Cloth Weave",
+        "amount": 1
+      }
+    ]
+  },
+  "sateen": {
+    "id_dwbd": "clotht3",
+    "displayName": "Sateen",
+    "name": "sateen",
+    "categorie": "Weaving",
+    "craftingFee": 4,
+    "exp": 190,
+    "stations": [
+      "Loom Tier 3"
+    ],
+    "ingredients": [
+      {
+        "name": "linen",
+        "displayName": "Linen",
+        "amount": 4
+      },
+      {
+        "name": "crossweave",
+        "items": [
+          "crossweave",
+          "silkweave",
+          "wireweave"
+        ],
+        "displayName": "Cloth Weave",
+        "amount": 1
+      }
+    ]
+  },
+  "linen": {
+    "id_dwbd": "clotht2",
+    "displayName": "Linen",
+    "name": "linen",
+    "categorie": "Weaving",
+    "craftingFee": 1,
+    "exp": 36,
+    "stations": [
+      "Loom Tier 3"
+    ],
+    "ingredients": [
+      {
+        "name": "fibers",
+        "displayName": "Fibers",
+        "amount": 4
+      }
+    ]
+  }
+}
