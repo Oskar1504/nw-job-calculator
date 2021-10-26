@@ -63,12 +63,15 @@
                     <h4 class="d-flex justify-content-between align-items-center mb-3">
                         <span class="text-primary">Informations</span>
                     </h4>
-                    <ul class="list-group mb-3">
+                    <ul v-if="form.selectedRecipe != null" class="list-group mb-3">
                         <li  class="list-group-item d-flex justify-content-between lh-sm">
                             <h6 class="my-0">Total crafting cost: {{  deformat(stats.totalFee/100)}}</h6>
                         </li>
                         <li  class="list-group-item d-flex justify-content-between lh-sm">
-                            <h6 class="my-0">Total exp: {{  deformat(stats.totalExp)}}</h6>
+                            <h6 class="my-0">Experience total (this recipe): {{deformat(form.selectedRecipe.exp * form.amount)}}</h6>
+                        </li>
+                        <li  class="list-group-item d-flex justify-content-between lh-sm">
+                            <h6 class="my-0">Total exp (all jobs/skills): {{  deformat(stats.totalExp)}}</h6>
                         </li>
                     </ul>
                 </div>
@@ -124,7 +127,7 @@
                         <div class="col-sm-3">
                             <label class="form-label">Recipe</label>
                             <select v-model="form.selectedRecipe"  class="form-select mb-3" aria-label=".form-select-lg example">
-                                <option v-for="recipe in form.availableRecipes" :value="recipe" selected>{{recipe.name}}</option>
+                                <option v-for="recipe in form.availableRecipes" :value="recipe" selected>{{recipe.displayName}}</option>
                             </select>
                         </div>
 
@@ -138,7 +141,7 @@
                         <div class="row" v-if="form.selectedRecipe">
                         <div class="col-sm-4">
                             <div>{{form.amount}} x {{form.selectedRecipe.name}}</div>
-                            <div>Categorie: {{form.selectedRecipe.categorie}}</div>
+                            <strong>Required Joblevel: {{form.selectedRecipe.recipeLevel}}</strong>
                         </div>
                         <div class="col-sm-4">
                             <div>Experience per item: {{form.selectedRecipe.exp}}</div>
