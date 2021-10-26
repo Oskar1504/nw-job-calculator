@@ -30,7 +30,9 @@
         "displayName": "Obsidian Sandpaper",
         "amount": 1
       }
-    ]
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 200
   },
   "ironwood_planks": {
     "id_dwbd": "timbert5",
@@ -63,7 +65,9 @@
         "displayName": "Sandpaper",
         "amount": 1
       }
-    ]
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 150
   },
   "wyrdwood_planks": {
     "id_dwbd": "timbert4",
@@ -96,7 +100,9 @@
         "displayName": "Sandpaper",
         "amount": 1
       }
-    ]
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 100
   },
   "lumber": {
     "id_dwbd": "timbert3",
@@ -129,7 +135,9 @@
         "displayName": "Sandpaper",
         "amount": 1
       }
-    ]
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 50
   },
   "timber": {
     "id_dwbd": "timbert2",
@@ -147,6 +155,8 @@
         "displayName": "Green Wood",
         "amount": 4
       }
-    ]
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 0
   }
 }

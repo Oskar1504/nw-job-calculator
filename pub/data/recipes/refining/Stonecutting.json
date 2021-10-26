@@ -25,7 +25,9 @@
         "displayName": "Putrid Lodestone",
         "amount": 1
       }
-    ]
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 200
   },
   "obsidian_voidstone": {
     "id_dwbd": "blockt5",
@@ -63,7 +65,9 @@
         "displayName": "Sandpaper",
         "amount": 1
       }
-    ]
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 150
   },
   "lodestone_brick": {
     "id_dwbd": "blockt4",
@@ -96,7 +100,9 @@
         "displayName": "Sandpaper",
         "amount": 1
       }
-    ]
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 100
   },
   "stone_brick": {
     "id_dwbd": "blockt3",
@@ -124,7 +130,9 @@
         "displayName": "Sandpaper",
         "amount": 1
       }
-    ]
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 50
   },
   "stone_block": {
     "id_dwbd": "blockt2",
@@ -142,6 +150,8 @@
         "displayName": "Stone",
         "amount": 4
       }
-    ]
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 0
   }
 }

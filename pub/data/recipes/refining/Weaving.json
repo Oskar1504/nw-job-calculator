@@ -30,7 +30,9 @@
         "displayName": "Wireweave",
         "amount": 1
       }
-    ]
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 200
   },
   "infused_silk": {
     "id_dwbd": "clotht5",
@@ -63,7 +65,9 @@
         "displayName": "Cloth Weave",
         "amount": 1
       }
-    ]
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 150
   },
   "silk": {
     "id_dwbd": "clotht4",
@@ -96,7 +100,9 @@
         "displayName": "Cloth Weave",
         "amount": 1
       }
-    ]
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 100
   },
   "sateen": {
     "id_dwbd": "clotht3",
@@ -124,7 +130,9 @@
         "displayName": "Cloth Weave",
         "amount": 1
       }
-    ]
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 50
   },
   "linen": {
     "id_dwbd": "clotht2",
@@ -142,6 +150,8 @@
         "displayName": "Fibers",
         "amount": 4
       }
-    ]
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 0
   }
 }

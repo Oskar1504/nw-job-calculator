@@ -30,7 +30,9 @@
         "displayName": "Aged Tannin",
         "amount": 1
       }
-    ]
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 200
   },
   "infused_leather": {
     "id_dwbd": "leathert5",
@@ -63,7 +65,9 @@
         "displayName": "Tannin",
         "amount": 1
       }
-    ]
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 150
   },
   "layered_leather": {
     "id_dwbd": "leathert4",
@@ -96,7 +100,9 @@
         "displayName": "Tannin",
         "amount": 1
       }
-    ]
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 100
   },
   "rugged_leather": {
     "id_dwbd": "leathert3",
@@ -124,7 +130,9 @@
         "displayName": "Tannin",
         "amount": 1
       }
-    ]
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 50
   },
   "coarse_leather": {
     "id_dwbd": "leathert2",
@@ -142,6 +150,8 @@
         "displayName": "Rawhide",
         "amount": 4
       }
-    ]
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 0
   }
 }
