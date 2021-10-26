@@ -1,0 +1,262 @@
+{
+  "golden_steel_storage_chest": {
+    "id_dwbd": "house_housingitem_storage_t4_cheststeel",
+    "displayName": "Golden Steel Storage Chest",
+    "name": "golden_steel_storage_chest",
+    "categorie": "Furnishing",
+    "craftingFee": 300,
+    "exp": 15040,
+    "stations": [
+      "Workshop Tier 5"
+    ],
+    "ingredients": [
+      {
+        "name": "ironwood_planks",
+        "displayName": "Ironwood Planks",
+        "amount": 30
+      },
+      {
+        "name": "orichalcum_ingot",
+        "displayName": "Orichalcum Ingot",
+        "amount": 15
+      },
+      {
+        "name": "mahogany_stain",
+        "displayName": "Mahogany Stain",
+        "amount": 1
+      },
+      {
+        "name": "grand_rune_of_holding",
+        "displayName": "Grand Rune of Holding",
+        "amount": 1
+      }
+    ],
+    "recipeLevel": 200,
+    "displayNameDe": ""
+  },
+  "mahogany_chest_of_drawers": {
+    "id_dwbd": "house_housingitem_settler_cabinet01_d",
+    "displayName": "Mahogany Chest of Drawers",
+    "name": "mahogany_chest_of_drawers",
+    "categorie": "Furnishing",
+    "craftingFee": 300,
+    "exp": 15040,
+    "stations": [
+      "Workshop Tier 5"
+    ],
+    "ingredients": [
+      {
+        "name": "ironwood_planks",
+        "displayName": "Ironwood Planks",
+        "amount": 35
+      },
+      {
+        "name": "orichalcum_ingot",
+        "displayName": "Orichalcum Ingot",
+        "amount": 10
+      },
+      {
+        "name": "mahogany_stain",
+        "displayName": "Mahogany Stain",
+        "amount": 2
+      }
+    ],
+    "recipeLevel": 164,
+    "displayNameDe": ""
+  },
+  "hope_storage_chest": {
+    "id_dwbd": "house_housingitem_storage_t3_settler",
+    "displayName": "Hope Storage Chest",
+    "name": "hope_storage_chest",
+    "categorie": "Furnishing",
+    "craftingFee": 100,
+    "exp": 4512,
+    "stations": [
+      "Workshop Tier 4"
+    ],
+    "ingredients": [
+      {
+        "name": "wyrdwood_planks",
+        "displayName": "Wyrdwood Planks",
+        "amount": 30
+      },
+      {
+        "name": "starmetal_ingot",
+        "displayName": "Starmetal Ingot",
+        "amount": 15
+      },
+      {
+        "name": "oak_stain",
+        "displayName": "Oak Stain",
+        "amount": 1
+      },
+      {
+        "name": "greater_rune_of_holding",
+        "displayName": "Greater Rune of Holding",
+        "amount": 1
+      }
+    ],
+    "recipeLevel": 145,
+    "displayNameDe": ""
+  },
+  "oak_chest_of_drawers": {
+    "id_dwbd": "house_housingitem_settler_cabinet01_c",
+    "displayName": "Oak Chest of Drawers",
+    "name": "oak_chest_of_drawers",
+    "categorie": "Furnishing",
+    "craftingFee": 126,
+    "exp": 4512,
+    "stations": [
+      "Workshop Tier 4"
+    ],
+    "ingredients": [
+      {
+        "name": "wyrdwood_planks",
+        "displayName": "Wyrdwood Planks",
+        "amount": 35
+      },
+      {
+        "name": "starmetal_ingot",
+        "displayName": "Starmetal Ingot",
+        "amount": 10
+      },
+      {
+        "name": "oak_stain",
+        "displayName": "Oak Stain",
+        "amount": 2
+      }
+    ],
+    "recipeLevel": 114,
+    "displayNameDe": ""
+  },
+  "iron_storage_chest": {
+    "id_dwbd": "house_housingitem_storage_t2_chestiron",
+    "displayName": "Iron Storage Chest",
+    "name": "iron_storage_chest",
+    "categorie": "Furnishing",
+    "craftingFee": 50,
+    "exp": 1128,
+    "stations": [
+      "Workshop Tier 3"
+    ],
+    "ingredients": [
+      {
+        "name": "lumber",
+        "displayName": "Lumber",
+        "amount": 30
+      },
+      {
+        "name": "steel_ingot",
+        "displayName": "Steel Ingot",
+        "amount": 15
+      },
+      {
+        "name": "maple_stain",
+        "displayName": "Maple Stain",
+        "amount": 1
+      },
+      {
+        "name": "major_rune_of_holding",
+        "displayName": "Major Rune of Holding",
+        "amount": 1
+      }
+    ],
+    "recipeLevel": 85,
+    "displayNameDe": ""
+  },
+  "maple_chest_of_drawers": {
+    "id_dwbd": "house_housingitem_settler_cabinet01_b",
+    "displayName": "Maple Chest of Drawers",
+    "name": "maple_chest_of_drawers",
+    "categorie": "Furnishing",
+    "craftingFee": 50,
+    "exp": 1128,
+    "stations": [
+      "Workshop Tier 3"
+    ],
+    "ingredients": [
+      {
+        "name": "lumber",
+        "displayName": "Lumber",
+        "amount": 35
+      },
+      {
+        "name": "steel_ingot",
+        "displayName": "Steel Ingot",
+        "amount": 10
+      },
+      {
+        "name": "maple_stain",
+        "displayName": "Maple Stain",
+        "amount": 2
+      }
+    ],
+    "recipeLevel": 64,
+    "displayNameDe": ""
+  },
+  "hewn_log_storage_chest": {
+    "id_dwbd": "house_housingitem_storage_t1_chestoldlog",
+    "displayName": "Hewn Log Storage Chest",
+    "name": "hewn_log_storage_chest",
+    "categorie": "Furnishing",
+    "craftingFee": 18,
+    "exp": 282,
+    "stations": [
+      "Workshop Tier 2"
+    ],
+    "ingredients": [
+      {
+        "name": "timber",
+        "displayName": "Timber",
+        "amount": 30
+      },
+      {
+        "name": "iron_ingot",
+        "displayName": "Iron Ingot",
+        "amount": 15
+      },
+      {
+        "name": "ash_stain",
+        "displayName": "Ash Stain",
+        "amount": 1
+      },
+      {
+        "name": "minor_rune_of_holding",
+        "displayName": "Minor Rune of Holding",
+        "amount": 1
+      }
+    ],
+    "recipeLevel": 35,
+    "displayNameDe": ""
+  },
+  "ash_chest_of_drawers": {
+    "id_dwbd": "house_housingitem_settler_cabinet01_a",
+    "displayName": "Ash Chest of Drawers",
+    "name": "ash_chest_of_drawers",
+    "categorie": "Furnishing",
+    "craftingFee": 18,
+    "exp": 282,
+    "stations": [
+      "Workshop Tier 2"
+    ],
+    "ingredients": [
+      {
+        "name": "timber",
+        "displayName": "Timber",
+        "amount": 30
+      },
+      {
+        "name": "iron_ingot",
+        "displayName": "Iron Ingot",
+        "amount": 15
+      },
+      {
+        "name": "ash_stain",
+        "displayName": "Ash Stain",
+        "amount": 2
+      }
+    ],
+    "recipeLevel": 0,
+    "displayNameDe": ""
+  }
+}

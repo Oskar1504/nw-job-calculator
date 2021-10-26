@@ -1,4 +1,99 @@
 {
+  "soulforged_spear": {
+    "id_dwbd": "2hspear_soulforgedspeart5",
+    "displayName": "Soulforged Spear",
+    "name": "soulforged_spear",
+    "categorie": "Engineering",
+    "craftingFee": 449,
+    "exp": 7440,
+    "stations": [
+      "Forge Tier 5"
+    ],
+    "ingredients": [
+      {
+        "name": "asmodeum",
+        "displayName": "Asmodeum",
+        "amount": 20
+      },
+      {
+        "name": "glittering_ebony",
+        "displayName": "Glittering Ebony",
+        "amount": 15
+      },
+      {
+        "name": "runic_leather",
+        "displayName": "Runic Leather",
+        "amount": 5
+      },
+      {
+        "name": "embossed_wrapping",
+        "displayName": "Embossed Wrapping",
+        "amount": 1
+      },
+      {
+        "name": "withered_bough",
+        "displayName": "Withered Bough",
+        "amount": 1
+      },
+      {
+        "name": "tolvium",
+        "displayName": "Tolvium",
+        "amount": 4
+      },
+      {
+        "name": "smolderhide",
+        "displayName": "Smolderhide",
+        "amount": 2
+      }
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 200
+  },
+  "flawless_grandmaster's_spear": {
+    "id_dwbd": "2hspear_flawlessgrandmastersspeart5",
+    "displayName": "Flawless Grandmaster's Spear",
+    "name": "flawless_grandmaster's_spear",
+    "categorie": "Engineering",
+    "craftingFee": 449,
+    "exp": 7285,
+    "stations": [
+      "Forge Tier 5"
+    ],
+    "ingredients": [
+      {
+        "name": "asmodeum",
+        "displayName": "Asmodeum",
+        "amount": 20
+      },
+      {
+        "name": "glittering_ebony",
+        "displayName": "Glittering Ebony",
+        "amount": 15
+      },
+      {
+        "name": "runic_leather",
+        "displayName": "Runic Leather",
+        "amount": 5
+      },
+      {
+        "name": "embossed_wrapping",
+        "displayName": "Embossed Wrapping",
+        "amount": 1
+      },
+      {
+        "name": "cinnabar",
+        "displayName": "Cinnabar",
+        "amount": 4
+      },
+      {
+        "name": "scarhide",
+        "displayName": "Scarhide",
+        "amount": 2
+      }
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 186
+  },
   "ironwood_tree_sap": {
     "id_dwbd": "focdexbonust4",
     "displayName": "Ironwood Tree Sap",
@@ -20,7 +115,287 @@
         "displayName": "Grand Transmutation Catalyst",
         "amount": 1
       }
-    ]
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 160
+  },
+  "orichalcum_corrupted_casing": {
+    "id_dwbd": "dexfocbonust4",
+    "displayName": "Orichalcum Corrupted Casing",
+    "name": "orichalcum_corrupted_casing",
+    "categorie": "Engineering",
+    "craftingFee": 90,
+    "exp": 0,
+    "stations": [
+      "Workshop Tier 5"
+    ],
+    "ingredients": [
+      {
+        "name": "starmetal_corrupted_casing",
+        "displayName": "Starmetal Corrupted Casing",
+        "amount": 3
+      },
+      {
+        "name": "grand_transmutation_catalyst",
+        "displayName": "Grand Transmutation Catalyst",
+        "amount": 1
+      }
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 160
+  },
+  "orichalcum_hook": {
+    "id_dwbd": "dexconbonust4",
+    "displayName": "Orichalcum Hook",
+    "name": "orichalcum_hook",
+    "categorie": "Engineering",
+    "craftingFee": 90,
+    "exp": 0,
+    "stations": [
+      "Workshop Tier 5"
+    ],
+    "ingredients": [
+      {
+        "name": "starmetal_hook",
+        "displayName": "Starmetal Hook",
+        "amount": 3
+      },
+      {
+        "name": "grand_transmutation_catalyst",
+        "displayName": "Grand Transmutation Catalyst",
+        "amount": 1
+      }
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 160
+  },
+  "garden_keeper_spear": {
+    "id_dwbd": "2hspearcrafteddungeon7t5",
+    "displayName": "Garden Keeper Spear",
+    "name": "garden_keeper_spear",
+    "categorie": "Engineering",
+    "craftingFee": 449,
+    "exp": 4805,
+    "stations": [
+      "Forge Tier 5"
+    ],
+    "ingredients": [
+      {
+        "name": "sticky_vines",
+        "displayName": "Sticky Vines",
+        "amount": 10
+      },
+      {
+        "name": "putrid_bark",
+        "displayName": "Putrid Bark",
+        "amount": 1
+      },
+      {
+        "name": "orichalcum_ingot",
+        "items": [
+          "orichalcum_ingot",
+          "tolvium",
+          "cinnabar",
+          "asmodeum"
+        ],
+        "displayName": "Tier 5 Metals",
+        "amount": 15
+      },
+      {
+        "name": "timber",
+        "items": [
+          "ironwood_planks",
+          "timber",
+          "petrified_wood",
+          "lumber",
+          "whisperwood",
+          "wyrdwood_planks",
+          "ebonwood",
+          "quillbark",
+          "animal_horn",
+          "barbvine",
+          "wildwood",
+          "glittering_ebony"
+        ],
+        "displayName": "Refined Wood",
+        "amount": 3
+      },
+      {
+        "name": "coarse_leather",
+        "items": [
+          "infused_leather",
+          "coarse_leather",
+          "ragehide",
+          "rugged_leather",
+          "shadowfur",
+          "scaly_hide",
+          "layered_leather",
+          "shifthide",
+          "brightscale_hide",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 2
+      }
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 160
+  },
+  "lazarus_watcher_spear": {
+    "id_dwbd": "2hspearcrafteddungeon6t5",
+    "displayName": "Lazarus Watcher Spear",
+    "name": "lazarus_watcher_spear",
+    "categorie": "Engineering",
+    "craftingFee": 449,
+    "exp": 4805,
+    "stations": [
+      "Forge Tier 4"
+    ],
+    "ingredients": [
+      {
+        "name": "spectral_dust",
+        "displayName": "Spectral Dust",
+        "amount": 10
+      },
+      {
+        "name": "metallic_boneweave",
+        "displayName": "Metallic Boneweave",
+        "amount": 1
+      },
+      {
+        "name": "orichalcum_ingot",
+        "items": [
+          "orichalcum_ingot",
+          "tolvium",
+          "cinnabar",
+          "asmodeum"
+        ],
+        "displayName": "Tier 5 Metals",
+        "amount": 15
+      },
+      {
+        "name": "timber",
+        "items": [
+          "ironwood_planks",
+          "timber",
+          "petrified_wood",
+          "lumber",
+          "whisperwood",
+          "wyrdwood_planks",
+          "ebonwood",
+          "quillbark",
+          "animal_horn",
+          "barbvine",
+          "wildwood",
+          "glittering_ebony"
+        ],
+        "displayName": "Refined Wood",
+        "amount": 3
+      },
+      {
+        "name": "coarse_leather",
+        "items": [
+          "infused_leather",
+          "coarse_leather",
+          "ragehide",
+          "rugged_leather",
+          "shadowfur",
+          "scaly_hide",
+          "layered_leather",
+          "shifthide",
+          "brightscale_hide",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 2
+      }
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 160
+  },
+  "orichalcum_sewing_needles": {
+    "id_dwbd": "sewingneedlest5",
+    "displayName": "Orichalcum Sewing Needles",
+    "name": "orichalcum_sewing_needles",
+    "categorie": "Engineering",
+    "craftingFee": 0,
+    "exp": 155,
+    "stations": [
+      "Workshop Tier 5"
+    ],
+    "ingredients": [
+      {
+        "name": "work_order:_orichalcum_sewing_needles",
+        "displayName": "Work Order: Orichalcum Sewing Needles",
+        "amount": 1
+      }
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 150
+  },
+  "orichalcum_cartridge": {
+    "id_dwbd": "shott5",
+    "displayName": "Orichalcum Cartridge",
+    "name": "orichalcum_cartridge",
+    "categorie": "Engineering",
+    "craftingFee": 90,
+    "exp": 775,
+    "stations": [
+      "Workshop Tier 5"
+    ],
+    "ingredients": [
+      {
+        "name": "orichalcum_ingot",
+        "displayName": "Orichalcum Ingot",
+        "amount": 1
+      },
+      {
+        "name": "infused_silk",
+        "displayName": "Infused Silk",
+        "amount": 3
+      },
+      {
+        "name": "gunpowder",
+        "displayName": "Gunpowder",
+        "amount": 1
+      }
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 150
+  },
+  "orichalcum_arrow": {
+    "id_dwbd": "arrowt5",
+    "displayName": "Orichalcum Arrow",
+    "name": "orichalcum_arrow",
+    "categorie": "Engineering",
+    "craftingFee": 90,
+    "exp": 930,
+    "stations": [
+      "Workshop Tier 5"
+    ],
+    "ingredients": [
+      {
+        "name": "orichalcum_ingot",
+        "displayName": "Orichalcum Ingot",
+        "amount": 1
+      },
+      {
+        "name": "ironwood_planks",
+        "displayName": "Ironwood Planks",
+        "amount": 2
+      },
+      {
+        "name": "feathers",
+        "displayName": "Feathers",
+        "amount": 3
+      }
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 150
   },
   "ironwood_fishing_pole": {
     "id_dwbd": "procedural_fishingpolet5",
@@ -45,7 +420,7 @@
         "amount": 15
       },
       {
-        "name": "layered_leather",
+        "name": "coarse_leather",
         "items": [
           "infused_leather",
           "coarse_leather",
@@ -64,7 +439,7 @@
         "amount": 3
       },
       {
-        "name": "silk",
+        "name": "linen",
         "items": [
           "infused_silk",
           "linen",
@@ -81,7 +456,329 @@
         "displayName": "Cloth",
         "amount": 2
       }
-    ]
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 150
+  },
+  "orichalcum_harvesting_sickle": {
+    "id_dwbd": "procedural_sicklet5",
+    "displayName": "Orichalcum Harvesting Sickle",
+    "name": "orichalcum_harvesting_sickle",
+    "categorie": "Engineering",
+    "craftingFee": 449,
+    "exp": 2015,
+    "stations": [
+      "Workshop Tier 5"
+    ],
+    "ingredients": [
+      {
+        "name": "orichalcum_ingot",
+        "items": [
+          "orichalcum_ingot",
+          "tolvium",
+          "cinnabar",
+          "asmodeum"
+        ],
+        "displayName": "Tier 5 Metals",
+        "amount": 10
+      },
+      {
+        "name": "timber",
+        "items": [
+          "ironwood_planks",
+          "timber",
+          "petrified_wood",
+          "lumber",
+          "whisperwood",
+          "wyrdwood_planks",
+          "ebonwood",
+          "quillbark",
+          "animal_horn",
+          "barbvine",
+          "wildwood",
+          "glittering_ebony"
+        ],
+        "displayName": "Refined Wood",
+        "amount": 2
+      },
+      {
+        "name": "coarse_leather",
+        "items": [
+          "infused_leather",
+          "coarse_leather",
+          "ragehide",
+          "rugged_leather",
+          "shadowfur",
+          "scaly_hide",
+          "layered_leather",
+          "shifthide",
+          "brightscale_hide",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 1
+      }
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 150
+  },
+  "orichalcum_skinning_knife": {
+    "id_dwbd": "procedural_skinningknifet5",
+    "displayName": "Orichalcum Skinning Knife",
+    "name": "orichalcum_skinning_knife",
+    "categorie": "Engineering",
+    "craftingFee": 449,
+    "exp": 2015,
+    "stations": [
+      "Workshop Tier 5"
+    ],
+    "ingredients": [
+      {
+        "name": "orichalcum_ingot",
+        "items": [
+          "orichalcum_ingot",
+          "tolvium",
+          "cinnabar",
+          "asmodeum"
+        ],
+        "displayName": "Tier 5 Metals",
+        "amount": 10
+      },
+      {
+        "name": "timber",
+        "items": [
+          "ironwood_planks",
+          "timber",
+          "petrified_wood",
+          "lumber",
+          "whisperwood",
+          "wyrdwood_planks",
+          "ebonwood",
+          "quillbark",
+          "animal_horn",
+          "barbvine",
+          "wildwood",
+          "glittering_ebony"
+        ],
+        "displayName": "Refined Wood",
+        "amount": 2
+      },
+      {
+        "name": "coarse_leather",
+        "items": [
+          "infused_leather",
+          "coarse_leather",
+          "ragehide",
+          "rugged_leather",
+          "shadowfur",
+          "scaly_hide",
+          "layered_leather",
+          "shifthide",
+          "brightscale_hide",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 1
+      }
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 150
+  },
+  "orichalcum_mining_pickaxe": {
+    "id_dwbd": "procedural_miningpickt5",
+    "displayName": "Orichalcum Mining Pickaxe",
+    "name": "orichalcum_mining_pickaxe",
+    "categorie": "Engineering",
+    "craftingFee": 449,
+    "exp": 3100,
+    "stations": [
+      "Workshop Tier 5"
+    ],
+    "ingredients": [
+      {
+        "name": "orichalcum_ingot",
+        "items": [
+          "orichalcum_ingot",
+          "tolvium",
+          "cinnabar",
+          "asmodeum"
+        ],
+        "displayName": "Tier 5 Metals",
+        "amount": 15
+      },
+      {
+        "name": "timber",
+        "items": [
+          "ironwood_planks",
+          "timber",
+          "petrified_wood",
+          "lumber",
+          "whisperwood",
+          "wyrdwood_planks",
+          "ebonwood",
+          "quillbark",
+          "animal_horn",
+          "barbvine",
+          "wildwood",
+          "glittering_ebony"
+        ],
+        "displayName": "Refined Wood",
+        "amount": 3
+      },
+      {
+        "name": "coarse_leather",
+        "items": [
+          "infused_leather",
+          "coarse_leather",
+          "ragehide",
+          "rugged_leather",
+          "shadowfur",
+          "scaly_hide",
+          "layered_leather",
+          "shifthide",
+          "brightscale_hide",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 2
+      }
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 150
+  },
+  "orichalcum_logging_axe": {
+    "id_dwbd": "procedural_loggingaxet5",
+    "displayName": "Orichalcum Logging Axe",
+    "name": "orichalcum_logging_axe",
+    "categorie": "Engineering",
+    "craftingFee": 449,
+    "exp": 3100,
+    "stations": [
+      "Workshop Tier 5"
+    ],
+    "ingredients": [
+      {
+        "name": "orichalcum_ingot",
+        "items": [
+          "orichalcum_ingot",
+          "tolvium",
+          "cinnabar",
+          "asmodeum"
+        ],
+        "displayName": "Tier 5 Metals",
+        "amount": 15
+      },
+      {
+        "name": "timber",
+        "items": [
+          "ironwood_planks",
+          "timber",
+          "petrified_wood",
+          "lumber",
+          "whisperwood",
+          "wyrdwood_planks",
+          "ebonwood",
+          "quillbark",
+          "animal_horn",
+          "barbvine",
+          "wildwood",
+          "glittering_ebony"
+        ],
+        "displayName": "Refined Wood",
+        "amount": 3
+      },
+      {
+        "name": "coarse_leather",
+        "items": [
+          "infused_leather",
+          "coarse_leather",
+          "ragehide",
+          "rugged_leather",
+          "shadowfur",
+          "scaly_hide",
+          "layered_leather",
+          "shifthide",
+          "brightscale_hide",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 2
+      }
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 150
+  },
+  "orichalcum_musket": {
+    "id_dwbd": "procedural_muskett5",
+    "displayName": "Orichalcum Musket",
+    "name": "orichalcum_musket",
+    "categorie": "Engineering",
+    "craftingFee": 449,
+    "exp": 3100,
+    "stations": [
+      "Workshop Tier 5"
+    ],
+    "ingredients": [
+      {
+        "name": "orichalcum_ingot",
+        "items": [
+          "orichalcum_ingot",
+          "tolvium",
+          "cinnabar",
+          "asmodeum"
+        ],
+        "displayName": "Tier 5 Metals",
+        "amount": 15
+      },
+      {
+        "name": "timber",
+        "items": [
+          "ironwood_planks",
+          "timber",
+          "petrified_wood",
+          "lumber",
+          "whisperwood",
+          "wyrdwood_planks",
+          "ebonwood",
+          "quillbark",
+          "animal_horn",
+          "barbvine",
+          "wildwood",
+          "glittering_ebony"
+        ],
+        "displayName": "Refined Wood",
+        "amount": 3
+      },
+      {
+        "name": "coarse_leather",
+        "items": [
+          "infused_leather",
+          "coarse_leather",
+          "ragehide",
+          "rugged_leather",
+          "shadowfur",
+          "scaly_hide",
+          "layered_leather",
+          "shifthide",
+          "brightscale_hide",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 2
+      }
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 150
   },
   "ironwood_bow": {
     "id_dwbd": "procedural_bowt5",
@@ -106,7 +803,7 @@
         "amount": 15
       },
       {
-        "name": "layered_leather",
+        "name": "coarse_leather",
         "items": [
           "infused_leather",
           "coarse_leather",
@@ -125,7 +822,7 @@
         "amount": 3
       },
       {
-        "name": "silk",
+        "name": "linen",
         "items": [
           "infused_silk",
           "linen",
@@ -142,7 +839,73 @@
         "displayName": "Cloth",
         "amount": 2
       }
-    ]
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 150
+  },
+  "orichalcum_hatchet": {
+    "id_dwbd": "procedural_hatchett5",
+    "displayName": "Orichalcum Hatchet",
+    "name": "orichalcum_hatchet",
+    "categorie": "Engineering",
+    "craftingFee": 449,
+    "exp": 2015,
+    "stations": [
+      "Forge Tier 5"
+    ],
+    "ingredients": [
+      {
+        "name": "orichalcum_ingot",
+        "items": [
+          "orichalcum_ingot",
+          "tolvium",
+          "cinnabar",
+          "asmodeum"
+        ],
+        "displayName": "Tier 5 Metals",
+        "amount": 10
+      },
+      {
+        "name": "timber",
+        "items": [
+          "ironwood_planks",
+          "timber",
+          "petrified_wood",
+          "lumber",
+          "whisperwood",
+          "wyrdwood_planks",
+          "ebonwood",
+          "quillbark",
+          "animal_horn",
+          "barbvine",
+          "wildwood",
+          "glittering_ebony"
+        ],
+        "displayName": "Refined Wood",
+        "amount": 2
+      },
+      {
+        "name": "coarse_leather",
+        "items": [
+          "infused_leather",
+          "coarse_leather",
+          "ragehide",
+          "rugged_leather",
+          "shadowfur",
+          "scaly_hide",
+          "layered_leather",
+          "shifthide",
+          "brightscale_hide",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 1
+      }
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 150
   },
   "ironwood_spear": {
     "id_dwbd": "procedural_speart5",
@@ -167,7 +930,7 @@
         "amount": 13
       },
       {
-        "name": "starmetal_ingot",
+        "name": "iron_ingot",
         "items": [
           "orichalcum_ingot",
           "iron_ingot",
@@ -185,7 +948,7 @@
         "amount": 5
       },
       {
-        "name": "layered_leather",
+        "name": "coarse_leather",
         "items": [
           "infused_leather",
           "coarse_leather",
@@ -203,7 +966,726 @@
         "displayName": "Leathers",
         "amount": 2
       }
-    ]
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 150
+  },
+  "starmetal_corrupted_casing": {
+    "id_dwbd": "dexfocbonust3",
+    "displayName": "Starmetal Corrupted Casing",
+    "name": "starmetal_corrupted_casing",
+    "categorie": "Engineering",
+    "craftingFee": 37,
+    "exp": 0,
+    "stations": [
+      "Workshop Tier 4"
+    ],
+    "ingredients": [
+      {
+        "name": "steel_corrupted_casing",
+        "displayName": "Steel Corrupted Casing",
+        "amount": 4
+      },
+      {
+        "name": "greater_transmutation_catalyst",
+        "displayName": "Greater Transmutation Catalyst",
+        "amount": 1
+      }
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 110
+  },
+  "starmetal_hook": {
+    "id_dwbd": "dexconbonust3",
+    "displayName": "Starmetal Hook",
+    "name": "starmetal_hook",
+    "categorie": "Engineering",
+    "craftingFee": 37,
+    "exp": 0,
+    "stations": [
+      "Workshop Tier 4"
+    ],
+    "ingredients": [
+      {
+        "name": "steel_hook",
+        "displayName": "Steel Hook",
+        "amount": 4
+      },
+      {
+        "name": "greater_transmutation_catalyst",
+        "displayName": "Greater Transmutation Catalyst",
+        "amount": 1
+      }
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 110
+  },
+  "shipyard_sentinel_spear": {
+    "id_dwbd": "2hspearcrafteddungeon5t4",
+    "displayName": "Shipyard Sentinel Spear",
+    "name": "shipyard_sentinel_spear",
+    "categorie": "Engineering",
+    "craftingFee": 449,
+    "exp": 2250,
+    "stations": [
+      "Forge Tier 4"
+    ],
+    "ingredients": [
+      {
+        "name": "jade_collar",
+        "displayName": "Jade Collar",
+        "amount": 10
+      },
+      {
+        "name": "jade_talisman",
+        "displayName": "Jade Talisman",
+        "amount": 1
+      },
+      {
+        "name": "starmetal_ingot",
+        "items": [
+          "starmetal_ingot",
+          "azurite_chunk",
+          "blessed_crucible"
+        ],
+        "displayName": "Tier 4 Metals",
+        "amount": 14
+      },
+      {
+        "name": "timber",
+        "items": [
+          "wyrdwood_planks",
+          "timber",
+          "petrified_wood",
+          "lumber",
+          "whisperwood",
+          "ebonwood",
+          "quillbark",
+          "ironwood_planks",
+          "animal_horn",
+          "barbvine",
+          "wildwood",
+          "glittering_ebony"
+        ],
+        "displayName": "Refined Wood",
+        "amount": 3
+      },
+      {
+        "name": "scaly_hide",
+        "items": [
+          "scaly_hide",
+          "layered_leather",
+          "coarse_leather",
+          "ragehide",
+          "rugged_leather",
+          "shadowfur",
+          "shifthide",
+          "brightscale_hide",
+          "infused_leather",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 2
+      }
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 110
+  },
+  "deepwatcher_spear": {
+    "id_dwbd": "2hspearcrafteddungeon4t4",
+    "displayName": "Deepwatcher Spear",
+    "name": "deepwatcher_spear",
+    "categorie": "Engineering",
+    "craftingFee": 184,
+    "exp": 2250,
+    "stations": [
+      "Forge Tier 4"
+    ],
+    "ingredients": [
+      {
+        "name": "corrupted_talisman",
+        "displayName": "Corrupted Talisman",
+        "amount": 10
+      },
+      {
+        "name": "corrupted_treatise",
+        "displayName": "Corrupted Treatise",
+        "amount": 1
+      },
+      {
+        "name": "starmetal_ingot",
+        "items": [
+          "starmetal_ingot",
+          "azurite_chunk",
+          "blessed_crucible"
+        ],
+        "displayName": "Tier 4 Metals",
+        "amount": 14
+      },
+      {
+        "name": "timber",
+        "items": [
+          "wyrdwood_planks",
+          "timber",
+          "petrified_wood",
+          "lumber",
+          "whisperwood",
+          "ebonwood",
+          "quillbark",
+          "ironwood_planks",
+          "animal_horn",
+          "barbvine",
+          "wildwood",
+          "glittering_ebony"
+        ],
+        "displayName": "Refined Wood",
+        "amount": 3
+      },
+      {
+        "name": "scaly_hide",
+        "items": [
+          "scaly_hide",
+          "layered_leather",
+          "coarse_leather",
+          "ragehide",
+          "rugged_leather",
+          "shadowfur",
+          "shifthide",
+          "brightscale_hide",
+          "infused_leather",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 2
+      }
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 110
+  },
+  "starmetal_sewing_needles": {
+    "id_dwbd": "sewingneedlest4",
+    "displayName": "Starmetal Sewing Needles",
+    "name": "starmetal_sewing_needles",
+    "categorie": "Engineering",
+    "craftingFee": 0,
+    "exp": 75,
+    "stations": [
+      "Workshop Tier 4"
+    ],
+    "ingredients": [
+      {
+        "name": "work_order:_starmetal_sewing_needles",
+        "displayName": "Work Order: Starmetal Sewing Needles",
+        "amount": 1
+      }
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 100
+  },
+  "starmetal_cartridge": {
+    "id_dwbd": "shott4",
+    "displayName": "Starmetal Cartridge",
+    "name": "starmetal_cartridge",
+    "categorie": "Engineering",
+    "craftingFee": 37,
+    "exp": 375,
+    "stations": [
+      "Workshop Tier 4"
+    ],
+    "ingredients": [
+      {
+        "name": "starmetal_ingot",
+        "displayName": "Starmetal Ingot",
+        "amount": 2
+      },
+      {
+        "name": "silk",
+        "displayName": "Silk",
+        "amount": 2
+      },
+      {
+        "name": "gunpowder",
+        "displayName": "Gunpowder",
+        "amount": 1
+      }
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 100
+  },
+  "starmetal_arrow": {
+    "id_dwbd": "arrowt4",
+    "displayName": "Starmetal Arrow",
+    "name": "starmetal_arrow",
+    "categorie": "Engineering",
+    "craftingFee": 37,
+    "exp": 525,
+    "stations": [
+      "Workshop Tier 4"
+    ],
+    "ingredients": [
+      {
+        "name": "starmetal_ingot",
+        "displayName": "Starmetal Ingot",
+        "amount": 2
+      },
+      {
+        "name": "wyrdwood_planks",
+        "displayName": "Wyrdwood Planks",
+        "amount": 2
+      },
+      {
+        "name": "feathers",
+        "displayName": "Feathers",
+        "amount": 3
+      }
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 100
+  },
+  "starmetal_harvesting_sickle": {
+    "id_dwbd": "procedural_sicklet4",
+    "displayName": "Starmetal Harvesting Sickle",
+    "name": "starmetal_harvesting_sickle",
+    "categorie": "Engineering",
+    "craftingFee": 184,
+    "exp": 900,
+    "stations": [
+      "Workshop Tier 4"
+    ],
+    "ingredients": [
+      {
+        "name": "starmetal_ingot",
+        "items": [
+          "starmetal_ingot",
+          "azurite_chunk",
+          "blessed_crucible"
+        ],
+        "displayName": "Tier 4 Metals",
+        "amount": 9
+      },
+      {
+        "name": "timber",
+        "items": [
+          "wyrdwood_planks",
+          "timber",
+          "petrified_wood",
+          "lumber",
+          "whisperwood",
+          "ebonwood",
+          "quillbark",
+          "ironwood_planks",
+          "animal_horn",
+          "barbvine",
+          "wildwood",
+          "glittering_ebony"
+        ],
+        "displayName": "Refined Wood",
+        "amount": 2
+      },
+      {
+        "name": "scaly_hide",
+        "items": [
+          "scaly_hide",
+          "layered_leather",
+          "coarse_leather",
+          "ragehide",
+          "rugged_leather",
+          "shadowfur",
+          "shifthide",
+          "brightscale_hide",
+          "infused_leather",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 1
+      }
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 100
+  },
+  "starmetal_skinning_knife": {
+    "id_dwbd": "procedural_skinningknifet4",
+    "displayName": "Starmetal Skinning Knife",
+    "name": "starmetal_skinning_knife",
+    "categorie": "Engineering",
+    "craftingFee": 184,
+    "exp": 900,
+    "stations": [
+      "Workshop Tier 4"
+    ],
+    "ingredients": [
+      {
+        "name": "starmetal_ingot",
+        "items": [
+          "starmetal_ingot",
+          "azurite_chunk",
+          "blessed_crucible"
+        ],
+        "displayName": "Tier 4 Metals",
+        "amount": 9
+      },
+      {
+        "name": "timber",
+        "items": [
+          "wyrdwood_planks",
+          "timber",
+          "petrified_wood",
+          "lumber",
+          "whisperwood",
+          "ebonwood",
+          "quillbark",
+          "ironwood_planks",
+          "animal_horn",
+          "barbvine",
+          "wildwood",
+          "glittering_ebony"
+        ],
+        "displayName": "Refined Wood",
+        "amount": 2
+      },
+      {
+        "name": "scaly_hide",
+        "items": [
+          "scaly_hide",
+          "layered_leather",
+          "coarse_leather",
+          "ragehide",
+          "rugged_leather",
+          "shadowfur",
+          "shifthide",
+          "brightscale_hide",
+          "infused_leather",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 1
+      }
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 100
+  },
+  "starmetal_mining_pickaxe": {
+    "id_dwbd": "procedural_miningpickt4",
+    "displayName": "Starmetal Mining Pickaxe",
+    "name": "starmetal_mining_pickaxe",
+    "categorie": "Engineering",
+    "craftingFee": 184,
+    "exp": 1425,
+    "stations": [
+      "Workshop Tier 4"
+    ],
+    "ingredients": [
+      {
+        "name": "starmetal_ingot",
+        "items": [
+          "starmetal_ingot",
+          "azurite_chunk",
+          "blessed_crucible"
+        ],
+        "displayName": "Tier 4 Metals",
+        "amount": 14
+      },
+      {
+        "name": "timber",
+        "items": [
+          "wyrdwood_planks",
+          "timber",
+          "petrified_wood",
+          "lumber",
+          "whisperwood",
+          "ebonwood",
+          "quillbark",
+          "ironwood_planks",
+          "animal_horn",
+          "barbvine",
+          "wildwood",
+          "glittering_ebony"
+        ],
+        "displayName": "Refined Wood",
+        "amount": 3
+      },
+      {
+        "name": "scaly_hide",
+        "items": [
+          "scaly_hide",
+          "layered_leather",
+          "coarse_leather",
+          "ragehide",
+          "rugged_leather",
+          "shadowfur",
+          "shifthide",
+          "brightscale_hide",
+          "infused_leather",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 2
+      }
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 100
+  },
+  "starmetal_logging_axe": {
+    "id_dwbd": "procedural_loggingaxet4",
+    "displayName": "Starmetal Logging Axe",
+    "name": "starmetal_logging_axe",
+    "categorie": "Engineering",
+    "craftingFee": 184,
+    "exp": 1425,
+    "stations": [
+      "Workshop Tier 4"
+    ],
+    "ingredients": [
+      {
+        "name": "starmetal_ingot",
+        "items": [
+          "starmetal_ingot",
+          "azurite_chunk",
+          "blessed_crucible"
+        ],
+        "displayName": "Tier 4 Metals",
+        "amount": 14
+      },
+      {
+        "name": "timber",
+        "items": [
+          "wyrdwood_planks",
+          "timber",
+          "petrified_wood",
+          "lumber",
+          "whisperwood",
+          "ebonwood",
+          "quillbark",
+          "ironwood_planks",
+          "animal_horn",
+          "barbvine",
+          "wildwood",
+          "glittering_ebony"
+        ],
+        "displayName": "Refined Wood",
+        "amount": 3
+      },
+      {
+        "name": "scaly_hide",
+        "items": [
+          "scaly_hide",
+          "layered_leather",
+          "coarse_leather",
+          "ragehide",
+          "rugged_leather",
+          "shadowfur",
+          "shifthide",
+          "brightscale_hide",
+          "infused_leather",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 2
+      }
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 100
+  },
+  "starmetal_musket": {
+    "id_dwbd": "procedural_muskett4",
+    "displayName": "Starmetal Musket",
+    "name": "starmetal_musket",
+    "categorie": "Engineering",
+    "craftingFee": 184,
+    "exp": 1425,
+    "stations": [
+      "Workshop Tier 4"
+    ],
+    "ingredients": [
+      {
+        "name": "starmetal_ingot",
+        "items": [
+          "starmetal_ingot",
+          "azurite_chunk",
+          "blessed_crucible"
+        ],
+        "displayName": "Tier 4 Metals",
+        "amount": 14
+      },
+      {
+        "name": "timber",
+        "items": [
+          "wyrdwood_planks",
+          "timber",
+          "petrified_wood",
+          "lumber",
+          "whisperwood",
+          "ebonwood",
+          "quillbark",
+          "ironwood_planks",
+          "animal_horn",
+          "barbvine",
+          "wildwood",
+          "glittering_ebony"
+        ],
+        "displayName": "Refined Wood",
+        "amount": 3
+      },
+      {
+        "name": "scaly_hide",
+        "items": [
+          "scaly_hide",
+          "layered_leather",
+          "coarse_leather",
+          "ragehide",
+          "rugged_leather",
+          "shadowfur",
+          "shifthide",
+          "brightscale_hide",
+          "infused_leather",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 2
+      }
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 100
+  },
+  "starmetal_hatchet": {
+    "id_dwbd": "procedural_hatchett4",
+    "displayName": "Starmetal Hatchet",
+    "name": "starmetal_hatchet",
+    "categorie": "Engineering",
+    "craftingFee": 184,
+    "exp": 900,
+    "stations": [
+      "Forge Tier 4"
+    ],
+    "ingredients": [
+      {
+        "name": "starmetal_ingot",
+        "items": [
+          "starmetal_ingot",
+          "azurite_chunk",
+          "blessed_crucible"
+        ],
+        "displayName": "Tier 4 Metals",
+        "amount": 9
+      },
+      {
+        "name": "timber",
+        "items": [
+          "wyrdwood_planks",
+          "timber",
+          "petrified_wood",
+          "lumber",
+          "whisperwood",
+          "ebonwood",
+          "quillbark",
+          "ironwood_planks",
+          "animal_horn",
+          "barbvine",
+          "wildwood",
+          "glittering_ebony"
+        ],
+        "displayName": "Refined Wood",
+        "amount": 2
+      },
+      {
+        "name": "scaly_hide",
+        "items": [
+          "scaly_hide",
+          "layered_leather",
+          "coarse_leather",
+          "ragehide",
+          "rugged_leather",
+          "shadowfur",
+          "shifthide",
+          "brightscale_hide",
+          "infused_leather",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 1
+      }
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 100
+  },
+  "wyrdwood_spear": {
+    "id_dwbd": "procedural_speart4",
+    "displayName": "Wyrdwood Spear",
+    "name": "wyrdwood_spear",
+    "categorie": "Engineering",
+    "craftingFee": 184,
+    "exp": 1425,
+    "stations": [
+      "Forge Tier 4"
+    ],
+    "ingredients": [
+      {
+        "name": "wyrdwood_planks",
+        "items": [
+          "wyrdwood_planks",
+          "ebonwood",
+          "quillbark",
+          "animal_horn"
+        ],
+        "displayName": "Tier 4 Timber",
+        "amount": 12
+      },
+      {
+        "name": "iron_ingot",
+        "items": [
+          "starmetal_ingot",
+          "iron_ingot",
+          "fae_iron",
+          "steel_ingot",
+          "voidmetal",
+          "azurite_chunk",
+          "blessed_crucible",
+          "orichalcum_ingot",
+          "tolvium",
+          "cinnabar",
+          "asmodeum"
+        ],
+        "displayName": "Metals",
+        "amount": 5
+      },
+      {
+        "name": "scaly_hide",
+        "items": [
+          "scaly_hide",
+          "layered_leather",
+          "coarse_leather",
+          "ragehide",
+          "rugged_leather",
+          "shadowfur",
+          "shifthide",
+          "brightscale_hide",
+          "infused_leather",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 2
+      }
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 100
   },
   "steel_corrupted_casing": {
     "id_dwbd": "dexfocbonust2",
@@ -226,7 +1708,9 @@
         "displayName": "Common Transmutation Catalyst",
         "amount": 1
       }
-    ]
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 60
   },
   "steel_hook": {
     "id_dwbd": "dexconbonust2",
@@ -249,7 +1733,153 @@
         "displayName": "Common Transmutation Catalyst",
         "amount": 1
       }
-    ]
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 60
+  },
+  "obelisk_guard_spear": {
+    "id_dwbd": "2hspearcrafteddungeon2t3",
+    "displayName": "Obelisk Guard Spear",
+    "name": "obelisk_guard_spear",
+    "categorie": "Engineering",
+    "craftingFee": 75,
+    "exp": 870,
+    "stations": [
+      "Forge Tier 3"
+    ],
+    "ingredients": [
+      {
+        "name": "sparkling_bone_dust",
+        "displayName": "Sparkling Bone Dust",
+        "amount": 10
+      },
+      {
+        "name": "vial_of_ancient_mutagen",
+        "displayName": "Vial of Ancient Mutagen",
+        "amount": 1
+      },
+      {
+        "name": "steel_ingot",
+        "items": [
+          "steel_ingot",
+          "voidmetal"
+        ],
+        "displayName": "Tier 3 Metals",
+        "amount": 13
+      },
+      {
+        "name": "timber",
+        "items": [
+          "lumber",
+          "timber",
+          "petrified_wood",
+          "whisperwood",
+          "wyrdwood_planks",
+          "ebonwood",
+          "quillbark",
+          "ironwood_planks",
+          "animal_horn",
+          "barbvine",
+          "wildwood",
+          "glittering_ebony"
+        ],
+        "displayName": "Refined Wood",
+        "amount": 3
+      },
+      {
+        "name": "coarse_leather",
+        "items": [
+          "rugged_leather",
+          "coarse_leather",
+          "ragehide",
+          "shadowfur",
+          "scaly_hide",
+          "layered_leather",
+          "shifthide",
+          "brightscale_hide",
+          "infused_leather",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 2
+      }
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 60
+  },
+  "amrine_temple_spear": {
+    "id_dwbd": "2hspearcrafteddungeon1t3",
+    "displayName": "Amrine Temple Spear",
+    "name": "amrine_temple_spear",
+    "categorie": "Engineering",
+    "craftingFee": 75,
+    "exp": 870,
+    "stations": [
+      "Forge Tier 2"
+    ],
+    "ingredients": [
+      {
+        "name": "coagulated_blood",
+        "displayName": "Coagulated Blood",
+        "amount": 10
+      },
+      {
+        "name": "vial_of_ectoplasmic_mutagen",
+        "displayName": "Vial Of Ectoplasmic Mutagen",
+        "amount": 1
+      },
+      {
+        "name": "steel_ingot",
+        "items": [
+          "steel_ingot",
+          "voidmetal"
+        ],
+        "displayName": "Tier 3 Metals",
+        "amount": 13
+      },
+      {
+        "name": "timber",
+        "items": [
+          "lumber",
+          "timber",
+          "petrified_wood",
+          "whisperwood",
+          "wyrdwood_planks",
+          "ebonwood",
+          "quillbark",
+          "ironwood_planks",
+          "animal_horn",
+          "barbvine",
+          "wildwood",
+          "glittering_ebony"
+        ],
+        "displayName": "Refined Wood",
+        "amount": 3
+      },
+      {
+        "name": "coarse_leather",
+        "items": [
+          "rugged_leather",
+          "coarse_leather",
+          "ragehide",
+          "shadowfur",
+          "scaly_hide",
+          "layered_leather",
+          "shifthide",
+          "brightscale_hide",
+          "infused_leather",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 2
+      }
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 60
   },
   "steel_sewing_needles": {
     "id_dwbd": "sewingneedlest3",
@@ -267,7 +1897,9 @@
         "displayName": "Work Order: Steel Sewing Needles",
         "amount": 1
       }
-    ]
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 50
   },
   "steel_cartridge": {
     "id_dwbd": "shott3",
@@ -295,7 +1927,9 @@
         "displayName": "Gunpowder",
         "amount": 1
       }
-    ]
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 50
   },
   "steel_arrow": {
     "id_dwbd": "arrowt3",
@@ -323,7 +1957,9 @@
         "displayName": "Feathers",
         "amount": 3
       }
-    ]
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 50
   },
   "steel_harvesting_sickle": {
     "id_dwbd": "procedural_sicklet3",
@@ -346,7 +1982,7 @@
         "amount": 8
       },
       {
-        "name": "ironwood_planks",
+        "name": "timber",
         "items": [
           "lumber",
           "timber",
@@ -365,7 +2001,7 @@
         "amount": 2
       },
       {
-        "name": "infused_leather",
+        "name": "coarse_leather",
         "items": [
           "rugged_leather",
           "coarse_leather",
@@ -383,7 +2019,9 @@
         "displayName": "Leathers",
         "amount": 1
       }
-    ]
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 50
   },
   "steel_skinning_knife": {
     "id_dwbd": "procedural_skinningknifet3",
@@ -406,7 +2044,7 @@
         "amount": 8
       },
       {
-        "name": "ironwood_planks",
+        "name": "timber",
         "items": [
           "lumber",
           "timber",
@@ -425,7 +2063,7 @@
         "amount": 2
       },
       {
-        "name": "infused_leather",
+        "name": "coarse_leather",
         "items": [
           "rugged_leather",
           "coarse_leather",
@@ -443,7 +2081,9 @@
         "displayName": "Leathers",
         "amount": 1
       }
-    ]
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 50
   },
   "steel_mining_pickaxe": {
     "id_dwbd": "procedural_miningpickt3",
@@ -466,7 +2106,7 @@
         "amount": 13
       },
       {
-        "name": "ironwood_planks",
+        "name": "timber",
         "items": [
           "lumber",
           "timber",
@@ -485,7 +2125,7 @@
         "amount": 3
       },
       {
-        "name": "infused_leather",
+        "name": "coarse_leather",
         "items": [
           "rugged_leather",
           "coarse_leather",
@@ -503,7 +2143,9 @@
         "displayName": "Leathers",
         "amount": 2
       }
-    ]
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 50
   },
   "steel_logging_axe": {
     "id_dwbd": "procedural_loggingaxet3",
@@ -526,7 +2168,7 @@
         "amount": 13
       },
       {
-        "name": "ironwood_planks",
+        "name": "timber",
         "items": [
           "lumber",
           "timber",
@@ -545,7 +2187,7 @@
         "amount": 3
       },
       {
-        "name": "infused_leather",
+        "name": "coarse_leather",
         "items": [
           "rugged_leather",
           "coarse_leather",
@@ -563,7 +2205,9 @@
         "displayName": "Leathers",
         "amount": 2
       }
-    ]
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 50
   },
   "steel_musket": {
     "id_dwbd": "procedural_muskett3",
@@ -586,7 +2230,7 @@
         "amount": 13
       },
       {
-        "name": "ironwood_planks",
+        "name": "timber",
         "items": [
           "lumber",
           "timber",
@@ -605,7 +2249,7 @@
         "amount": 3
       },
       {
-        "name": "infused_leather",
+        "name": "coarse_leather",
         "items": [
           "rugged_leather",
           "coarse_leather",
@@ -623,7 +2267,9 @@
         "displayName": "Leathers",
         "amount": 2
       }
-    ]
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 50
   },
   "steel_hatchet": {
     "id_dwbd": "procedural_hatchett3",
@@ -646,7 +2292,7 @@
         "amount": 8
       },
       {
-        "name": "ironwood_planks",
+        "name": "timber",
         "items": [
           "lumber",
           "timber",
@@ -665,7 +2311,7 @@
         "amount": 2
       },
       {
-        "name": "infused_leather",
+        "name": "coarse_leather",
         "items": [
           "rugged_leather",
           "coarse_leather",
@@ -683,7 +2329,70 @@
         "displayName": "Leathers",
         "amount": 1
       }
-    ]
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 50
+  },
+  "laquered_wood_spear": {
+    "id_dwbd": "procedural_speart3",
+    "displayName": "Laquered Wood Spear",
+    "name": "laquered_wood_spear",
+    "categorie": "Engineering",
+    "craftingFee": 75,
+    "exp": 540,
+    "stations": [
+      "Forge Tier 3"
+    ],
+    "ingredients": [
+      {
+        "name": "lumber",
+        "items": [
+          "lumber",
+          "whisperwood"
+        ],
+        "displayName": "Tier 3 Timber",
+        "amount": 11
+      },
+      {
+        "name": "iron_ingot",
+        "items": [
+          "steel_ingot",
+          "iron_ingot",
+          "fae_iron",
+          "voidmetal",
+          "starmetal_ingot",
+          "azurite_chunk",
+          "blessed_crucible",
+          "orichalcum_ingot",
+          "tolvium",
+          "cinnabar",
+          "asmodeum"
+        ],
+        "displayName": "Metals",
+        "amount": 5
+      },
+      {
+        "name": "coarse_leather",
+        "items": [
+          "rugged_leather",
+          "coarse_leather",
+          "ragehide",
+          "shadowfur",
+          "scaly_hide",
+          "layered_leather",
+          "shifthide",
+          "brightscale_hide",
+          "infused_leather",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 2
+      }
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 50
   },
   "iron_sewing_needles": {
     "id_dwbd": "sewingneedlest2",
@@ -701,7 +2410,9 @@
         "displayName": "Work Order: Iron Sewing Needles",
         "amount": 1
       }
-    ]
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 0
   },
   "iron_cartridge": {
     "id_dwbd": "shott2",
@@ -729,7 +2440,9 @@
         "displayName": "Gunpowder",
         "amount": 1
       }
-    ]
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 0
   },
   "iron_arrow": {
     "id_dwbd": "arrowt2",
@@ -757,7 +2470,9 @@
         "displayName": "Feathers",
         "amount": 3
       }
-    ]
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 0
   },
   "iron_harvesting_sickle": {
     "id_dwbd": "procedural_sicklet2",
@@ -780,7 +2495,7 @@
         "amount": 7
       },
       {
-        "name": "ironwood_planks",
+        "name": "timber",
         "items": [
           "timber",
           "petrified_wood",
@@ -799,7 +2514,7 @@
         "amount": 2
       },
       {
-        "name": "infused_leather",
+        "name": "coarse_leather",
         "items": [
           "coarse_leather",
           "ragehide",
@@ -817,7 +2532,9 @@
         "displayName": "Leathers",
         "amount": 1
       }
-    ]
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 0
   },
   "iron_skinning_knife": {
     "id_dwbd": "procedural_skinningknifet2",
@@ -840,7 +2557,7 @@
         "amount": 7
       },
       {
-        "name": "ironwood_planks",
+        "name": "timber",
         "items": [
           "timber",
           "petrified_wood",
@@ -859,7 +2576,7 @@
         "amount": 2
       },
       {
-        "name": "infused_leather",
+        "name": "coarse_leather",
         "items": [
           "coarse_leather",
           "ragehide",
@@ -877,7 +2594,9 @@
         "displayName": "Leathers",
         "amount": 1
       }
-    ]
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 0
   },
   "iron_mining_pickaxe": {
     "id_dwbd": "procedural_miningpickt2",
@@ -900,7 +2619,7 @@
         "amount": 12
       },
       {
-        "name": "ironwood_planks",
+        "name": "timber",
         "items": [
           "timber",
           "petrified_wood",
@@ -919,7 +2638,7 @@
         "amount": 3
       },
       {
-        "name": "infused_leather",
+        "name": "coarse_leather",
         "items": [
           "coarse_leather",
           "ragehide",
@@ -937,7 +2656,9 @@
         "displayName": "Leathers",
         "amount": 2
       }
-    ]
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 0
   },
   "iron_logging_axe": {
     "id_dwbd": "procedural_loggingaxet2",
@@ -960,7 +2681,7 @@
         "amount": 12
       },
       {
-        "name": "ironwood_planks",
+        "name": "timber",
         "items": [
           "timber",
           "petrified_wood",
@@ -979,7 +2700,7 @@
         "amount": 3
       },
       {
-        "name": "infused_leather",
+        "name": "coarse_leather",
         "items": [
           "coarse_leather",
           "ragehide",
@@ -997,7 +2718,9 @@
         "displayName": "Leathers",
         "amount": 2
       }
-    ]
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 0
   },
   "iron_musket": {
     "id_dwbd": "procedural_muskett2",
@@ -1020,7 +2743,7 @@
         "amount": 12
       },
       {
-        "name": "ironwood_planks",
+        "name": "timber",
         "items": [
           "timber",
           "petrified_wood",
@@ -1039,7 +2762,7 @@
         "amount": 3
       },
       {
-        "name": "infused_leather",
+        "name": "coarse_leather",
         "items": [
           "coarse_leather",
           "ragehide",
@@ -1057,7 +2780,9 @@
         "displayName": "Leathers",
         "amount": 2
       }
-    ]
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 0
   },
   "iron_hatchet": {
     "id_dwbd": "procedural_hatchett2",
@@ -1080,7 +2805,7 @@
         "amount": 7
       },
       {
-        "name": "ironwood_planks",
+        "name": "timber",
         "items": [
           "timber",
           "petrified_wood",
@@ -1099,7 +2824,7 @@
         "amount": 2
       },
       {
-        "name": "infused_leather",
+        "name": "coarse_leather",
         "items": [
           "coarse_leather",
           "ragehide",
@@ -1117,6 +2842,69 @@
         "displayName": "Leathers",
         "amount": 1
       }
-    ]
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 0
+  },
+  "treated_wood_spear": {
+    "id_dwbd": "procedural_speart2",
+    "displayName": "Treated Wood Spear",
+    "name": "treated_wood_spear",
+    "categorie": "Engineering",
+    "craftingFee": 25,
+    "exp": 204,
+    "stations": [
+      "Forge Tier 2"
+    ],
+    "ingredients": [
+      {
+        "name": "timber",
+        "items": [
+          "timber",
+          "petrified_wood"
+        ],
+        "displayName": "Tier 2 Timber",
+        "amount": 10
+      },
+      {
+        "name": "iron_ingot",
+        "items": [
+          "iron_ingot",
+          "fae_iron",
+          "steel_ingot",
+          "voidmetal",
+          "starmetal_ingot",
+          "azurite_chunk",
+          "blessed_crucible",
+          "orichalcum_ingot",
+          "tolvium",
+          "cinnabar",
+          "asmodeum"
+        ],
+        "displayName": "Metals",
+        "amount": 5
+      },
+      {
+        "name": "coarse_leather",
+        "items": [
+          "coarse_leather",
+          "ragehide",
+          "rugged_leather",
+          "shadowfur",
+          "scaly_hide",
+          "layered_leather",
+          "shifthide",
+          "brightscale_hide",
+          "infused_leather",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 2
+      }
+    ],
+    "displayNameDe": "",
+    "recipeLevel": 0
   }
 }

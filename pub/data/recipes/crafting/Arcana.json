@@ -1,0 +1,672 @@
+{
+  "ironwood_prayer_beads": {
+    "id_dwbd": "focbonust4",
+    "displayName": "Ironwood Prayer Beads",
+    "name": "ironwood_prayer_beads",
+    "categorie": "Arcana",
+    "craftingFee": 90,
+    "exp": 0,
+    "stations": [
+      "Arcane Repository Tier 5"
+    ],
+    "ingredients": [
+      {
+        "name": "wyrdwood_prayer_beads",
+        "displayName": "Wyrdwood Prayer Beads",
+        "amount": 3
+      },
+      {
+        "name": "grand_transmutation_catalyst",
+        "displayName": "Grand Transmutation Catalyst",
+        "amount": 1
+      }
+    ],
+    "recipeLevel": 160,
+    "displayNameDe": "dawaawdawd"
+  },
+  "orichalcum_ice_gauntlet": {
+    "id_dwbd": "procedural_gauntleticet5",
+    "displayName": "Orichalcum Ice Gauntlet",
+    "name": "orichalcum_ice_gauntlet",
+    "categorie": "Arcana",
+    "craftingFee": 449,
+    "exp": 3565,
+    "stations": [
+      "Arcane Repository Tier 5"
+    ],
+    "ingredients": [
+      {
+        "name": "orichalcum_ingot",
+        "items": [
+          "orichalcum_ingot",
+          "tolvium",
+          "cinnabar",
+          "asmodeum"
+        ],
+        "displayName": "Tier 5 Metals",
+        "amount": 12
+      },
+      {
+        "name": "coarse_leather",
+        "items": [
+          "infused_leather",
+          "coarse_leather",
+          "ragehide",
+          "rugged_leather",
+          "shadowfur",
+          "scaly_hide",
+          "layered_leather",
+          "shifthide",
+          "brightscale_hide",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 5
+      },
+      {
+        "name": "water_mote",
+        "items": [
+          "water_quintessence",
+          "water_mote",
+          "water_wisp",
+          "water_essence"
+        ],
+        "displayName": "Water Arcana",
+        "amount": 6
+      }
+    ],
+    "recipeLevel": 150,
+    "displayNameDe": ""
+  },
+  "orichalcum_life_staff": {
+    "id_dwbd": "procedural_stafflifet5",
+    "displayName": "Orichalcum Life Staff",
+    "name": "orichalcum_life_staff",
+    "categorie": "Arcana",
+    "craftingFee": 449,
+    "exp": 3565,
+    "stations": [
+      "Arcane Repository Tier 5"
+    ],
+    "ingredients": [
+      {
+        "name": "orichalcum_ingot",
+        "items": [
+          "orichalcum_ingot",
+          "tolvium",
+          "cinnabar",
+          "asmodeum"
+        ],
+        "displayName": "Tier 5 Metals",
+        "amount": 12
+      },
+      {
+        "name": "coarse_leather",
+        "items": [
+          "infused_leather",
+          "coarse_leather",
+          "ragehide",
+          "rugged_leather",
+          "shadowfur",
+          "scaly_hide",
+          "layered_leather",
+          "shifthide",
+          "brightscale_hide",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 5
+      },
+      {
+        "name": "life_mote",
+        "items": [
+          "life_quintessence",
+          "life_mote",
+          "life_wisp",
+          "life_essence"
+        ],
+        "displayName": "Life Arcana",
+        "amount": 6
+      }
+    ],
+    "recipeLevel": 150,
+    "displayNameDe": ""
+  },
+  "orichalcum_fire_staff": {
+    "id_dwbd": "procedural_stafffiret5",
+    "displayName": "Orichalcum Fire Staff",
+    "name": "orichalcum_fire_staff",
+    "categorie": "Arcana",
+    "craftingFee": 449,
+    "exp": 3565,
+    "stations": [
+      "Arcane Repository Tier 5"
+    ],
+    "ingredients": [
+      {
+        "name": "orichalcum_ingot",
+        "items": [
+          "orichalcum_ingot",
+          "tolvium",
+          "cinnabar",
+          "asmodeum"
+        ],
+        "displayName": "Tier 5 Metals",
+        "amount": 12
+      },
+      {
+        "name": "green_wood",
+        "items": [
+          "ironwood_planks",
+          "ironwood",
+          "green_wood",
+          "timber",
+          "aged_wood",
+          "lumber",
+          "wyrdwood_planks",
+          "wyrdwood",
+          "glittering_ebony"
+        ],
+        "displayName": "Wood",
+        "amount": 5
+      },
+      {
+        "name": "fire_mote",
+        "items": [
+          "fire_quintessence",
+          "fire_mote",
+          "fire_wisp",
+          "fire_essence"
+        ],
+        "displayName": "Fire Arcana",
+        "amount": 6
+      }
+    ],
+    "recipeLevel": 150,
+    "displayNameDe": ""
+  },
+  "starmetal_ice_gauntlet": {
+    "id_dwbd": "procedural_gauntleticet4",
+    "displayName": "Starmetal Ice Gauntlet",
+    "name": "starmetal_ice_gauntlet",
+    "categorie": "Arcana",
+    "craftingFee": 184,
+    "exp": 1725,
+    "stations": [
+      "Arcane Repository Tier 4"
+    ],
+    "ingredients": [
+      {
+        "name": "starmetal_ingot",
+        "items": [
+          "starmetal_ingot",
+          "azurite_chunk",
+          "blessed_crucible"
+        ],
+        "displayName": "Tier 4 Metals",
+        "amount": 12
+      },
+      {
+        "name": "coarse_leather",
+        "items": [
+          "scaly_hide",
+          "layered_leather",
+          "coarse_leather",
+          "ragehide",
+          "rugged_leather",
+          "shadowfur",
+          "shifthide",
+          "brightscale_hide",
+          "infused_leather",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 5
+      },
+      {
+        "name": "water_mote",
+        "items": [
+          "water_essence",
+          "water_mote",
+          "water_wisp",
+          "water_quintessence"
+        ],
+        "displayName": "Water Arcana",
+        "amount": 6
+      }
+    ],
+    "recipeLevel": 100,
+    "displayNameDe": ""
+  },
+  "starmetal_life_staff": {
+    "id_dwbd": "procedural_stafflifet4",
+    "displayName": "Starmetal Life Staff",
+    "name": "starmetal_life_staff",
+    "categorie": "Arcana",
+    "craftingFee": 184,
+    "exp": 1725,
+    "stations": [
+      "Arcane Repository Tier 4"
+    ],
+    "ingredients": [
+      {
+        "name": "starmetal_ingot",
+        "items": [
+          "starmetal_ingot",
+          "azurite_chunk",
+          "blessed_crucible"
+        ],
+        "displayName": "Tier 4 Metals",
+        "amount": 12
+      },
+      {
+        "name": "scaly_hide",
+        "items": [
+          "scaly_hide",
+          "layered_leather",
+          "coarse_leather",
+          "ragehide",
+          "rugged_leather",
+          "shadowfur",
+          "shifthide",
+          "brightscale_hide",
+          "infused_leather",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 5
+      },
+      {
+        "name": "life_mote",
+        "items": [
+          "life_essence",
+          "life_mote",
+          "life_wisp",
+          "life_quintessence"
+        ],
+        "displayName": "Life Arcana",
+        "amount": 6
+      }
+    ],
+    "recipeLevel": 100,
+    "displayNameDe": ""
+  },
+  "starmetal_fire_staff": {
+    "id_dwbd": "procedural_stafffiret4",
+    "displayName": "Starmetal Fire Staff",
+    "name": "starmetal_fire_staff",
+    "categorie": "Arcana",
+    "craftingFee": 184,
+    "exp": 1725,
+    "stations": [
+      "Arcane Repository Tier 4"
+    ],
+    "ingredients": [
+      {
+        "name": "starmetal_ingot",
+        "items": [
+          "starmetal_ingot",
+          "azurite_chunk",
+          "blessed_crucible"
+        ],
+        "displayName": "Tier 4 Metals",
+        "amount": 12
+      },
+      {
+        "name": "green_wood",
+        "items": [
+          "wyrdwood_planks",
+          "wyrdwood",
+          "green_wood",
+          "timber",
+          "aged_wood",
+          "lumber",
+          "ironwood_planks",
+          "ironwood",
+          "glittering_ebony"
+        ],
+        "displayName": "Wood",
+        "amount": 5
+      },
+      {
+        "name": "fire_mote",
+        "items": [
+          "fire_essence",
+          "fire_mote",
+          "fire_wisp",
+          "fire_quintessence"
+        ],
+        "displayName": "Fire Arcana",
+        "amount": 6
+      }
+    ],
+    "recipeLevel": 100,
+    "displayNameDe": ""
+  },
+  "steel_ice_gauntlet": {
+    "id_dwbd": "procedural_gauntleticet3",
+    "displayName": "Steel Ice Gauntlet",
+    "name": "steel_ice_gauntlet",
+    "categorie": "Arcana",
+    "craftingFee": 75,
+    "exp": 690,
+    "stations": [
+      "Arcane Repository Tier 3"
+    ],
+    "ingredients": [
+      {
+        "name": "steel_ingot",
+        "items": [
+          "steel_ingot",
+          "voidmetal"
+        ],
+        "displayName": "Tier 3 Metals",
+        "amount": 12
+      },
+      {
+        "name": "coarse_leather",
+        "items": [
+          "rugged_leather",
+          "coarse_leather",
+          "ragehide",
+          "shadowfur",
+          "scaly_hide",
+          "layered_leather",
+          "shifthide",
+          "brightscale_hide",
+          "infused_leather",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 5
+      },
+      {
+        "name": "water_mote",
+        "items": [
+          "water_wisp",
+          "water_mote",
+          "water_essence",
+          "water_quintessence"
+        ],
+        "displayName": "Water Arcana",
+        "amount": 6
+      }
+    ],
+    "recipeLevel": 50,
+    "displayNameDe": ""
+  },
+  "steel_life_staff": {
+    "id_dwbd": "procedural_stafflifet3",
+    "displayName": "Steel Life Staff",
+    "name": "steel_life_staff",
+    "categorie": "Arcana",
+    "craftingFee": 75,
+    "exp": 690,
+    "stations": [
+      "Arcane Repository Tier 3"
+    ],
+    "ingredients": [
+      {
+        "name": "steel_ingot",
+        "items": [
+          "steel_ingot",
+          "voidmetal"
+        ],
+        "displayName": "Tier 3 Metals",
+        "amount": 12
+      },
+      {
+        "name": "coarse_leather",
+        "items": [
+          "rugged_leather",
+          "coarse_leather",
+          "ragehide",
+          "shadowfur",
+          "scaly_hide",
+          "layered_leather",
+          "shifthide",
+          "brightscale_hide",
+          "infused_leather",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 5
+      },
+      {
+        "name": "life_mote",
+        "items": [
+          "life_wisp",
+          "life_mote",
+          "life_essence",
+          "life_quintessence"
+        ],
+        "displayName": "Life Arcana",
+        "amount": 6
+      }
+    ],
+    "recipeLevel": 50,
+    "displayNameDe": ""
+  },
+  "steel_fire_staff": {
+    "id_dwbd": "procedural_stafffiret3",
+    "displayName": "Steel Fire Staff",
+    "name": "steel_fire_staff",
+    "categorie": "Arcana",
+    "craftingFee": 75,
+    "exp": 690,
+    "stations": [
+      "Arcane Repository Tier 3"
+    ],
+    "ingredients": [
+      {
+        "name": "steel_ingot",
+        "items": [
+          "steel_ingot",
+          "voidmetal"
+        ],
+        "displayName": "Tier 3 Metals",
+        "amount": 12
+      },
+      {
+        "name": "green_wood",
+        "items": [
+          "lumber",
+          "green_wood",
+          "timber",
+          "aged_wood",
+          "wyrdwood_planks",
+          "wyrdwood",
+          "ironwood_planks",
+          "ironwood",
+          "glittering_ebony"
+        ],
+        "displayName": "Wood",
+        "amount": 5
+      },
+      {
+        "name": "fire_mote",
+        "items": [
+          "fire_wisp",
+          "fire_mote",
+          "fire_essence",
+          "fire_quintessence"
+        ],
+        "displayName": "Fire Arcana",
+        "amount": 6
+      }
+    ],
+    "recipeLevel": 50,
+    "displayNameDe": ""
+  },
+  "iron_ice_gauntlet": {
+    "id_dwbd": "procedural_gauntleticet2",
+    "displayName": "Iron Ice Gauntlet",
+    "name": "iron_ice_gauntlet",
+    "categorie": "Arcana",
+    "craftingFee": 25,
+    "exp": 276,
+    "stations": [
+      "Arcane Repository Tier 2"
+    ],
+    "ingredients": [
+      {
+        "name": "iron_ingot",
+        "items": [
+          "iron_ingot",
+          "fae_iron"
+        ],
+        "displayName": "Tier 2 Metals",
+        "amount": 12
+      },
+      {
+        "name": "coarse_leather",
+        "items": [
+          "coarse_leather",
+          "ragehide",
+          "rugged_leather",
+          "shadowfur",
+          "scaly_hide",
+          "layered_leather",
+          "shifthide",
+          "brightscale_hide",
+          "infused_leather",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 5
+      },
+      {
+        "name": "water_mote",
+        "items": [
+          "water_mote",
+          "water_wisp",
+          "water_essence",
+          "water_quintessence"
+        ],
+        "displayName": "Water Arcana",
+        "amount": 6
+      }
+    ],
+    "recipeLevel": 0,
+    "displayNameDe": ""
+  },
+  "iron_life_staff": {
+    "id_dwbd": "procedural_stafflifet2",
+    "displayName": "Iron Life Staff",
+    "name": "iron_life_staff",
+    "categorie": "Arcana",
+    "craftingFee": 25,
+    "exp": 276,
+    "stations": [
+      "Arcane Repository Tier 2"
+    ],
+    "ingredients": [
+      {
+        "name": "iron_ingot",
+        "items": [
+          "iron_ingot",
+          "fae_iron"
+        ],
+        "displayName": "Tier 2 Metals",
+        "amount": 12
+      },
+      {
+        "name": "coarse_leather",
+        "items": [
+          "coarse_leather",
+          "ragehide",
+          "rugged_leather",
+          "shadowfur",
+          "scaly_hide",
+          "layered_leather",
+          "shifthide",
+          "brightscale_hide",
+          "infused_leather",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 5
+      },
+      {
+        "name": "life_mote",
+        "items": [
+          "life_mote",
+          "life_wisp",
+          "life_essence",
+          "life_quintessence"
+        ],
+        "displayName": "Life Arcana",
+        "amount": 6
+      }
+    ],
+    "recipeLevel": 0,
+    "displayNameDe": ""
+  },
+  "iron_fire_staff": {
+    "id_dwbd": "procedural_stafffiret2",
+    "displayName": "Iron Fire Staff",
+    "name": "iron_fire_staff",
+    "categorie": "Arcana",
+    "craftingFee": 25,
+    "exp": 276,
+    "stations": [
+      "Arcane Repository Tier 2"
+    ],
+    "ingredients": [
+      {
+        "name": "iron_ingot",
+        "items": [
+          "iron_ingot",
+          "fae_iron"
+        ],
+        "displayName": "Tier 2 Metals",
+        "amount": 12
+      },
+      {
+        "name": "green_wood",
+        "items": [
+          "timber",
+          "aged_wood",
+          "green_wood",
+          "lumber",
+          "wyrdwood_planks",
+          "wyrdwood",
+          "ironwood_planks",
+          "ironwood",
+          "glittering_ebony"
+        ],
+        "displayName": "Wood",
+        "amount": 5
+      },
+      {
+        "name": "fire_mote",
+        "items": [
+          "fire_mote",
+          "fire_wisp",
+          "fire_essence",
+          "fire_quintessence"
+        ],
+        "displayName": "Fire Arcana",
+        "amount": 6
+      }
+    ],
+    "recipeLevel": 0,
+    "displayNameDe": ""
+  }
+}

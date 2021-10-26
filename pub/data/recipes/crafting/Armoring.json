@@ -1,0 +1,2317 @@
+{
+  "orichalcum_pocketwatch": {
+    "id_dwbd": "focconbonust4",
+    "displayName": "Orichalcum Pocketwatch",
+    "name": "orichalcum_pocketwatch",
+    "categorie": "Armoring",
+    "craftingFee": 90,
+    "exp": 0,
+    "stations": [
+      "Outfitting Station Tier 5"
+    ],
+    "ingredients": [
+      {
+        "name": "starmetal_pocketwatch",
+        "displayName": "Starmetal Pocketwatch",
+        "amount": 3
+      },
+      {
+        "name": "grand_transmutation_catalyst",
+        "displayName": "Grand Transmutation Catalyst",
+        "amount": 1
+      }
+    ],
+    "recipeLevel": 160,
+    "displayNameDe": ""
+  },
+  "orichalcum_guardsman's_insignia": {
+    "id_dwbd": "conbonust4",
+    "displayName": "Orichalcum Guardsman's Insignia",
+    "name": "orichalcum_guardsman's_insignia",
+    "categorie": "Armoring",
+    "craftingFee": 90,
+    "exp": 0,
+    "stations": [
+      "Outfitting Station Tier 5"
+    ],
+    "ingredients": [
+      {
+        "name": "starmetal_guardsman's_insignia",
+        "displayName": "Starmetal Guardsman's Insignia",
+        "amount": 3
+      },
+      {
+        "name": "grand_transmutation_catalyst",
+        "displayName": "Grand Transmutation Catalyst",
+        "amount": 1
+      }
+    ],
+    "recipeLevel": 160,
+    "displayNameDe": ""
+  },
+  "orichalcum_heavy_boots": {
+    "id_dwbd": "procedural_heavyfeett5",
+    "displayName": "Orichalcum Heavy Boots",
+    "name": "orichalcum_heavy_boots",
+    "categorie": "Armoring",
+    "craftingFee": 449,
+    "exp": 1395,
+    "stations": [
+      "Forge Tier 5"
+    ],
+    "ingredients": [
+      {
+        "name": "orichalcum_ingot",
+        "items": [
+          "orichalcum_ingot",
+          "tolvium",
+          "cinnabar",
+          "asmodeum"
+        ],
+        "displayName": "Tier 5 Metals",
+        "amount": 6
+      },
+      {
+        "name": "coarse_leather",
+        "items": [
+          "infused_leather",
+          "coarse_leather",
+          "ragehide",
+          "rugged_leather",
+          "shadowfur",
+          "scaly_hide",
+          "layered_leather",
+          "shifthide",
+          "brightscale_hide",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 2
+      },
+      {
+        "name": "linen",
+        "items": [
+          "infused_silk",
+          "linen",
+          "shadecloth",
+          "sateen",
+          "phasefiber",
+          "silk",
+          "scalecord",
+          "glintstrands",
+          "scalecloth",
+          "blisterweave",
+          "phoenixweave"
+        ],
+        "displayName": "Cloth",
+        "amount": 1
+      }
+    ],
+    "recipeLevel": 150,
+    "displayNameDe": ""
+  },
+  "orichalcum_heavy_greaves": {
+    "id_dwbd": "procedural_heavylegst5",
+    "displayName": "Orichalcum Heavy Greaves",
+    "name": "orichalcum_heavy_greaves",
+    "categorie": "Armoring",
+    "craftingFee": 449,
+    "exp": 2790,
+    "stations": [
+      "Forge Tier 5"
+    ],
+    "ingredients": [
+      {
+        "name": "orichalcum_ingot",
+        "items": [
+          "orichalcum_ingot",
+          "tolvium",
+          "cinnabar",
+          "asmodeum"
+        ],
+        "displayName": "Tier 5 Metals",
+        "amount": 12
+      },
+      {
+        "name": "coarse_leather",
+        "items": [
+          "infused_leather",
+          "coarse_leather",
+          "ragehide",
+          "rugged_leather",
+          "shadowfur",
+          "scaly_hide",
+          "layered_leather",
+          "shifthide",
+          "brightscale_hide",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 4
+      },
+      {
+        "name": "linen",
+        "items": [
+          "infused_silk",
+          "linen",
+          "shadecloth",
+          "sateen",
+          "phasefiber",
+          "silk",
+          "scalecord",
+          "glintstrands",
+          "scalecloth",
+          "blisterweave",
+          "phoenixweave"
+        ],
+        "displayName": "Cloth",
+        "amount": 2
+      }
+    ],
+    "recipeLevel": 150,
+    "displayNameDe": ""
+  },
+  "orichalcum_heavy_gauntlets": {
+    "id_dwbd": "procedural_heavyhandst5",
+    "displayName": "Orichalcum Heavy Gauntlets",
+    "name": "orichalcum_heavy_gauntlets",
+    "categorie": "Armoring",
+    "craftingFee": 449,
+    "exp": 1395,
+    "stations": [
+      "Forge Tier 5"
+    ],
+    "ingredients": [
+      {
+        "name": "orichalcum_ingot",
+        "items": [
+          "orichalcum_ingot",
+          "tolvium",
+          "cinnabar",
+          "asmodeum"
+        ],
+        "displayName": "Tier 5 Metals",
+        "amount": 6
+      },
+      {
+        "name": "coarse_leather",
+        "items": [
+          "infused_leather",
+          "coarse_leather",
+          "ragehide",
+          "rugged_leather",
+          "shadowfur",
+          "scaly_hide",
+          "layered_leather",
+          "shifthide",
+          "brightscale_hide",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 2
+      },
+      {
+        "name": "linen",
+        "items": [
+          "infused_silk",
+          "linen",
+          "shadecloth",
+          "sateen",
+          "phasefiber",
+          "silk",
+          "scalecord",
+          "glintstrands",
+          "scalecloth",
+          "blisterweave",
+          "phoenixweave"
+        ],
+        "displayName": "Cloth",
+        "amount": 1
+      }
+    ],
+    "recipeLevel": 150,
+    "displayNameDe": ""
+  },
+  "orichalcum_heavy_breastplate": {
+    "id_dwbd": "procedural_heavychestt5",
+    "displayName": "Orichalcum Heavy Breastplate",
+    "name": "orichalcum_heavy_breastplate",
+    "categorie": "Armoring",
+    "craftingFee": 449,
+    "exp": 5425,
+    "stations": [
+      "Forge Tier 5"
+    ],
+    "ingredients": [
+      {
+        "name": "orichalcum_ingot",
+        "items": [
+          "orichalcum_ingot",
+          "tolvium",
+          "cinnabar",
+          "asmodeum"
+        ],
+        "displayName": "Tier 5 Metals",
+        "amount": 20
+      },
+      {
+        "name": "coarse_leather",
+        "items": [
+          "infused_leather",
+          "coarse_leather",
+          "ragehide",
+          "rugged_leather",
+          "shadowfur",
+          "scaly_hide",
+          "layered_leather",
+          "shifthide",
+          "brightscale_hide",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 8
+      },
+      {
+        "name": "linen",
+        "items": [
+          "infused_silk",
+          "linen",
+          "shadecloth",
+          "sateen",
+          "phasefiber",
+          "silk",
+          "scalecord",
+          "glintstrands",
+          "scalecloth",
+          "blisterweave",
+          "phoenixweave"
+        ],
+        "displayName": "Cloth",
+        "amount": 7
+      }
+    ],
+    "recipeLevel": 150,
+    "displayNameDe": ""
+  },
+  "orichalcum_heavy_helm": {
+    "id_dwbd": "procedural_heavyheadt5",
+    "displayName": "Orichalcum Heavy Helm",
+    "name": "orichalcum_heavy_helm",
+    "categorie": "Armoring",
+    "craftingFee": 449,
+    "exp": 2790,
+    "stations": [
+      "Forge Tier 5"
+    ],
+    "ingredients": [
+      {
+        "name": "orichalcum_ingot",
+        "items": [
+          "orichalcum_ingot",
+          "tolvium",
+          "cinnabar",
+          "asmodeum"
+        ],
+        "displayName": "Tier 5 Metals",
+        "amount": 10
+      },
+      {
+        "name": "coarse_leather",
+        "items": [
+          "infused_leather",
+          "coarse_leather",
+          "ragehide",
+          "rugged_leather",
+          "shadowfur",
+          "scaly_hide",
+          "layered_leather",
+          "shifthide",
+          "brightscale_hide",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 4
+      },
+      {
+        "name": "linen",
+        "items": [
+          "infused_silk",
+          "linen",
+          "shadecloth",
+          "sateen",
+          "phasefiber",
+          "silk",
+          "scalecord",
+          "glintstrands",
+          "scalecloth",
+          "blisterweave",
+          "phoenixweave"
+        ],
+        "displayName": "Cloth",
+        "amount": 4
+      }
+    ],
+    "recipeLevel": 150,
+    "displayNameDe": ""
+  },
+  "orichalcum_plate_boots": {
+    "id_dwbd": "procedural_platefeett5",
+    "displayName": "Orichalcum Plate Boots",
+    "name": "orichalcum_plate_boots",
+    "categorie": "Armoring",
+    "craftingFee": 449,
+    "exp": 1395,
+    "stations": [
+      "Forge Tier 5"
+    ],
+    "ingredients": [
+      {
+        "name": "orichalcum_ingot",
+        "items": [
+          "orichalcum_ingot",
+          "tolvium",
+          "cinnabar",
+          "asmodeum"
+        ],
+        "displayName": "Tier 5 Metals",
+        "amount": 5
+      },
+      {
+        "name": "coarse_leather",
+        "items": [
+          "infused_leather",
+          "coarse_leather",
+          "ragehide",
+          "rugged_leather",
+          "shadowfur",
+          "scaly_hide",
+          "layered_leather",
+          "shifthide",
+          "brightscale_hide",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 3
+      },
+      {
+        "name": "linen",
+        "items": [
+          "infused_silk",
+          "linen",
+          "shadecloth",
+          "sateen",
+          "phasefiber",
+          "silk",
+          "scalecord",
+          "glintstrands",
+          "scalecloth",
+          "blisterweave",
+          "phoenixweave"
+        ],
+        "displayName": "Cloth",
+        "amount": 1
+      }
+    ],
+    "recipeLevel": 150,
+    "displayNameDe": ""
+  },
+  "orichalcum_plate_greaves": {
+    "id_dwbd": "procedural_platelegst5",
+    "displayName": "Orichalcum Plate Greaves",
+    "name": "orichalcum_plate_greaves",
+    "categorie": "Armoring",
+    "craftingFee": 449,
+    "exp": 2790,
+    "stations": [
+      "Forge Tier 5"
+    ],
+    "ingredients": [
+      {
+        "name": "orichalcum_ingot",
+        "items": [
+          "orichalcum_ingot",
+          "tolvium",
+          "cinnabar",
+          "asmodeum"
+        ],
+        "displayName": "Tier 5 Metals",
+        "amount": 10
+      },
+      {
+        "name": "coarse_leather",
+        "items": [
+          "infused_leather",
+          "coarse_leather",
+          "ragehide",
+          "rugged_leather",
+          "shadowfur",
+          "scaly_hide",
+          "layered_leather",
+          "shifthide",
+          "brightscale_hide",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 6
+      },
+      {
+        "name": "linen",
+        "items": [
+          "infused_silk",
+          "linen",
+          "shadecloth",
+          "sateen",
+          "phasefiber",
+          "silk",
+          "scalecord",
+          "glintstrands",
+          "scalecloth",
+          "blisterweave",
+          "phoenixweave"
+        ],
+        "displayName": "Cloth",
+        "amount": 2
+      }
+    ],
+    "recipeLevel": 150,
+    "displayNameDe": ""
+  },
+  "orichalcum_plate_gauntlets": {
+    "id_dwbd": "procedural_platehandst5",
+    "displayName": "Orichalcum Plate Gauntlets",
+    "name": "orichalcum_plate_gauntlets",
+    "categorie": "Armoring",
+    "craftingFee": 449,
+    "exp": 1395,
+    "stations": [
+      "Forge Tier 5"
+    ],
+    "ingredients": [
+      {
+        "name": "orichalcum_ingot",
+        "items": [
+          "orichalcum_ingot",
+          "tolvium",
+          "cinnabar",
+          "asmodeum"
+        ],
+        "displayName": "Tier 5 Metals",
+        "amount": 4
+      },
+      {
+        "name": "coarse_leather",
+        "items": [
+          "infused_leather",
+          "coarse_leather",
+          "ragehide",
+          "rugged_leather",
+          "shadowfur",
+          "scaly_hide",
+          "layered_leather",
+          "shifthide",
+          "brightscale_hide",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 4
+      },
+      {
+        "name": "linen",
+        "items": [
+          "infused_silk",
+          "linen",
+          "shadecloth",
+          "sateen",
+          "phasefiber",
+          "silk",
+          "scalecord",
+          "glintstrands",
+          "scalecloth",
+          "blisterweave",
+          "phoenixweave"
+        ],
+        "displayName": "Cloth",
+        "amount": 1
+      }
+    ],
+    "recipeLevel": 150,
+    "displayNameDe": ""
+  },
+  "orichalcum_plate_breastplate": {
+    "id_dwbd": "procedural_platechestt5",
+    "displayName": "Orichalcum Plate Breastplate",
+    "name": "orichalcum_plate_breastplate",
+    "categorie": "Armoring",
+    "craftingFee": 449,
+    "exp": 5425,
+    "stations": [
+      "Forge Tier 5"
+    ],
+    "ingredients": [
+      {
+        "name": "orichalcum_ingot",
+        "items": [
+          "orichalcum_ingot",
+          "tolvium",
+          "cinnabar",
+          "asmodeum"
+        ],
+        "displayName": "Tier 5 Metals",
+        "amount": 16
+      },
+      {
+        "name": "coarse_leather",
+        "items": [
+          "infused_leather",
+          "coarse_leather",
+          "ragehide",
+          "rugged_leather",
+          "shadowfur",
+          "scaly_hide",
+          "layered_leather",
+          "shifthide",
+          "brightscale_hide",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 12
+      },
+      {
+        "name": "linen",
+        "items": [
+          "infused_silk",
+          "linen",
+          "shadecloth",
+          "sateen",
+          "phasefiber",
+          "silk",
+          "scalecord",
+          "glintstrands",
+          "scalecloth",
+          "blisterweave",
+          "phoenixweave"
+        ],
+        "displayName": "Cloth",
+        "amount": 7
+      }
+    ],
+    "recipeLevel": 150,
+    "displayNameDe": ""
+  },
+  "orichalcum_plate_helm": {
+    "id_dwbd": "procedural_plateheadt5",
+    "displayName": "Orichalcum Plate Helm",
+    "name": "orichalcum_plate_helm",
+    "categorie": "Armoring",
+    "craftingFee": 449,
+    "exp": 2790,
+    "stations": [
+      "Forge Tier 5"
+    ],
+    "ingredients": [
+      {
+        "name": "orichalcum_ingot",
+        "items": [
+          "orichalcum_ingot",
+          "tolvium",
+          "cinnabar",
+          "asmodeum"
+        ],
+        "displayName": "Tier 5 Metals",
+        "amount": 8
+      },
+      {
+        "name": "coarse_leather",
+        "items": [
+          "infused_leather",
+          "coarse_leather",
+          "ragehide",
+          "rugged_leather",
+          "shadowfur",
+          "scaly_hide",
+          "layered_leather",
+          "shifthide",
+          "brightscale_hide",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 6
+      },
+      {
+        "name": "linen",
+        "items": [
+          "infused_silk",
+          "linen",
+          "shadecloth",
+          "sateen",
+          "phasefiber",
+          "silk",
+          "scalecord",
+          "glintstrands",
+          "scalecloth",
+          "blisterweave",
+          "phoenixweave"
+        ],
+        "displayName": "Cloth",
+        "amount": 4
+      }
+    ],
+    "recipeLevel": 150,
+    "displayNameDe": ""
+  },
+  "starmetal_pocketwatch": {
+    "id_dwbd": "focconbonust3",
+    "displayName": "Starmetal Pocketwatch",
+    "name": "starmetal_pocketwatch",
+    "categorie": "Armoring",
+    "craftingFee": 37,
+    "exp": 0,
+    "stations": [
+      "Outfitting Station Tier 4"
+    ],
+    "ingredients": [
+      {
+        "name": "steel_pocketwatch",
+        "displayName": "Steel Pocketwatch",
+        "amount": 4
+      },
+      {
+        "name": "greater_transmutation_catalyst",
+        "displayName": "Greater Transmutation Catalyst",
+        "amount": 1
+      }
+    ],
+    "recipeLevel": 110,
+    "displayNameDe": ""
+  },
+  "starmetal_guardsman's_insignia": {
+    "id_dwbd": "conbonust3",
+    "displayName": "Starmetal Guardsman's Insignia",
+    "name": "starmetal_guardsman's_insignia",
+    "categorie": "Armoring",
+    "craftingFee": 37,
+    "exp": 0,
+    "stations": [
+      "Outfitting Station Tier 4"
+    ],
+    "ingredients": [
+      {
+        "name": "steel_guardsman's_insignia",
+        "displayName": "Steel Guardsman's Insignia",
+        "amount": 4
+      },
+      {
+        "name": "greater_transmutation_catalyst",
+        "displayName": "Greater Transmutation Catalyst",
+        "amount": 1
+      }
+    ],
+    "recipeLevel": 110,
+    "displayNameDe": ""
+  },
+  "starmetal_heavy_boots": {
+    "id_dwbd": "procedural_heavyfeett4",
+    "displayName": "Starmetal Heavy Boots",
+    "name": "starmetal_heavy_boots",
+    "categorie": "Armoring",
+    "craftingFee": 184,
+    "exp": 675,
+    "stations": [
+      "Forge Tier 4"
+    ],
+    "ingredients": [
+      {
+        "name": "starmetal_ingot",
+        "items": [
+          "starmetal_ingot",
+          "azurite_chunk",
+          "blessed_crucible"
+        ],
+        "displayName": "Tier 4 Metals",
+        "amount": 6
+      },
+      {
+        "name": "scaly_hide",
+        "items": [
+          "scaly_hide",
+          "layered_leather",
+          "coarse_leather",
+          "ragehide",
+          "rugged_leather",
+          "shadowfur",
+          "shifthide",
+          "brightscale_hide",
+          "infused_leather",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 2
+      },
+      {
+        "name": "linen",
+        "items": [
+          "silk",
+          "linen",
+          "shadecloth",
+          "sateen",
+          "phasefiber",
+          "scalecord",
+          "glintstrands",
+          "infused_silk",
+          "scalecloth",
+          "blisterweave",
+          "phoenixweave"
+        ],
+        "displayName": "Cloth",
+        "amount": 1
+      }
+    ],
+    "recipeLevel": 100,
+    "displayNameDe": ""
+  },
+  "starmetal_heavy_greaves": {
+    "id_dwbd": "procedural_heavylegst4",
+    "displayName": "Starmetal Heavy Greaves",
+    "name": "starmetal_heavy_greaves",
+    "categorie": "Armoring",
+    "craftingFee": 184,
+    "exp": 1350,
+    "stations": [
+      "Forge Tier 4"
+    ],
+    "ingredients": [
+      {
+        "name": "starmetal_ingot",
+        "items": [
+          "starmetal_ingot",
+          "azurite_chunk",
+          "blessed_crucible"
+        ],
+        "displayName": "Tier 4 Metals",
+        "amount": 12
+      },
+      {
+        "name": "scaly_hide",
+        "items": [
+          "scaly_hide",
+          "layered_leather",
+          "coarse_leather",
+          "ragehide",
+          "rugged_leather",
+          "shadowfur",
+          "shifthide",
+          "brightscale_hide",
+          "infused_leather",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 4
+      },
+      {
+        "name": "linen",
+        "items": [
+          "silk",
+          "linen",
+          "shadecloth",
+          "sateen",
+          "phasefiber",
+          "scalecord",
+          "glintstrands",
+          "infused_silk",
+          "scalecloth",
+          "blisterweave",
+          "phoenixweave"
+        ],
+        "displayName": "Cloth",
+        "amount": 2
+      }
+    ],
+    "recipeLevel": 100,
+    "displayNameDe": ""
+  },
+  "starmetal_heavy_gauntlets": {
+    "id_dwbd": "procedural_heavyhandst4",
+    "displayName": "Starmetal Heavy Gauntlets",
+    "name": "starmetal_heavy_gauntlets",
+    "categorie": "Armoring",
+    "craftingFee": 184,
+    "exp": 675,
+    "stations": [
+      "Forge Tier 4"
+    ],
+    "ingredients": [
+      {
+        "name": "starmetal_ingot",
+        "items": [
+          "starmetal_ingot",
+          "azurite_chunk",
+          "blessed_crucible"
+        ],
+        "displayName": "Tier 4 Metals",
+        "amount": 6
+      },
+      {
+        "name": "scaly_hide",
+        "items": [
+          "scaly_hide",
+          "layered_leather",
+          "coarse_leather",
+          "ragehide",
+          "rugged_leather",
+          "shadowfur",
+          "shifthide",
+          "brightscale_hide",
+          "infused_leather",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 2
+      },
+      {
+        "name": "linen",
+        "items": [
+          "silk",
+          "linen",
+          "shadecloth",
+          "sateen",
+          "phasefiber",
+          "scalecord",
+          "glintstrands",
+          "infused_silk",
+          "scalecloth",
+          "blisterweave",
+          "phoenixweave"
+        ],
+        "displayName": "Cloth",
+        "amount": 1
+      }
+    ],
+    "recipeLevel": 100,
+    "displayNameDe": ""
+  },
+  "starmetal_heavy_breastplate": {
+    "id_dwbd": "procedural_heavychestt4",
+    "displayName": "Starmetal Heavy Breastplate",
+    "name": "starmetal_heavy_breastplate",
+    "categorie": "Armoring",
+    "craftingFee": 184,
+    "exp": 2625,
+    "stations": [
+      "Forge Tier 4"
+    ],
+    "ingredients": [
+      {
+        "name": "starmetal_ingot",
+        "items": [
+          "starmetal_ingot",
+          "azurite_chunk",
+          "blessed_crucible"
+        ],
+        "displayName": "Tier 4 Metals",
+        "amount": 20
+      },
+      {
+        "name": "scaly_hide",
+        "items": [
+          "scaly_hide",
+          "layered_leather",
+          "coarse_leather",
+          "ragehide",
+          "rugged_leather",
+          "shadowfur",
+          "shifthide",
+          "brightscale_hide",
+          "infused_leather",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 8
+      },
+      {
+        "name": "linen",
+        "items": [
+          "silk",
+          "linen",
+          "shadecloth",
+          "sateen",
+          "phasefiber",
+          "scalecord",
+          "glintstrands",
+          "infused_silk",
+          "scalecloth",
+          "blisterweave",
+          "phoenixweave"
+        ],
+        "displayName": "Cloth",
+        "amount": 7
+      }
+    ],
+    "recipeLevel": 100,
+    "displayNameDe": ""
+  },
+  "starmetal_heavy_helm": {
+    "id_dwbd": "procedural_heavyheadt4",
+    "displayName": "Starmetal Heavy Helm",
+    "name": "starmetal_heavy_helm",
+    "categorie": "Armoring",
+    "craftingFee": 184,
+    "exp": 1350,
+    "stations": [
+      "Forge Tier 4"
+    ],
+    "ingredients": [
+      {
+        "name": "starmetal_ingot",
+        "items": [
+          "starmetal_ingot",
+          "azurite_chunk",
+          "blessed_crucible"
+        ],
+        "displayName": "Tier 4 Metals",
+        "amount": 10
+      },
+      {
+        "name": "scaly_hide",
+        "items": [
+          "scaly_hide",
+          "layered_leather",
+          "coarse_leather",
+          "ragehide",
+          "rugged_leather",
+          "shadowfur",
+          "shifthide",
+          "brightscale_hide",
+          "infused_leather",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 4
+      },
+      {
+        "name": "linen",
+        "items": [
+          "silk",
+          "linen",
+          "shadecloth",
+          "sateen",
+          "phasefiber",
+          "scalecord",
+          "glintstrands",
+          "infused_silk",
+          "scalecloth",
+          "blisterweave",
+          "phoenixweave"
+        ],
+        "displayName": "Cloth",
+        "amount": 4
+      }
+    ],
+    "recipeLevel": 100,
+    "displayNameDe": ""
+  },
+  "starmetal_plate_boots": {
+    "id_dwbd": "procedural_platefeett4",
+    "displayName": "Starmetal Plate Boots",
+    "name": "starmetal_plate_boots",
+    "categorie": "Armoring",
+    "craftingFee": 184,
+    "exp": 675,
+    "stations": [
+      "Forge Tier 4"
+    ],
+    "ingredients": [
+      {
+        "name": "starmetal_ingot",
+        "items": [
+          "starmetal_ingot",
+          "azurite_chunk",
+          "blessed_crucible"
+        ],
+        "displayName": "Tier 4 Metals",
+        "amount": 5
+      },
+      {
+        "name": "scaly_hide",
+        "items": [
+          "scaly_hide",
+          "layered_leather",
+          "coarse_leather",
+          "ragehide",
+          "rugged_leather",
+          "shadowfur",
+          "shifthide",
+          "brightscale_hide",
+          "infused_leather",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 3
+      },
+      {
+        "name": "linen",
+        "items": [
+          "silk",
+          "linen",
+          "shadecloth",
+          "sateen",
+          "phasefiber",
+          "scalecord",
+          "glintstrands",
+          "infused_silk",
+          "scalecloth",
+          "blisterweave",
+          "phoenixweave"
+        ],
+        "displayName": "Cloth",
+        "amount": 1
+      }
+    ],
+    "recipeLevel": 100,
+    "displayNameDe": ""
+  },
+  "starmetal_plate_greaves": {
+    "id_dwbd": "procedural_platelegst4",
+    "displayName": "Starmetal Plate Greaves",
+    "name": "starmetal_plate_greaves",
+    "categorie": "Armoring",
+    "craftingFee": 184,
+    "exp": 1350,
+    "stations": [
+      "Forge Tier 4"
+    ],
+    "ingredients": [
+      {
+        "name": "starmetal_ingot",
+        "items": [
+          "starmetal_ingot",
+          "azurite_chunk",
+          "blessed_crucible"
+        ],
+        "displayName": "Tier 4 Metals",
+        "amount": 10
+      },
+      {
+        "name": "scaly_hide",
+        "items": [
+          "scaly_hide",
+          "layered_leather",
+          "coarse_leather",
+          "ragehide",
+          "rugged_leather",
+          "shadowfur",
+          "shifthide",
+          "brightscale_hide",
+          "infused_leather",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 6
+      },
+      {
+        "name": "linen",
+        "items": [
+          "silk",
+          "linen",
+          "shadecloth",
+          "sateen",
+          "phasefiber",
+          "scalecord",
+          "glintstrands",
+          "infused_silk",
+          "scalecloth",
+          "blisterweave",
+          "phoenixweave"
+        ],
+        "displayName": "Cloth",
+        "amount": 2
+      }
+    ],
+    "recipeLevel": 100,
+    "displayNameDe": ""
+  },
+  "starmetal_plate_gauntlets": {
+    "id_dwbd": "procedural_platehandst4",
+    "displayName": "Starmetal Plate Gauntlets",
+    "name": "starmetal_plate_gauntlets",
+    "categorie": "Armoring",
+    "craftingFee": 184,
+    "exp": 675,
+    "stations": [
+      "Forge Tier 4"
+    ],
+    "ingredients": [
+      {
+        "name": "starmetal_ingot",
+        "items": [
+          "starmetal_ingot",
+          "azurite_chunk",
+          "blessed_crucible"
+        ],
+        "displayName": "Tier 4 Metals",
+        "amount": 4
+      },
+      {
+        "name": "scaly_hide",
+        "items": [
+          "scaly_hide",
+          "layered_leather",
+          "coarse_leather",
+          "ragehide",
+          "rugged_leather",
+          "shadowfur",
+          "shifthide",
+          "brightscale_hide",
+          "infused_leather",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 4
+      },
+      {
+        "name": "linen",
+        "items": [
+          "silk",
+          "linen",
+          "shadecloth",
+          "sateen",
+          "phasefiber",
+          "scalecord",
+          "glintstrands",
+          "infused_silk",
+          "scalecloth",
+          "blisterweave",
+          "phoenixweave"
+        ],
+        "displayName": "Cloth",
+        "amount": 1
+      }
+    ],
+    "recipeLevel": 100,
+    "displayNameDe": ""
+  },
+  "starmetal_plate_breastplate": {
+    "id_dwbd": "procedural_platechestt4",
+    "displayName": "Starmetal Plate Breastplate",
+    "name": "starmetal_plate_breastplate",
+    "categorie": "Armoring",
+    "craftingFee": 184,
+    "exp": 2625,
+    "stations": [
+      "Forge Tier 4"
+    ],
+    "ingredients": [
+      {
+        "name": "starmetal_ingot",
+        "items": [
+          "starmetal_ingot",
+          "azurite_chunk",
+          "blessed_crucible"
+        ],
+        "displayName": "Tier 4 Metals",
+        "amount": 16
+      },
+      {
+        "name": "scaly_hide",
+        "items": [
+          "scaly_hide",
+          "layered_leather",
+          "coarse_leather",
+          "ragehide",
+          "rugged_leather",
+          "shadowfur",
+          "shifthide",
+          "brightscale_hide",
+          "infused_leather",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 12
+      },
+      {
+        "name": "linen",
+        "items": [
+          "silk",
+          "linen",
+          "shadecloth",
+          "sateen",
+          "phasefiber",
+          "scalecord",
+          "glintstrands",
+          "infused_silk",
+          "scalecloth",
+          "blisterweave",
+          "phoenixweave"
+        ],
+        "displayName": "Cloth",
+        "amount": 7
+      }
+    ],
+    "recipeLevel": 100,
+    "displayNameDe": ""
+  },
+  "starmetal_plate_helm": {
+    "id_dwbd": "procedural_plateheadt4",
+    "displayName": "Starmetal Plate Helm",
+    "name": "starmetal_plate_helm",
+    "categorie": "Armoring",
+    "craftingFee": 184,
+    "exp": 1350,
+    "stations": [
+      "Forge Tier 4"
+    ],
+    "ingredients": [
+      {
+        "name": "starmetal_ingot",
+        "items": [
+          "starmetal_ingot",
+          "azurite_chunk",
+          "blessed_crucible"
+        ],
+        "displayName": "Tier 4 Metals",
+        "amount": 8
+      },
+      {
+        "name": "scaly_hide",
+        "items": [
+          "scaly_hide",
+          "layered_leather",
+          "coarse_leather",
+          "ragehide",
+          "rugged_leather",
+          "shadowfur",
+          "shifthide",
+          "brightscale_hide",
+          "infused_leather",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 6
+      },
+      {
+        "name": "linen",
+        "items": [
+          "silk",
+          "linen",
+          "shadecloth",
+          "sateen",
+          "phasefiber",
+          "scalecord",
+          "glintstrands",
+          "infused_silk",
+          "scalecloth",
+          "blisterweave",
+          "phoenixweave"
+        ],
+        "displayName": "Cloth",
+        "amount": 4
+      }
+    ],
+    "recipeLevel": 100,
+    "displayNameDe": ""
+  },
+  "steel_pocketwatch": {
+    "id_dwbd": "focconbonust2",
+    "displayName": "Steel Pocketwatch",
+    "name": "steel_pocketwatch",
+    "categorie": "Armoring",
+    "craftingFee": 15,
+    "exp": 0,
+    "stations": [
+      "Outfitting Station Tier 3"
+    ],
+    "ingredients": [
+      {
+        "name": "iron_pocketwatch",
+        "displayName": "Iron Pocketwatch",
+        "amount": 5
+      },
+      {
+        "name": "common_transmutation_catalyst",
+        "displayName": "Common Transmutation Catalyst",
+        "amount": 1
+      }
+    ],
+    "recipeLevel": 60,
+    "displayNameDe": ""
+  },
+  "steel_guardsman's_insignia": {
+    "id_dwbd": "conbonust2",
+    "displayName": "Steel Guardsman's Insignia",
+    "name": "steel_guardsman's_insignia",
+    "categorie": "Armoring",
+    "craftingFee": 15,
+    "exp": 0,
+    "stations": [
+      "Outfitting Station Tier 3"
+    ],
+    "ingredients": [
+      {
+        "name": "iron_guardsman's_insignia",
+        "displayName": "Iron Guardsman's Insignia",
+        "amount": 5
+      },
+      {
+        "name": "common_transmutation_catalyst",
+        "displayName": "Common Transmutation Catalyst",
+        "amount": 1
+      }
+    ],
+    "recipeLevel": 60,
+    "displayNameDe": ""
+  },
+  "steel_heavy_boots": {
+    "id_dwbd": "procedural_heavyfeett3",
+    "displayName": "Steel Heavy Boots",
+    "name": "steel_heavy_boots",
+    "categorie": "Armoring",
+    "craftingFee": 75,
+    "exp": 270,
+    "stations": [
+      "Forge Tier 3"
+    ],
+    "ingredients": [
+      {
+        "name": "steel_ingot",
+        "items": [
+          "steel_ingot",
+          "voidmetal"
+        ],
+        "displayName": "Tier 3 Metals",
+        "amount": 6
+      },
+      {
+        "name": "coarse_leather",
+        "items": [
+          "rugged_leather",
+          "coarse_leather",
+          "ragehide",
+          "shadowfur",
+          "scaly_hide",
+          "layered_leather",
+          "shifthide",
+          "brightscale_hide",
+          "infused_leather",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 2
+      },
+      {
+        "name": "linen",
+        "items": [
+          "sateen",
+          "linen",
+          "shadecloth",
+          "phasefiber",
+          "silk",
+          "scalecord",
+          "glintstrands",
+          "infused_silk",
+          "scalecloth",
+          "blisterweave",
+          "phoenixweave"
+        ],
+        "displayName": "Cloth",
+        "amount": 1
+      }
+    ],
+    "recipeLevel": 50,
+    "displayNameDe": ""
+  },
+  "steel_heavy_greaves": {
+    "id_dwbd": "procedural_heavylegst3",
+    "displayName": "Steel Heavy Greaves",
+    "name": "steel_heavy_greaves",
+    "categorie": "Armoring",
+    "craftingFee": 75,
+    "exp": 540,
+    "stations": [
+      "Forge Tier 3"
+    ],
+    "ingredients": [
+      {
+        "name": "steel_ingot",
+        "items": [
+          "steel_ingot",
+          "voidmetal"
+        ],
+        "displayName": "Tier 3 Metals",
+        "amount": 12
+      },
+      {
+        "name": "coarse_leather",
+        "items": [
+          "rugged_leather",
+          "coarse_leather",
+          "ragehide",
+          "shadowfur",
+          "scaly_hide",
+          "layered_leather",
+          "shifthide",
+          "brightscale_hide",
+          "infused_leather",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 4
+      },
+      {
+        "name": "linen",
+        "items": [
+          "sateen",
+          "linen",
+          "shadecloth",
+          "phasefiber",
+          "silk",
+          "scalecord",
+          "glintstrands",
+          "infused_silk",
+          "scalecloth",
+          "blisterweave",
+          "phoenixweave"
+        ],
+        "displayName": "Cloth",
+        "amount": 2
+      }
+    ],
+    "recipeLevel": 50,
+    "displayNameDe": ""
+  },
+  "steel_heavy_gauntlets": {
+    "id_dwbd": "procedural_heavyhandst3",
+    "displayName": "Steel Heavy Gauntlets",
+    "name": "steel_heavy_gauntlets",
+    "categorie": "Armoring",
+    "craftingFee": 75,
+    "exp": 270,
+    "stations": [
+      "Forge Tier 3"
+    ],
+    "ingredients": [
+      {
+        "name": "steel_ingot",
+        "items": [
+          "steel_ingot",
+          "voidmetal"
+        ],
+        "displayName": "Tier 3 Metals",
+        "amount": 6
+      },
+      {
+        "name": "coarse_leather",
+        "items": [
+          "rugged_leather",
+          "coarse_leather",
+          "ragehide",
+          "shadowfur",
+          "scaly_hide",
+          "layered_leather",
+          "shifthide",
+          "brightscale_hide",
+          "infused_leather",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 2
+      },
+      {
+        "name": "linen",
+        "items": [
+          "sateen",
+          "linen",
+          "shadecloth",
+          "phasefiber",
+          "silk",
+          "scalecord",
+          "glintstrands",
+          "infused_silk",
+          "scalecloth",
+          "blisterweave",
+          "phoenixweave"
+        ],
+        "displayName": "Cloth",
+        "amount": 1
+      }
+    ],
+    "recipeLevel": 50,
+    "displayNameDe": ""
+  },
+  "steel_heavy_breastplate": {
+    "id_dwbd": "procedural_heavychestt3",
+    "displayName": "Steel Heavy Breastplate",
+    "name": "steel_heavy_breastplate",
+    "categorie": "Armoring",
+    "craftingFee": 75,
+    "exp": 1050,
+    "stations": [
+      "Forge Tier 3"
+    ],
+    "ingredients": [
+      {
+        "name": "steel_ingot",
+        "items": [
+          "steel_ingot",
+          "voidmetal"
+        ],
+        "displayName": "Tier 3 Metals",
+        "amount": 20
+      },
+      {
+        "name": "coarse_leather",
+        "items": [
+          "rugged_leather",
+          "coarse_leather",
+          "ragehide",
+          "shadowfur",
+          "scaly_hide",
+          "layered_leather",
+          "shifthide",
+          "brightscale_hide",
+          "infused_leather",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 8
+      },
+      {
+        "name": "linen",
+        "items": [
+          "sateen",
+          "linen",
+          "shadecloth",
+          "phasefiber",
+          "silk",
+          "scalecord",
+          "glintstrands",
+          "infused_silk",
+          "scalecloth",
+          "blisterweave",
+          "phoenixweave"
+        ],
+        "displayName": "Cloth",
+        "amount": 7
+      }
+    ],
+    "recipeLevel": 50,
+    "displayNameDe": ""
+  },
+  "steel_heavy_helm": {
+    "id_dwbd": "procedural_heavyheadt3",
+    "displayName": "Steel Heavy Helm",
+    "name": "steel_heavy_helm",
+    "categorie": "Armoring",
+    "craftingFee": 75,
+    "exp": 540,
+    "stations": [
+      "Forge Tier 3"
+    ],
+    "ingredients": [
+      {
+        "name": "steel_ingot",
+        "items": [
+          "steel_ingot",
+          "voidmetal"
+        ],
+        "displayName": "Tier 3 Metals",
+        "amount": 10
+      },
+      {
+        "name": "coarse_leather",
+        "items": [
+          "rugged_leather",
+          "coarse_leather",
+          "ragehide",
+          "shadowfur",
+          "scaly_hide",
+          "layered_leather",
+          "shifthide",
+          "brightscale_hide",
+          "infused_leather",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 4
+      },
+      {
+        "name": "linen",
+        "items": [
+          "sateen",
+          "linen",
+          "shadecloth",
+          "phasefiber",
+          "silk",
+          "scalecord",
+          "glintstrands",
+          "infused_silk",
+          "scalecloth",
+          "blisterweave",
+          "phoenixweave"
+        ],
+        "displayName": "Cloth",
+        "amount": 4
+      }
+    ],
+    "recipeLevel": 50,
+    "displayNameDe": ""
+  },
+  "steel_plate_boots": {
+    "id_dwbd": "procedural_platefeett3",
+    "displayName": "Steel Plate Boots",
+    "name": "steel_plate_boots",
+    "categorie": "Armoring",
+    "craftingFee": 75,
+    "exp": 270,
+    "stations": [
+      "Forge Tier 3"
+    ],
+    "ingredients": [
+      {
+        "name": "steel_ingot",
+        "items": [
+          "steel_ingot",
+          "voidmetal"
+        ],
+        "displayName": "Tier 3 Metals",
+        "amount": 5
+      },
+      {
+        "name": "coarse_leather",
+        "items": [
+          "rugged_leather",
+          "coarse_leather",
+          "ragehide",
+          "shadowfur",
+          "scaly_hide",
+          "layered_leather",
+          "shifthide",
+          "brightscale_hide",
+          "infused_leather",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 3
+      },
+      {
+        "name": "linen",
+        "items": [
+          "sateen",
+          "linen",
+          "shadecloth",
+          "phasefiber",
+          "silk",
+          "scalecord",
+          "glintstrands",
+          "infused_silk",
+          "scalecloth",
+          "blisterweave",
+          "phoenixweave"
+        ],
+        "displayName": "Cloth",
+        "amount": 1
+      }
+    ],
+    "recipeLevel": 50,
+    "displayNameDe": ""
+  },
+  "steel_plate_greaves": {
+    "id_dwbd": "procedural_platelegst3",
+    "displayName": "Steel Plate Greaves",
+    "name": "steel_plate_greaves",
+    "categorie": "Armoring",
+    "craftingFee": 75,
+    "exp": 540,
+    "stations": [
+      "Forge Tier 3"
+    ],
+    "ingredients": [
+      {
+        "name": "steel_ingot",
+        "items": [
+          "steel_ingot",
+          "voidmetal"
+        ],
+        "displayName": "Tier 3 Metals",
+        "amount": 10
+      },
+      {
+        "name": "coarse_leather",
+        "items": [
+          "rugged_leather",
+          "coarse_leather",
+          "ragehide",
+          "shadowfur",
+          "scaly_hide",
+          "layered_leather",
+          "shifthide",
+          "brightscale_hide",
+          "infused_leather",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 6
+      },
+      {
+        "name": "linen",
+        "items": [
+          "sateen",
+          "linen",
+          "shadecloth",
+          "phasefiber",
+          "silk",
+          "scalecord",
+          "glintstrands",
+          "infused_silk",
+          "scalecloth",
+          "blisterweave",
+          "phoenixweave"
+        ],
+        "displayName": "Cloth",
+        "amount": 2
+      }
+    ],
+    "recipeLevel": 50,
+    "displayNameDe": ""
+  },
+  "steel_plate_gauntlets": {
+    "id_dwbd": "procedural_platehandst3",
+    "displayName": "Steel Plate Gauntlets",
+    "name": "steel_plate_gauntlets",
+    "categorie": "Armoring",
+    "craftingFee": 75,
+    "exp": 270,
+    "stations": [
+      "Forge Tier 3"
+    ],
+    "ingredients": [
+      {
+        "name": "steel_ingot",
+        "items": [
+          "steel_ingot",
+          "voidmetal"
+        ],
+        "displayName": "Tier 3 Metals",
+        "amount": 4
+      },
+      {
+        "name": "coarse_leather",
+        "items": [
+          "rugged_leather",
+          "coarse_leather",
+          "ragehide",
+          "shadowfur",
+          "scaly_hide",
+          "layered_leather",
+          "shifthide",
+          "brightscale_hide",
+          "infused_leather",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 4
+      },
+      {
+        "name": "linen",
+        "items": [
+          "sateen",
+          "linen",
+          "shadecloth",
+          "phasefiber",
+          "silk",
+          "scalecord",
+          "glintstrands",
+          "infused_silk",
+          "scalecloth",
+          "blisterweave",
+          "phoenixweave"
+        ],
+        "displayName": "Cloth",
+        "amount": 1
+      }
+    ],
+    "recipeLevel": 50,
+    "displayNameDe": ""
+  },
+  "steel_plate_breastplate": {
+    "id_dwbd": "procedural_platechestt3",
+    "displayName": "Steel Plate Breastplate",
+    "name": "steel_plate_breastplate",
+    "categorie": "Armoring",
+    "craftingFee": 75,
+    "exp": 1050,
+    "stations": [
+      "Forge Tier 3"
+    ],
+    "ingredients": [
+      {
+        "name": "steel_ingot",
+        "items": [
+          "steel_ingot",
+          "voidmetal"
+        ],
+        "displayName": "Tier 3 Metals",
+        "amount": 16
+      },
+      {
+        "name": "coarse_leather",
+        "items": [
+          "rugged_leather",
+          "coarse_leather",
+          "ragehide",
+          "shadowfur",
+          "scaly_hide",
+          "layered_leather",
+          "shifthide",
+          "brightscale_hide",
+          "infused_leather",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 12
+      },
+      {
+        "name": "linen",
+        "items": [
+          "sateen",
+          "linen",
+          "shadecloth",
+          "phasefiber",
+          "silk",
+          "scalecord",
+          "glintstrands",
+          "infused_silk",
+          "scalecloth",
+          "blisterweave",
+          "phoenixweave"
+        ],
+        "displayName": "Cloth",
+        "amount": 7
+      }
+    ],
+    "recipeLevel": 50,
+    "displayNameDe": ""
+  },
+  "steel_plate_helm": {
+    "id_dwbd": "procedural_plateheadt3",
+    "displayName": "Steel Plate Helm",
+    "name": "steel_plate_helm",
+    "categorie": "Armoring",
+    "craftingFee": 75,
+    "exp": 540,
+    "stations": [
+      "Forge Tier 3"
+    ],
+    "ingredients": [
+      {
+        "name": "steel_ingot",
+        "items": [
+          "steel_ingot",
+          "voidmetal"
+        ],
+        "displayName": "Tier 3 Metals",
+        "amount": 8
+      },
+      {
+        "name": "coarse_leather",
+        "items": [
+          "rugged_leather",
+          "coarse_leather",
+          "ragehide",
+          "shadowfur",
+          "scaly_hide",
+          "layered_leather",
+          "shifthide",
+          "brightscale_hide",
+          "infused_leather",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 6
+      },
+      {
+        "name": "linen",
+        "items": [
+          "sateen",
+          "linen",
+          "shadecloth",
+          "phasefiber",
+          "silk",
+          "scalecord",
+          "glintstrands",
+          "infused_silk",
+          "scalecloth",
+          "blisterweave",
+          "phoenixweave"
+        ],
+        "displayName": "Cloth",
+        "amount": 4
+      }
+    ],
+    "recipeLevel": 50,
+    "displayNameDe": ""
+  },
+  "iron_plate__boots": {
+    "id_dwbd": "procedural_platefeett2",
+    "displayName": "Iron Plate  Boots",
+    "name": "iron_plate__boots",
+    "categorie": "Armoring",
+    "craftingFee": 25,
+    "exp": 108,
+    "stations": [
+      "Forge Tier 2"
+    ],
+    "ingredients": [
+      {
+        "name": "iron_ingot",
+        "items": [
+          "iron_ingot",
+          "fae_iron"
+        ],
+        "displayName": "Tier 2 Metals",
+        "amount": 5
+      },
+      {
+        "name": "coarse_leather",
+        "items": [
+          "coarse_leather",
+          "ragehide",
+          "rugged_leather",
+          "shadowfur",
+          "scaly_hide",
+          "layered_leather",
+          "shifthide",
+          "brightscale_hide",
+          "infused_leather",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 3
+      },
+      {
+        "name": "linen",
+        "items": [
+          "linen",
+          "shadecloth",
+          "sateen",
+          "phasefiber",
+          "silk",
+          "scalecord",
+          "glintstrands",
+          "infused_silk",
+          "scalecloth",
+          "blisterweave",
+          "phoenixweave"
+        ],
+        "displayName": "Cloth",
+        "amount": 1
+      }
+    ],
+    "recipeLevel": 0,
+    "displayNameDe": ""
+  },
+  "iron_plate__greaves": {
+    "id_dwbd": "procedural_platelegst2",
+    "displayName": "Iron Plate  Greaves",
+    "name": "iron_plate__greaves",
+    "categorie": "Armoring",
+    "craftingFee": 25,
+    "exp": 216,
+    "stations": [
+      "Forge Tier 2"
+    ],
+    "ingredients": [
+      {
+        "name": "iron_ingot",
+        "items": [
+          "iron_ingot",
+          "fae_iron"
+        ],
+        "displayName": "Tier 2 Metals",
+        "amount": 10
+      },
+      {
+        "name": "coarse_leather",
+        "items": [
+          "coarse_leather",
+          "ragehide",
+          "rugged_leather",
+          "shadowfur",
+          "scaly_hide",
+          "layered_leather",
+          "shifthide",
+          "brightscale_hide",
+          "infused_leather",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 6
+      },
+      {
+        "name": "linen",
+        "items": [
+          "linen",
+          "shadecloth",
+          "sateen",
+          "phasefiber",
+          "silk",
+          "scalecord",
+          "glintstrands",
+          "infused_silk",
+          "scalecloth",
+          "blisterweave",
+          "phoenixweave"
+        ],
+        "displayName": "Cloth",
+        "amount": 2
+      }
+    ],
+    "recipeLevel": 0,
+    "displayNameDe": ""
+  },
+  "iron_plate__gauntlets": {
+    "id_dwbd": "procedural_platehandst2",
+    "displayName": "Iron Plate  Gauntlets",
+    "name": "iron_plate__gauntlets",
+    "categorie": "Armoring",
+    "craftingFee": 25,
+    "exp": 108,
+    "stations": [
+      "Forge Tier 2"
+    ],
+    "ingredients": [
+      {
+        "name": "iron_ingot",
+        "items": [
+          "iron_ingot",
+          "fae_iron"
+        ],
+        "displayName": "Tier 2 Metals",
+        "amount": 4
+      },
+      {
+        "name": "coarse_leather",
+        "items": [
+          "coarse_leather",
+          "ragehide",
+          "rugged_leather",
+          "shadowfur",
+          "scaly_hide",
+          "layered_leather",
+          "shifthide",
+          "brightscale_hide",
+          "infused_leather",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 4
+      },
+      {
+        "name": "linen",
+        "items": [
+          "linen",
+          "shadecloth",
+          "sateen",
+          "phasefiber",
+          "silk",
+          "scalecord",
+          "glintstrands",
+          "infused_silk",
+          "scalecloth",
+          "blisterweave",
+          "phoenixweave"
+        ],
+        "displayName": "Cloth",
+        "amount": 1
+      }
+    ],
+    "recipeLevel": 0,
+    "displayNameDe": ""
+  },
+  "iron_plate__breastplate": {
+    "id_dwbd": "procedural_platechestt2",
+    "displayName": "Iron Plate  Breastplate",
+    "name": "iron_plate__breastplate",
+    "categorie": "Armoring",
+    "craftingFee": 25,
+    "exp": 420,
+    "stations": [
+      "Forge Tier 2"
+    ],
+    "ingredients": [
+      {
+        "name": "iron_ingot",
+        "items": [
+          "iron_ingot",
+          "fae_iron"
+        ],
+        "displayName": "Tier 2 Metals",
+        "amount": 16
+      },
+      {
+        "name": "coarse_leather",
+        "items": [
+          "coarse_leather",
+          "ragehide",
+          "rugged_leather",
+          "shadowfur",
+          "scaly_hide",
+          "layered_leather",
+          "shifthide",
+          "brightscale_hide",
+          "infused_leather",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 12
+      },
+      {
+        "name": "linen",
+        "items": [
+          "linen",
+          "shadecloth",
+          "sateen",
+          "phasefiber",
+          "silk",
+          "scalecord",
+          "glintstrands",
+          "infused_silk",
+          "scalecloth",
+          "blisterweave",
+          "phoenixweave"
+        ],
+        "displayName": "Cloth",
+        "amount": 7
+      }
+    ],
+    "recipeLevel": 0,
+    "displayNameDe": ""
+  },
+  "iron_plate_helm": {
+    "id_dwbd": "procedural_plateheadt2",
+    "displayName": "Iron Plate Helm",
+    "name": "iron_plate_helm",
+    "categorie": "Armoring",
+    "craftingFee": 25,
+    "exp": 216,
+    "stations": [
+      "Forge Tier 2"
+    ],
+    "ingredients": [
+      {
+        "name": "iron_ingot",
+        "items": [
+          "iron_ingot",
+          "fae_iron"
+        ],
+        "displayName": "Tier 2 Metals",
+        "amount": 8
+      },
+      {
+        "name": "coarse_leather",
+        "items": [
+          "coarse_leather",
+          "ragehide",
+          "rugged_leather",
+          "shadowfur",
+          "scaly_hide",
+          "layered_leather",
+          "shifthide",
+          "brightscale_hide",
+          "infused_leather",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 6
+      },
+      {
+        "name": "linen",
+        "items": [
+          "linen",
+          "shadecloth",
+          "sateen",
+          "phasefiber",
+          "silk",
+          "scalecord",
+          "glintstrands",
+          "infused_silk",
+          "scalecloth",
+          "blisterweave",
+          "phoenixweave"
+        ],
+        "displayName": "Cloth",
+        "amount": 4
+      }
+    ],
+    "recipeLevel": 0,
+    "displayNameDe": ""
+  }
+}
