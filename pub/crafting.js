@@ -18,13 +18,18 @@ async function getData(categorie, skill){
             await fetch(`./data/recipes/refining/${refcat}.json`)
                 .then(response => response.json())
                 .then(data => {
+                    // reverse so lowes recipe on top
+                    data = Object.fromEntries(Object.entries(data).reverse())
+                    // adds recipes togehter
                     resourceRecipes = Object.assign({}, resourceRecipes, data)
                 });
         }
+
         await fetch(`./data/recipes/crafting/${skill}.json`)
             .then(response => response.json())
             .then(data => {
-                dynamicRecipes = data
+                //reverse so iron is on top
+                dynamicRecipes = Object.fromEntries(Object.entries(data).reverse())
             });
 
     }catch (e) {}
