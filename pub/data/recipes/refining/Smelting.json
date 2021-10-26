@@ -18,7 +18,6 @@
       {
         "name": "tolvium",
         "displayName": "Tolvium",
-        "displayName": "Tolvium",
         "amount": 1
       },
       {
@@ -303,78 +302,6 @@
         ],
         "displayName": "Wood",
         "amount": 2
-      }
-    ]
-  },
-  "fire_wisp": {
-    "name": "fire_wisp",
-    "categorie": "arcana",
-    "craftingFee": 0.15,
-    "exp": 15,
-    "ingredients": [
-      {
-        "name": "fire_mote",
-        "amount": 5
-      }
-    ]
-  },
-  "fire_essence": {
-    "name": "fire_essence",
-    "categorie": "arcana",
-    "craftingFee": 0.37,
-    "exp": 48,
-    "ingredients": [
-      {
-        "name": "fire_wisp",
-        "amount": 4
-      }
-    ]
-  },
-  "fire_quintessence": {
-    "name": "fire_quintessence",
-    "categorie": "arcana",
-    "craftingFee": 0.9,
-    "exp": 90,
-    "ingredients": [
-      {
-        "name": "fire_essence",
-        "amount": 3
-      }
-    ]
-  },
-  "life_wisp": {
-    "name": "life_wisp",
-    "categorie": "arcana",
-    "craftingFee": 0.15,
-    "exp": 15,
-    "ingredients": [
-      {
-        "name": "life_mote",
-        "amount": 5
-      }
-    ]
-  },
-  "life_essence": {
-    "name": "life_essence",
-    "categorie": "arcana",
-    "craftingFee": 0.37,
-    "exp": 48,
-    "ingredients": [
-      {
-        "name": "life_wisp",
-        "amount": 4
-      }
-    ]
-  },
-  "life_quintessence": {
-    "name": "life_quintessence",
-    "categorie": "arcana",
-    "craftingFee": 0.9,
-    "exp": 90,
-    "ingredients": [
-      {
-        "name": "life_essence",
-        "amount": 3
       }
     ]
   }

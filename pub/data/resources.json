@@ -51,8 +51,32 @@
     "name": "sand_flux",
     "type": "raw"
   },
-  "sand_paper": {
-    "name": "sand_paper",
+  "shelldust_flux": {
+    "name": "shelldust_flux",
+    "type": "raw"
+  },
+  "obsidian_flux": {
+    "name": "obsidian_flux",
+    "type": "raw"
+  },
+  "tolvium": {
+    "name": "tolvium",
+    "type": "raw"
+  },
+  "cinnabar": {
+    "name": "cinnabar",
+    "type": "raw"
+  },
+  "coarse_sandpaper": {
+    "name": "coarse_sandpaper",
+    "type": "raw"
+  },
+  "fine_sandpaper": {
+    "name": "fine_sandpaper",
+    "type": "raw"
+  },
+  "obsidian_sandpaper": {
+    "name": "obsidian_sandpaper",
     "type": "raw"
   },
   "tannin": {
@@ -99,12 +123,12 @@
     "name": "ironwood_planks",
     "type": "crafted"
   },
-  "raw_hide": {
-    "name": "raw_hide",
+  "rawhide": {
+    "name": "rawhide",
     "type": "raw"
   },
-  "thick_leather": {
-    "name": "thick_leather",
+  "thick_hide": {
+    "name": "thick_hide",
     "type": "raw"
   },
   "iron_hide": {

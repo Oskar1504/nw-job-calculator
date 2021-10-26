@@ -1,0 +1,147 @@
+{
+  "runic_leather": {
+    "id_dwbd": "leathert51",
+    "displayName": "Runic Leather",
+    "name": "runic_leather",
+    "categorie": "Leatherworking",
+    "craftingFee": 19,
+    "exp": 6160,
+    "stations": [
+      "Tannery Tier 5"
+    ],
+    "ingredients": [
+      {
+        "name": "infused_leather",
+        "displayName": "Infused Leather",
+        "amount": 5
+      },
+      {
+        "name": "smolderhide",
+        "displayName": "Smolderhide",
+        "amount": 1
+      },
+      {
+        "name": "scarhide",
+        "displayName": "Scarhide",
+        "amount": 1
+      },
+      {
+        "name": "aged_tannin",
+        "displayName": "Aged Tannin",
+        "amount": 1
+      }
+    ]
+  },
+  "infused_leather": {
+    "id_dwbd": "leathert5",
+    "displayName": "Infused Leather",
+    "name": "infused_leather",
+    "categorie": "Leatherworking",
+    "craftingFee": 13,
+    "exp": 8470,
+    "stations": [
+      "Tannery Tier 5"
+    ],
+    "ingredients": [
+      {
+        "name": "iron_hide",
+        "displayName": "Iron Hide",
+        "amount": 8
+      },
+      {
+        "name": "layered_leather",
+        "displayName": "Layered Leather",
+        "amount": 2
+      },
+      {
+        "name": "tannin",
+        "items": [
+          "aged_tannin",
+          "tannin",
+          "rested_tannin"
+        ],
+        "displayName": "Tannin",
+        "amount": 1
+      }
+    ]
+  },
+  "layered_leather": {
+    "id_dwbd": "leathert4",
+    "displayName": "Layered Leather",
+    "name": "layered_leather",
+    "categorie": "Leatherworking",
+    "craftingFee": 7,
+    "exp": 1665,
+    "stations": [
+      "Tannery Tier 4"
+    ],
+    "ingredients": [
+      {
+        "name": "thick_hide",
+        "displayName": "Thick Hide",
+        "amount": 6
+      },
+      {
+        "name": "rugged_leather",
+        "displayName": "Rugged Leather",
+        "amount": 2
+      },
+      {
+        "name": "tannin",
+        "items": [
+          "rested_tannin",
+          "tannin",
+          "aged_tannin"
+        ],
+        "displayName": "Tannin",
+        "amount": 1
+      }
+    ]
+  },
+  "rugged_leather": {
+    "id_dwbd": "leathert3",
+    "displayName": "Rugged Leather",
+    "name": "rugged_leather",
+    "categorie": "Leatherworking",
+    "craftingFee": 4,
+    "exp": 190,
+    "stations": [
+      "Tannery Tier 3"
+    ],
+    "ingredients": [
+      {
+        "name": "coarse_leather",
+        "displayName": "Coarse Leather",
+        "amount": 4
+      },
+      {
+        "name": "tannin",
+        "items": [
+          "tannin",
+          "rested_tannin",
+          "aged_tannin"
+        ],
+        "displayName": "Tannin",
+        "amount": 1
+      }
+    ]
+  },
+  "coarse_leather": {
+    "id_dwbd": "leathert2",
+    "displayName": "Coarse Leather",
+    "name": "coarse_leather",
+    "categorie": "Leatherworking",
+    "craftingFee": 1,
+    "exp": 36,
+    "stations": [
+      "Tannery Tier 3"
+    ],
+    "ingredients": [
+      {
+        "name": "rawhide",
+        "displayName": "Rawhide",
+        "amount": 4
+      }
+    ]
+  }
+}

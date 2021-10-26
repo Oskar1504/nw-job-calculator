@@ -1,0 +1,152 @@
+{
+  "glittering_ebony": {
+    "id_dwbd": "timbert51",
+    "displayName": "Glittering Ebony",
+    "name": "glittering_ebony",
+    "categorie": "Woodworking",
+    "craftingFee": 19,
+    "exp": 6930,
+    "stations": [
+      "Woodshop Tier 5"
+    ],
+    "ingredients": [
+      {
+        "name": "ironwood_planks",
+        "displayName": "Ironwood Planks",
+        "amount": 5
+      },
+      {
+        "name": "wildwood",
+        "displayName": "Wildwood",
+        "amount": 2
+      },
+      {
+        "name": "barbvine",
+        "displayName": "Barbvine",
+        "amount": 1
+      },
+      {
+        "name": "obsidian_sandpaper",
+        "displayName": "Obsidian Sandpaper",
+        "amount": 1
+      }
+    ]
+  },
+  "ironwood_planks": {
+    "id_dwbd": "timbert5",
+    "displayName": "Ironwood Planks",
+    "name": "ironwood_planks",
+    "categorie": "Woodworking",
+    "craftingFee": 13,
+    "exp": 8470,
+    "stations": [
+      "Woodshop Tier 5"
+    ],
+    "ingredients": [
+      {
+        "name": "ironwood",
+        "displayName": "Ironwood",
+        "amount": 8
+      },
+      {
+        "name": "wyrdwood_planks",
+        "displayName": "Wyrdwood Planks",
+        "amount": 2
+      },
+      {
+        "name": "coarse_sandpaper",
+        "items": [
+          "obsidian_sandpaper",
+          "coarse_sandpaper",
+          "fine_sandpaper"
+        ],
+        "displayName": "Sandpaper",
+        "amount": 1
+      }
+    ]
+  },
+  "wyrdwood_planks": {
+    "id_dwbd": "timbert4",
+    "displayName": "Wyrdwood Planks",
+    "name": "wyrdwood_planks",
+    "categorie": "Woodworking",
+    "craftingFee": 7,
+    "exp": 1665,
+    "stations": [
+      "Woodshop Tier 4"
+    ],
+    "ingredients": [
+      {
+        "name": "wyrdwood",
+        "displayName": "Wyrdwood",
+        "amount": 6
+      },
+      {
+        "name": "lumber",
+        "displayName": "Lumber",
+        "amount": 2
+      },
+      {
+        "name": "coarse_sandpaper",
+        "items": [
+          "fine_sandpaper",
+          "coarse_sandpaper",
+          "obsidian_sandpaper"
+        ],
+        "displayName": "Sandpaper",
+        "amount": 1
+      }
+    ]
+  },
+  "lumber": {
+    "id_dwbd": "timbert3",
+    "displayName": "Lumber",
+    "name": "lumber",
+    "categorie": "Woodworking",
+    "craftingFee": 4,
+    "exp": 266,
+    "stations": [
+      "Woodshop Tier 3"
+    ],
+    "ingredients": [
+      {
+        "name": "aged_wood",
+        "displayName": "Aged Wood",
+        "amount": 4
+      },
+      {
+        "name": "timber",
+        "displayName": "Timber",
+        "amount": 2
+      },
+      {
+        "name": "coarse_sandpaper",
+        "items": [
+          "coarse_sandpaper",
+          "fine_sandpaper",
+          "obsidian_sandpaper"
+        ],
+        "displayName": "Sandpaper",
+        "amount": 1
+      }
+    ]
+  },
+  "timber": {
+    "id_dwbd": "timbert2",
+    "displayName": "Timber",
+    "name": "timber",
+    "categorie": "Woodworking",
+    "craftingFee": 1,
+    "exp": 36,
+    "stations": [
+      "Woodshop Tier 3"
+    ],
+    "ingredients": [
+      {
+        "name": "green_wood",
+        "displayName": "Green Wood",
+        "amount": 4
+      }
+    ]
+  }
+}
