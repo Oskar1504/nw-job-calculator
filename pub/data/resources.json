@@ -87,6 +87,26 @@
     "name": "crossweave",
     "type": "raw"
   },
+  "stone": {
+    "name": "stone",
+    "type": "raw"
+  },
+  "lodestone": {
+    "name": "lodestone",
+    "type": "raw"
+  },
+  "stone_block": {
+    "name": "stone_block",
+    "type": "crafted"
+  },
+  "stone_brick": {
+    "name": "stone_brick",
+    "type": "crafted"
+  },
+  "lodestone_brick": {
+    "name": "lodestone_brick",
+    "type": "crafted"
+  },
   "charcoal": {
     "name": "charcoal",
     "type": "crafted"
