@@ -60,7 +60,7 @@
                         <h6 class="my-0">Experience needed:</h6>
                         <strong>{{ deformat(stats.expNeeded) }}</strong>
                     </li>
-                    <li v-if="form.recipe.experience  && form.selectedCategorie == 'crafting'" class="list-group-item d-flex justify-content-between lh-sm">
+                    <li v-if="form.recipe.exp  && form.selectedCategorie == 'crafting'" class="list-group-item d-flex justify-content-between lh-sm">
                         <h6 class="my-0">Crafting times</h6>
                         <strong>{{  deformat(stats.craftingAmount) }}</strong>
                     </li>
@@ -133,7 +133,7 @@
                                 <div class="col-sm-3">
                                     <label for="startLevel" class="form-label">Recipe</label>
                                     <select v-model="form.recipe" class="form-select mb-3" aria-label=".form-select-lg example">
-                                        <option v-for="recipe in recipes" :value="recipe">{{recipe.name}}</option>
+                                        <option v-for="recipe in recipes" :value="recipe">{{recipe.displayName}}</option>
                                     </select>
                                 </div>
 
