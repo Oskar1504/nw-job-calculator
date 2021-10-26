@@ -668,5 +668,59 @@
     ],
     "recipeLevel": 0,
     "displayNameDe": ""
+  },
+  "fire_wisp": {
+    "name": "fire_wisp",
+    "categorie": "Arcana",
+    "craftingFee": 0.15,
+    "exp": 15,
+    "ingredients": [
+      {
+        "name": "fire_mote",
+        "items": [
+          "fire_mote"
+        ],
+        "amount": 5,
+        "displayName": "Fire Mote"
+      }
+    ],
+    "recipeLevel": 0,
+    "displayName": "Fire Wisp"
+  },
+  "fire_essence": {
+    "name": "fire_essence",
+    "categorie": "Arcana",
+    "craftingFee": 0.37,
+    "exp": 48,
+    "ingredients": [
+      {
+        "name": "fire_wisp",
+        "items": [
+          "fire_wisp"
+        ],
+        "amount": 4,
+        "displayName": "Fire Wisp"
+      }
+    ],
+    "recipeLevel": 0,
+    "displayName": "Fire Essence"
+  },
+  "fire_quintessence": {
+    "name": "fire_quintessence",
+    "categorie": "Arcana",
+    "craftingFee": 0.9,
+    "exp": 90,
+    "ingredients": [
+      {
+        "name": "fire_essence",
+        "items": [
+          "fire_essence"
+        ],
+        "amount": 3,
+        "displayName": "Fire Essence"
+      }
+    ],
+    "recipeLevel": 0,
+    "displayName": "Fire Quintessence"
   }
 }
