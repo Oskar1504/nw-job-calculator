@@ -52,7 +52,7 @@ var app = new Vue({
         options:{
             categories:["refining","crafting"],
             refining:["Smelting","Woodworking","Leatherworking","Weaving","Stonecutting"],
-            crafting:["Arcana","Armoring","Cooking","Engineering","Furnishing","Jewelcraft","Weaponsmithing"],
+            crafting:["Arcana","Armoring","Cooking","Engineering","Furnishing","Jewelcrafting","Weaponsmithing"],
         },
         history:{
             keys:[],

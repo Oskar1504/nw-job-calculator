@@ -1,0 +1,362 @@
+{
+  "asmodeum_setting": {
+    "id_dwbd": "trinket_settingt51",
+    "displayName": "Asmodeum Setting",
+    "name": "asmodeum_setting",
+    "categorie": "Jewelcrafting",
+    "craftingFee": 218,
+    "exp": 208,
+    "stations": [
+      "Outfitting Station Tier 5"
+    ],
+    "ingredients": [
+      {
+        "name": "asmodeum",
+        "displayName": "Asmodeum",
+        "amount": 4
+      }
+    ]
+  },
+  "asmodeum_chain": {
+    "id_dwbd": "trinket_chaint51",
+    "displayName": "Asmodeum Chain",
+    "name": "asmodeum_chain",
+    "categorie": "Jewelcrafting",
+    "craftingFee": 218,
+    "exp": 416,
+    "stations": [
+      "Outfitting Station Tier 5"
+    ],
+    "ingredients": [
+      {
+        "name": "asmodeum",
+        "displayName": "Asmodeum",
+        "amount": 8
+      }
+    ]
+  },
+  "asmodeum_hook": {
+    "id_dwbd": "trinket_hookt51",
+    "displayName": "Asmodeum Hook",
+    "name": "asmodeum_hook",
+    "categorie": "Jewelcrafting",
+    "craftingFee": 218,
+    "exp": 416,
+    "stations": [
+      "Outfitting Station Tier 5"
+    ],
+    "ingredients": [
+      {
+        "name": "asmodeum",
+        "displayName": "Asmodeum",
+        "amount": 8
+      }
+    ]
+  },
+  "asmodeum_band": {
+    "id_dwbd": "trinket_bandt51",
+    "displayName": "Asmodeum Band",
+    "name": "asmodeum_band",
+    "categorie": "Jewelcrafting",
+    "craftingFee": 218,
+    "exp": 416,
+    "stations": [
+      "Outfitting Station Tier 5"
+    ],
+    "ingredients": [
+      {
+        "name": "asmodeum",
+        "displayName": "Asmodeum",
+        "amount": 8
+      }
+    ]
+  },
+  "orichalcum_setting": {
+    "id_dwbd": "trinket_settingt5",
+    "displayName": "Orichalcum Setting",
+    "name": "orichalcum_setting",
+    "categorie": "Jewelcrafting",
+    "craftingFee": 90,
+    "exp": 208,
+    "stations": [
+      "Outfitting Station Tier 5"
+    ],
+    "ingredients": [
+      {
+        "name": "orichalcum_ingot",
+        "displayName": "Orichalcum Ingot",
+        "amount": 4
+      }
+    ]
+  },
+  "orichalcum_chain": {
+    "id_dwbd": "trinket_chaint5",
+    "displayName": "Orichalcum Chain",
+    "name": "orichalcum_chain",
+    "categorie": "Jewelcrafting",
+    "craftingFee": 90,
+    "exp": 416,
+    "stations": [
+      "Outfitting Station Tier 5"
+    ],
+    "ingredients": [
+      {
+        "name": "orichalcum_ingot",
+        "displayName": "Orichalcum Ingot",
+        "amount": 8
+      }
+    ]
+  },
+  "orichalcum_hook": {
+    "id_dwbd": "trinket_hookt5",
+    "displayName": "Orichalcum Hook",
+    "name": "orichalcum_hook",
+    "categorie": "Jewelcrafting",
+    "craftingFee": 90,
+    "exp": 416,
+    "stations": [
+      "Outfitting Station Tier 5"
+    ],
+    "ingredients": [
+      {
+        "name": "orichalcum_ingot",
+        "displayName": "Orichalcum Ingot",
+        "amount": 8
+      }
+    ]
+  },
+  "orichalcum_band": {
+    "id_dwbd": "trinket_bandt5",
+    "displayName": "Orichalcum Band",
+    "name": "orichalcum_band",
+    "categorie": "Jewelcrafting",
+    "craftingFee": 90,
+    "exp": 416,
+    "stations": [
+      "Outfitting Station Tier 5"
+    ],
+    "ingredients": [
+      {
+        "name": "orichalcum_ingot",
+        "displayName": "Orichalcum Ingot",
+        "amount": 8
+      }
+    ]
+  },
+  "platinum_setting": {
+    "id_dwbd": "trinket_settingt4",
+    "displayName": "Platinum Setting",
+    "name": "platinum_setting",
+    "categorie": "Jewelcrafting",
+    "craftingFee": 37,
+    "exp": 104,
+    "stations": [
+      "Outfitting Station Tier 4"
+    ],
+    "ingredients": [
+      {
+        "name": "platinum_ingot",
+        "displayName": "Platinum Ingot",
+        "amount": 4
+      }
+    ]
+  },
+  "platinum_chain": {
+    "id_dwbd": "trinket_chaint4",
+    "displayName": "Platinum Chain",
+    "name": "platinum_chain",
+    "categorie": "Jewelcrafting",
+    "craftingFee": 37,
+    "exp": 182,
+    "stations": [
+      "Outfitting Station Tier 4"
+    ],
+    "ingredients": [
+      {
+        "name": "platinum_ingot",
+        "displayName": "Platinum Ingot",
+        "amount": 7
+      }
+    ]
+  },
+  "platinum_hook": {
+    "id_dwbd": "trinket_hookt4",
+    "displayName": "Platinum Hook",
+    "name": "platinum_hook",
+    "categorie": "Jewelcrafting",
+    "craftingFee": 37,
+    "exp": 182,
+    "stations": [
+      "Outfitting Station Tier 4"
+    ],
+    "ingredients": [
+      {
+        "name": "platinum_ingot",
+        "displayName": "Platinum Ingot",
+        "amount": 7
+      }
+    ]
+  },
+  "platinum_band": {
+    "id_dwbd": "trinket_bandt4",
+    "displayName": "Platinum Band",
+    "name": "platinum_band",
+    "categorie": "Jewelcrafting",
+    "craftingFee": 37,
+    "exp": 182,
+    "stations": [
+      "Outfitting Station Tier 4"
+    ],
+    "ingredients": [
+      {
+        "name": "platinum_ingot",
+        "displayName": "Platinum Ingot",
+        "amount": 7
+      }
+    ]
+  },
+  "gold_setting": {
+    "id_dwbd": "trinket_settingt3",
+    "displayName": "Gold Setting",
+    "name": "gold_setting",
+    "categorie": "Jewelcrafting",
+    "craftingFee": 15,
+    "exp": 36,
+    "stations": [
+      "Outfitting Station Tier 3"
+    ],
+    "ingredients": [
+      {
+        "name": "gold_ingot",
+        "displayName": "Gold Ingot",
+        "amount": 4
+      }
+    ]
+  },
+  "gold_chain": {
+    "id_dwbd": "trinket_chaint3",
+    "displayName": "Gold Chain",
+    "name": "gold_chain",
+    "categorie": "Jewelcrafting",
+    "craftingFee": 15,
+    "exp": 54,
+    "stations": [
+      "Outfitting Station Tier 3"
+    ],
+    "ingredients": [
+      {
+        "name": "gold_ingot",
+        "displayName": "Gold Ingot",
+        "amount": 6
+      }
+    ]
+  },
+  "gold_hook": {
+    "id_dwbd": "trinket_hookt3",
+    "displayName": "Gold Hook",
+    "name": "gold_hook",
+    "categorie": "Jewelcrafting",
+    "craftingFee": 15,
+    "exp": 54,
+    "stations": [
+      "Outfitting Station Tier 3"
+    ],
+    "ingredients": [
+      {
+        "name": "gold_ingot",
+        "displayName": "Gold Ingot",
+        "amount": 6
+      }
+    ]
+  },
+  "gold_band": {
+    "id_dwbd": "trinket_bandt3",
+    "displayName": "Gold Band",
+    "name": "gold_band",
+    "categorie": "Jewelcrafting",
+    "craftingFee": 15,
+    "exp": 54,
+    "stations": [
+      "Outfitting Station Tier 3"
+    ],
+    "ingredients": [
+      {
+        "name": "gold_ingot",
+        "displayName": "Gold Ingot",
+        "amount": 6
+      }
+    ]
+  },
+  "silver_setting": {
+    "id_dwbd": "trinket_settingt2",
+    "displayName": "Silver Setting",
+    "name": "silver_setting",
+    "categorie": "Jewelcrafting",
+    "craftingFee": 5,
+    "exp": 12,
+    "stations": [
+      "Outfitting Station Tier 2"
+    ],
+    "ingredients": [
+      {
+        "name": "silver_ingot",
+        "displayName": "Silver Ingot",
+        "amount": 4
+      }
+    ]
+  },
+  "silver_chain": {
+    "id_dwbd": "trinket_chaint2",
+    "displayName": "Silver Chain",
+    "name": "silver_chain",
+    "categorie": "Jewelcrafting",
+    "craftingFee": 5,
+    "exp": 15,
+    "stations": [
+      "Outfitting Station Tier 2"
+    ],
+    "ingredients": [
+      {
+        "name": "silver_ingot",
+        "displayName": "Silver Ingot",
+        "amount": 5
+      }
+    ]
+  },
+  "silver_hook": {
+    "id_dwbd": "trinket_hookt2",
+    "displayName": "Silver Hook",
+    "name": "silver_hook",
+    "categorie": "Jewelcrafting",
+    "craftingFee": 5,
+    "exp": 15,
+    "stations": [
+      "Outfitting Station Tier 2"
+    ],
+    "ingredients": [
+      {
+        "name": "silver_ingot",
+        "displayName": "Silver Ingot",
+        "amount": 5
+      }
+    ]
+  },
+  "silver_band": {
+    "id_dwbd": "trinket_bandt2",
+    "displayName": "Silver Band",
+    "name": "silver_band",
+    "categorie": "Jewelcrafting",
+    "craftingFee": 5,
+    "exp": 15,
+    "stations": [
+      "Outfitting Station Tier 2"
+    ],
+    "ingredients": [
+      {
+        "name": "silver_ingot",
+        "displayName": "Silver Ingot",
+        "amount": 5
+      }
+    ]
+  }
+}

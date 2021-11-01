@@ -58,7 +58,7 @@ var app = new Vue({
         recipes: [],
         options:{
             categories:["crafting","gathering"],
-            crafting:["Arcana","Armoring","Cooking","Engineering","Furnishing","Jewelcraft","Weaponsmithing"],
+            crafting:["Arcana","Armoring","Cooking","Engineering","Furnishing","Jewelcrafting","Weaponsmithing"],
             gathering:["Logging","Mining","Fishing","Harvesting","Skinning"]
         },
         history:{
