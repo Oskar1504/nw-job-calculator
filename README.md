@@ -3,6 +3,8 @@ Small web tool which calculates how much resources need to get from level x -> y
 
 hosted at https://projectlifetime.de/nwdb/
 
+Recipes/exp table data from https://nwdb.info
+
 ## Add recipes
 - navigate to pub/data/recipes
 - add an file or edit an existing file.
