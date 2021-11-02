@@ -1,0 +1,23 @@
+body{
+    background-color: #292b2f !important;
+    color:#e0e0e0 !important;
+}
+.form-select{
+    background-color: #4f545c !important;
+    color:#e0e0e0 !important;
+}
+.form-control{
+    background-color: #4f545c !important;
+    color:#e0e0e0 !important;
+}
+.list-group .list-group-item{
+    background-color: #4f545c !important;
+    color: #e0e0e0 !important;
+}
+.text-muted{
+    color: #e0e0e0 !important;
+}
+
+.link-dark{
+    color: #e0e0e0 !important;
+}
