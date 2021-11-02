@@ -230,5 +230,21 @@
   "life_quintessence": {
     "name": "life_quintessence",
     "type": "crafted"
+  },
+  "silver_chain": {
+    "name": "silver_chain",
+    "type": "crafted"
+  },
+  "silver_setting": {
+    "name": "silver_setting",
+    "type": "crafted"
+  },
+  "gold_chain": {
+    "name": "gold_chain",
+    "type": "crafted"
+  },
+  "gold_setting": {
+    "name": "gold_setting",
+    "type": "crafted"
   }
 }

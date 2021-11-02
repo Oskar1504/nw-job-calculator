@@ -358,5 +358,56 @@
         "amount": 5
       }
     ]
+  },
+  "flawed_amulet": {
+    "id_dwbd": "procedural_amuletcarneliant2",
+    "displayName": "Flawed xxxxx Amulet",
+    "name": "flawed_amulet",
+    "categorie": "Jewelcrafting",
+    "craftingFee": 25,
+    "exp": 192,
+    "stations": [
+      "Outfitting Station Tier 2Outfitting Station Tier 2"
+    ],
+    "ingredients": [
+      {
+        "name": "cut_flawed_gem",
+        "items": [
+          "cut_flawed_gem"
+        ],
+        "displayName": "Cut flawed gems",
+        "amount": 1
+      },
+      {
+        "name": "silver_chain",
+        "items": [
+          "silver_chain",
+          "gold_chain",
+          "platin_chain"
+        ],
+        "displayName": "Trinket Chains",
+        "amount": 1
+      },
+      {
+        "name": "silver_setting",
+        "items": [
+          "silver_setting",
+          "gold_setting"
+        ],
+        "displayName": "Gem Settings",
+        "amount": 1
+      },
+      {
+        "name": "silver_ingot",
+        "items": [
+          "silver_ingot",
+          "gold_ingot"
+        ],
+        "displayName": "Precious Metals",
+        "amount": 1
+      }
+    ],
+    "recipeLevel": 0,
+    "displayNameDe": ""
   }
 }
