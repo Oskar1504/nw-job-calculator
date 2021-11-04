@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>NW Gem overview</title>
+    <!-- VUE.JS development version, includes helpful console warnings -->
+    <script src="https://cdn.jsdelivr.net/npm/vue@2/dist/vue.js"></script>
+    <!--BOOTSTRAP 5-->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <!--CHART.JS-->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="app">
+    <header>
+        <div class="collapse bg-dark" id="navbarHeader">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-8 col-md-7 py-4">
+                        <h4 class="text-white">About</h4>
+                        <p class="text-white">Hello i'm Oskar.</p>
+                        <p> Data from <a href="https://nwdb.info/experience-table">New World Database</a></p>
+                    </div>
+                    <div class="col-sm-4 offset-md-1 py-4">
+                        <h4 class="text-white">Contact</h4>
+                        <ul class="list-unstyled">
+                            <li><a href="https://discordapp.com/users/477459599071641611" target="_blank" class="text-white">Discord Oskar#2843</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="navbar navbar-dark bg-dark shadow-sm">
+            <div class="container">
+                <div class="d-flex justify-content-start">
+                    <a href="./" class="navbar-brand  d-flex align-items-center">
+                        <strong>Level calculator</strong>
+                    </a>
+                    <a href="./crafting.html" class="navbar-brand d-flex align-items-center">
+                        <strong>Crafting calculator</strong>
+                    </a>
+                    <a href="./gems.html" class="navbar-brand d-flex align-items-center">
+                        <strong>Gems overview</strong>
+                    </a>
+                </div>
+
+                <div class="d-flex justify-content-start">
+                    <a href="https://nwdb.info" target="_blank" class="navbar-brand d-flex align-items-center">
+                        <strong>New World Database</strong>
+                    </a>
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarHeader" aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </header>
+    <div class="container">
+    <div class="table-responsive">
+        <table class="table text-center">
+            <thead>
+            <tr>
+                <th style="width: 5%;">link</th>
+                <th style="width: 20%;">Gem</th>
+                <th style="width: 75%;">Effect</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr v-for="gem in gems">
+                <td ><a :href="'https://nwdb.info/db/item/' + gem.id_dwbd" target="_blank">nwdb.info</a></td>
+                <td >{{gem.displayName}}</td>
+                <td >
+                    <div >
+                        <span>{{gem.perks[0].description.replace("${","").replace("}","")}}</span><br>
+                        <span> {{gem.perks[1].description.replace("${","").replace("}","")}}</span>
+                    </div>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+    </div>
+
+    <footer class=" container pt-4 my-md-5 pt-md-5 border-top">
+        <div class="row">
+            <div class="col-12 col-md">
+                <small class="d-block mb-3 text-muted">Created by Oskar#2843</small>
+            </div>
+            <div class="col-3 col-md">
+                <h5>Used technologies</h5>
+                <ul class="list-unstyled text-small">
+                    <li class="mb-1"><a class="link-dark text-decoration-none" target="_blank" href="https://vuejs.org">Vue.js</a></li>
+                    <li class="mb-1"><a class="link-dark text-decoration-none" target="_blank" href="https://getbootstrap.com">Bootstrap 5</a></li>
+                    <li class="mb-1"><a class="link-dark text-decoration-none" target="_blank" href="https://www.chartjs.org">Chart.js</a></li>
+                </ul>
+            </div>
+            <div class="col-3 col-md">
+                <h5>Sourcecode</h5>
+                <ul class="list-unstyled text-small">
+                    <li class="mb-1"><a class="link-dark text-decoration-none" target="_blank" href="https://github.com/Oskar1504/nw-job-calculator">Github</a></li>
+                    <li class="mb-1">Feel free to add recipes.</li>
+                </ul>
+            </div>
+            <div class="col-3 col-md">
+                <h5>Data sources</h5>
+                <ul class="list-unstyled text-small">
+                    <li class="mb-1"><a class="link-dark text-decoration-none" target="_blank" href="https://nwdb.info">New World Database</a></li>
+                </ul>
+            </div>
+            <div class="col-3 col-md">
+                <h5>Contributors</h5>
+                <ul class="list-unstyled text-small">
+                    <li class="mb-1"><a class="link-dark text-decoration-none" target="_blank" href="https://github.com/havyrl">havyrl</a></li>
+                </ul>
+            </div>
+        </div>
+    </footer>
+
+</div>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+<script src="gems.js"></script>
+</body>
+</html>

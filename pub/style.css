@@ -21,3 +21,7 @@ body{
 .link-dark{
     color: #e0e0e0 !important;
 }
+
+table,tr,td {
+    color:white;
+}

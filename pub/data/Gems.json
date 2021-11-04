@@ -1,0 +1,364 @@
+{
+  "cut_pristine_topaz": {
+    "id_dwbd": "topazcutt4",
+    "displayName": "Cut Pristine Topaz",
+    "name": "cut_pristine_topaz",
+    "perks": [
+      {
+        "id": "perkid_gem_lightningdmg4",
+        "name": "Electrified IV",
+        "description": "${50}% of damage is converted to Lightning. Damage scales off base weapon stat or INT, whichever is higher.",
+        "icon": "Icons/Items/Resource/TopazCutT4",
+        "type": "Gem",
+        "attributes": [],
+        "ScalingPerGearScore": null,
+        "DamagePercentage": 0.5,
+        "DamageType": "Lightning"
+      },
+      {
+        "id": "perkid_gem_lightningward4",
+        "name": "Lightning Ward IV",
+        "description": "+${3.75}% Lightning Damage Absorption.",
+        "icon": "Icons/Items/Resource/TopazCutT4",
+        "type": "Gem",
+        "attributes": [],
+        "ScalingPerGearScore": null
+      }
+    ]
+  },
+  "cut_pristine_sapphire": {
+    "id_dwbd": "sapphirecutt4",
+    "displayName": "Cut Pristine Sapphire",
+    "name": "cut_pristine_sapphire",
+    "perks": [
+      {
+        "id": "perkid_gem_arcanedmg4",
+        "name": "Empowered IV",
+        "description": "${50}% of damage is converted to Arcane. Damage scales off base weapon stat or INT, whichever is higher.",
+        "icon": "Icons/Items/Resource/SapphireCutT4",
+        "type": "Gem",
+        "attributes": [],
+        "ScalingPerGearScore": null,
+        "DamagePercentage": 0.5,
+        "DamageType": "Arcane"
+      },
+      {
+        "id": "perkid_gem_arcaneward4",
+        "name": "Arcane Ward IV",
+        "description": "+${3.75}% Arcane Damage Absorption.",
+        "icon": "Icons/Items/Resource/SapphireCutT4",
+        "type": "Gem",
+        "attributes": [],
+        "ScalingPerGearScore": null
+      }
+    ]
+  },
+  "cut_pristine_ruby": {
+    "id_dwbd": "rubycutt4",
+    "displayName": "Cut Pristine Ruby",
+    "name": "cut_pristine_ruby",
+    "perks": [
+      {
+        "id": "perkid_gem_firedmg4",
+        "name": "Ignited IV",
+        "description": "${50}% of damage is converted to Fire. Damage scales off base weapon stat or INT, whichever is higher.",
+        "icon": "Icons/Items/Resource/RubyCutT4",
+        "type": "Gem",
+        "attributes": [],
+        "ScalingPerGearScore": null,
+        "DamagePercentage": 0.5,
+        "DamageType": "Fire"
+      },
+      {
+        "id": "perkid_gem_fireward4",
+        "name": "Fire Ward IV",
+        "description": "+${3.75}% Fire Damage Absorption.",
+        "icon": "Icons/Items/Resource/RubyCutT4",
+        "type": "Gem",
+        "attributes": [],
+        "ScalingPerGearScore": null
+      }
+    ]
+  },
+  "cut_pristine_opal": {
+    "id_dwbd": "opalcutt4",
+    "displayName": "Cut Pristine Opal",
+    "name": "cut_pristine_opal",
+    "perks": [
+      {
+        "id": "perkid_gem_gambitgem4",
+        "name": "Gambit IV",
+        "description": "+${15}% damage while your stamina is not full.",
+        "icon": "Icons/Items/Resource/OpalCutT4",
+        "type": "Gem",
+        "attributes": [],
+        "ScalingPerGearScore": null
+      },
+      {
+        "id": "perkid_gem_elementalward4",
+        "name": "Elemental Ward IV",
+        "description": "${2.5}% Elemental Damage Absorption.",
+        "icon": "Icons/Items/Resource/OpalCutT4",
+        "type": "Gem",
+        "attributes": [],
+        "ScalingPerGearScore": null
+      }
+    ]
+  },
+  "cut_pristine_onyx": {
+    "id_dwbd": "onyxcutt4",
+    "displayName": "Cut Pristine Onyx",
+    "name": "cut_pristine_onyx",
+    "perks": [
+      {
+        "id": "perkid_gem_brashgem4",
+        "name": "Brash IV",
+        "description": "+${30}% damage against targets with full Health.",
+        "icon": "Icons/Items/Resource/OnyxCutT4",
+        "type": "Gem",
+        "attributes": [],
+        "ScalingPerGearScore": null
+      },
+      {
+        "id": "perkid_gem_physicalward4",
+        "name": "Physical Ward IV",
+        "description": "${2.5}% Physical Damage Absorption.",
+        "icon": "Icons/Items/Resource/OnyxCutT4",
+        "type": "Gem",
+        "attributes": [],
+        "ScalingPerGearScore": null
+      }
+    ]
+  },
+  "cut_pristine_moonstone": {
+    "id_dwbd": "moonstonecutt4",
+    "displayName": "Cut Pristine Moonstone",
+    "name": "cut_pristine_moonstone",
+    "perks": [
+      {
+        "id": "perkid_gem_exhilarategem4",
+        "name": "Exhilarate IV",
+        "description": "+${24}% damage when player is below ${30}% Health.",
+        "icon": "Icons/Items/Resource/MoonstoneCutT4",
+        "type": "Gem",
+        "attributes": [],
+        "ScalingPerGearScore": null
+      },
+      {
+        "id": "perkid_gem_slashward4",
+        "name": "Slash Ward IV",
+        "description": "+${3.75}% Slash Damage Absorption.",
+        "icon": "Icons/Items/Resource/MoonstoneCutT4",
+        "type": "Gem",
+        "attributes": [],
+        "ScalingPerGearScore": null
+      }
+    ]
+  },
+  "cut_pristine_malachite": {
+    "id_dwbd": "malachitecutt4",
+    "displayName": "Cut Pristine Malachite",
+    "name": "cut_pristine_malachite",
+    "perks": [
+      {
+        "id": "perkid_gem_cruelgem4",
+        "name": "Cruel IV",
+        "description": "+${12}% damage against targets with an active Crowd Control status effect (Slow, Stun, Root.)",
+        "icon": "Icons/Items/Resource/MalachiteCutT4",
+        "type": "Gem",
+        "attributes": [],
+        "ScalingPerGearScore": null
+      },
+      {
+        "id": "perkid_gem_spectralward4",
+        "name": "Spectral Ward IV",
+        "description": "${1.8750000000000002}% Elemental and ${0.625}% Physical Damage Absorption.",
+        "icon": "Icons/Items/Resource/MalachiteCutT4",
+        "type": "Gem",
+        "attributes": [],
+        "ScalingPerGearScore": null
+      }
+    ]
+  },
+  "cut_pristine_jasper": {
+    "id_dwbd": "jaspercutt4",
+    "displayName": "Cut Pristine Jasper",
+    "name": "cut_pristine_jasper",
+    "perks": [
+      {
+        "id": "perkid_gem_retaliategem4",
+        "name": "Retaliate IV",
+        "description": "+${15}% damage after receiving 3 hits.",
+        "icon": "Icons/Items/Resource/JasperCutT4",
+        "type": "Gem",
+        "attributes": [],
+        "ScalingPerGearScore": null
+      },
+      {
+        "id": "perkid_gem_strikeward4",
+        "name": "Strike Ward IV",
+        "description": "+${3.75}% Strike Damage Absorption.",
+        "icon": "Icons/Items/Resource/JasperCutT4",
+        "type": "Gem",
+        "attributes": [],
+        "ScalingPerGearScore": null
+      }
+    ]
+  },
+  "cut_pristine_emerald": {
+    "id_dwbd": "emeraldcutt4",
+    "displayName": "Cut Pristine Emerald",
+    "name": "cut_pristine_emerald",
+    "perks": [
+      {
+        "id": "perkid_gem_opportunistgem4",
+        "name": "Opportunist IV",
+        "description": "+${20}% damage against targets with less than ${30}% Health.",
+        "icon": "Icons/Items/Resource/EmeraldCutT4",
+        "type": "Gem",
+        "attributes": [],
+        "ScalingPerGearScore": null
+      },
+      {
+        "id": "perkid_gem_thrustward4",
+        "name": "Thrust Ward IV",
+        "description": "+${3.75}% Thrust Damage Absorption.",
+        "icon": "Icons/Items/Resource/EmeraldCutT4",
+        "type": "Gem",
+        "attributes": [],
+        "ScalingPerGearScore": null
+      }
+    ]
+  },
+  "cut_pristine_diamond": {
+    "id_dwbd": "diamondcutt4",
+    "displayName": "Cut Pristine Diamond",
+    "name": "cut_pristine_diamond",
+    "perks": [
+      {
+        "id": "perkid_gem_rallygem4",
+        "name": "Rally IV",
+        "description": "+${15}% damage and outgoing healing while at full health.",
+        "icon": "Icons/Items/Resource/DiamondCutT4",
+        "type": "Gem",
+        "attributes": [],
+        "ScalingPerGearScore": null
+      },
+      {
+        "id": "perkid_gem_wildernessward4",
+        "name": "Wilderness Ward IV",
+        "description": "${1.8750000000000002}% Physical and ${0.625}% Elemental Damage Absorption.",
+        "icon": "Icons/Items/Resource/DiamondCutT4",
+        "type": "Gem",
+        "attributes": [],
+        "ScalingPerGearScore": null
+      }
+    ]
+  },
+  "cut_pristine_carnelian": {
+    "id_dwbd": "carneliancutt4",
+    "displayName": "Cut Pristine Carnelian",
+    "name": "cut_pristine_carnelian",
+    "perks": [
+      {
+        "id": "perkid_gem_threatadd4",
+        "name": "Taunting IV",
+        "description": "Taunts are active. You generate +${300 * perkMultiplier}% more threat.",
+        "icon": "Icons/Items/Resource/CarnelianCutT4",
+        "type": "Gem",
+        "attributes": [],
+        "ScalingPerGearScore": null
+      },
+      {
+        "id": "perkid_gem_threatsub4",
+        "name": "Calming IV",
+        "description": "You generate ${10 * perkMultiplier}% less threat.",
+        "icon": "Icons/Items/Resource/CarnelianCutT4",
+        "type": "Gem",
+        "attributes": [],
+        "ScalingPerGearScore": null
+      }
+    ]
+  },
+  "cut_pristine_aquamarine": {
+    "id_dwbd": "aquamarinecutt4",
+    "displayName": "Cut Pristine Aquamarine",
+    "name": "cut_pristine_aquamarine",
+    "perks": [
+      {
+        "id": "perkid_gem_icedmg4",
+        "name": "Frozen IV",
+        "description": "${50}% of damage is converted to Ice. Damage scales off base weapon stat or INT, whichever is higher.",
+        "icon": "Icons/Items/Resource/AquamarineCutT4",
+        "type": "Gem",
+        "attributes": [],
+        "ScalingPerGearScore": null,
+        "DamagePercentage": 0.5,
+        "DamageType": "Ice"
+      },
+      {
+        "id": "perkid_gem_iceward4",
+        "name": "Ice Ward IV",
+        "description": "+${3.75}% Ice Damage Absorption.",
+        "icon": "Icons/Items/Resource/AquamarineCutT4",
+        "type": "Gem",
+        "attributes": [],
+        "ScalingPerGearScore": null
+      }
+    ]
+  },
+  "cut_pristine_amethyst": {
+    "id_dwbd": "amethystcutt4",
+    "displayName": "Cut Pristine Amethyst",
+    "name": "cut_pristine_amethyst",
+    "perks": [
+      {
+        "id": "perkid_gem_voiddmg4",
+        "name": "Abyssal IV",
+        "description": "${50}% of damage is converted to Void. Damage scales off base weapon stat or INT, whichever is higher.",
+        "icon": "Icons/Items/Resource/AmethystCutT4",
+        "type": "Gem",
+        "attributes": [],
+        "ScalingPerGearScore": null,
+        "DamagePercentage": 0.5,
+        "DamageType": "Corruption"
+      },
+      {
+        "id": "perkid_gem_abyssalward4",
+        "name": "Abyssal Ward IV",
+        "description": "+${6}% Void Damage Absorption.",
+        "icon": "Icons/Items/Resource/AmethystCutT4",
+        "type": "Gem",
+        "attributes": [],
+        "ScalingPerGearScore": null
+      }
+    ]
+  },
+  "cut_pristine_amber": {
+    "id_dwbd": "ambercutt4",
+    "displayName": "Cut Pristine Amber",
+    "name": "cut_pristine_amber",
+    "perks": [
+      {
+        "id": "perkid_gem_naturedmg4",
+        "name": "Arboreal IV",
+        "description": "${50}% of damage is converted to Nature. Damage scales off base weapon stat or FOC, whichever is higher.",
+        "icon": "Icons/Items/Resource/AmberCutT4",
+        "type": "Gem",
+        "attributes": [],
+        "ScalingPerGearScore": null,
+        "DamagePercentage": 0.5,
+        "DamageType": "Nature"
+      },
+      {
+        "id": "perkid_gem_natureward4",
+        "name": "Nature Ward IV",
+        "description": "+${3.75}% Nature Damage Absorption.",
+        "icon": "Icons/Items/Resource/AmberCutT4",
+        "type": "Gem",
+        "attributes": [],
+        "ScalingPerGearScore": null
+      }
+    ]
+  }
+}
