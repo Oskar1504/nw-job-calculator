@@ -171,8 +171,8 @@
     "name": "infused_leather",
     "type": "crafted"
   },
-  "fiber": {
-    "name": "fiber",
+  "fibers": {
+    "name": "fibers",
     "type": "raw"
   },
   "silk_threads": {
