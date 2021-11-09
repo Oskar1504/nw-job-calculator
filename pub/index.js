@@ -53,7 +53,8 @@ var app = new Vue({
             selectedJob:"Engineering",
             recipe:1,
             selectedCategorie:"crafting",
-            gatheringValue:166
+            gatheringValue:166,
+            bonus_refining:10
         },
         recipes: [],
         options:{
@@ -87,6 +88,9 @@ var app = new Vue({
                 targetExp:expNeeded[2],
                 craftingAmount: craftingAmount
             }
+        },
+        bonus_percent: function () {
+            return (100-this.form.bonus_refining)/100
         }
     },
     created(){

@@ -2253,6 +2253,57 @@
     "recipeLevel": 0,
     "displayNameDe": ""
   },
+  "linen_breastplate": {
+    "id_dwbd": "procedural_lightchest_dresst2",
+    "displayName": "Linen Breastplate",
+    "name": "linen_breastplate",
+    "categorie": "Armoring",
+    "craftingFee": 25,
+    "exp": 420,
+    "stations": [
+      "Forge Tier 2"
+    ],
+    "ingredients": [
+      {
+        "name": "linen",
+        "items": [
+          "linen"
+        ],
+        "displayName": "Tier 2 Linen",
+        "amount": 22
+      },
+      {
+        "name": "coarse_leather",
+        "items": [
+          "coarse_leather",
+          "ragehide",
+          "rugged_leather",
+          "shadowfur",
+          "scaly_hide",
+          "layered_leather",
+          "shifthide",
+          "brightscale_hide",
+          "infused_leather",
+          "scarhide",
+          "smolderhide",
+          "runic_leather"
+        ],
+        "displayName": "Leathers",
+        "amount": 12
+      },
+      {
+        "name": "iron_ingot",
+        "items": [
+          "iron_ingot",
+          "fae_iron"
+        ],
+        "displayName": "Tier 2 Metal",
+        "amount": 1
+      }
+    ],
+    "recipeLevel": 0,
+    "displayNameDe": ""
+  },
   "iron_plate_helm": {
     "id_dwbd": "procedural_plateheadt2",
     "displayName": "Iron Plate Helm",

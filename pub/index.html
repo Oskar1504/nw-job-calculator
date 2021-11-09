@@ -91,7 +91,10 @@
                                 {{ rawResource.amount }} x {{ rawResource.name }}
                                 <span class="text-muted f-6">x {{stats.craftingAmount }}</span>
                             </h6>
-                            <h6 class="my-0">Total: {{  deformat(rawResource.amount * stats.craftingAmount) }}</h6>
+                            <div>
+                                <h6 class="my-0">Total: {{  deformat(rawResource.amount * stats.craftingAmount) }}</h6>
+                                <h8 class="text-muted my-0">Bonus %: {{  deformat(rawResource.amount * stats.craftingAmount * bonus_percent) }}</h8>
+                            </div>
                         </li>
                         <li class="list-group-item d-flex justify-content-center  ">
                             <button class="btn btn-outline-primary btn-sm" @click="saveHistory()">Save selection</button>
@@ -153,10 +156,13 @@
                                 </div>
 
                                 <div class="col-sm-3">
-                                    <label for="startLevel" class="form-label">Experience: {{form.recipe.experience}}</label>
+                                    <label class="form-label">Experience: {{form.recipe.exp}}</label><br>
+                                    <label class="form-label">Crafting fee: {{(form.recipe.craftingFee/100).toFixed(2)}}</label>
                                 </div>
 
                                 <div class="col-sm-6">
+                                    <label  class="form-label">Bonus % when refining resources</label>
+                                    <input v-model="form.bonus_refining" type="number" class="form-control" value="10">
                                 </div>
 
 
