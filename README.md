@@ -1,7 +1,7 @@
 # nw-job-calculator
 Small web tool which calculates how much resources need to get from level x -> y.
 
-hosted at https://projectlifetime.de/nwdb/
+hosted at https://apps.otypes.de/nwdb/
 
 Recipes/exp table data from https://nwdb.info
 
